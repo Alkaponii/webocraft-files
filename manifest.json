@@ -43,6 +43,12 @@
       "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/lithium-fabric-0.15.0+mc1.21.1.jar"
     },
     {
+      "path": "mods/melody_fabric_1.0.10_MC_1.21.jar",
+      "sha1": "5624eea73f251c70a9489192d326f9b4aab3b13c",
+      "size": 188035,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/melody_fabric_1.0.10_MC_1.21.jar"
+    },
+    {
       "path": "mods/modernfix-fabric-5.24.1+mc1.21.1.jar",
       "sha1": "e343b99c207b7818cb403b221137986a9f852227",
       "size": 460253,
