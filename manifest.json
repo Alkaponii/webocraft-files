@@ -1,0 +1,340 @@
+{
+  "files": [
+    {
+      "path": "mods/accessories-neoforge-1.1.0-beta.52+1.21.1.jar",
+      "sha1": "c2b288a7fa9ae595e3fa9cc7deee56306474e300",
+      "size": 1078973,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/accessories-neoforge-1.1.0-beta.52+1.21.1.jar"
+    },
+    {
+      "path": "mods/Aquaculture-1.21.1-2.7.14.jar",
+      "sha1": "cc65a43df5cd086e7c4e5722b762dd61c6806443",
+      "size": 604097,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/Aquaculture-1.21.1-2.7.14.jar"
+    },
+    {
+      "path": "mods/architectury-13.0.8-neoforge.jar",
+      "sha1": "6ca11d3cc136bf69bb8f4d56982481eb85b5100b",
+      "size": 584004,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/architectury-13.0.8-neoforge.jar"
+    },
+    {
+      "path": "mods/athena-neoforge-1.21-4.0.2.jar",
+      "sha1": "069f397f1b3a30b3d5f5a98cac76304dfe345d76",
+      "size": 92698,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/athena-neoforge-1.21-4.0.2.jar"
+    },
+    {
+      "path": "mods/balm-neoforge-1.21.1-21.0.55.jar",
+      "sha1": "288003dfab9ef7d4aa600c9325cb64ce861c3d4d",
+      "size": 727272,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/balm-neoforge-1.21.1-21.0.55.jar"
+    },
+    {
+      "path": "mods/carryon-neoforge-1.21.1-2.2.2.11.jar",
+      "sha1": "081c4817a3059f06c387805c6504b315b554a2b0",
+      "size": 347647,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/carryon-neoforge-1.21.1-2.2.2.11.jar"
+    },
+    {
+      "path": "mods/chipped-neoforge-1.21.1-4.0.2.jar",
+      "sha1": "6f5395f58139802edfde7cb9170279f92f291971",
+      "size": 15020578,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/chipped-neoforge-1.21.1-4.0.2.jar"
+    },
+    {
+      "path": "mods/Chunky-NeoForge-1.4.23.jar",
+      "sha1": "ab0c74743a653020fe2dfc4986b43e893947f3e9",
+      "size": 340572,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/Chunky-NeoForge-1.4.23.jar"
+    },
+    {
+      "path": "mods/CobbleFurnies-neoforge-0.6.3.jar",
+      "sha1": "a1e22e0ec92f0d0e30aaa7101d196b88e4dd1c43",
+      "size": 1634521,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/CobbleFurnies-neoforge-0.6.3.jar"
+    },
+    {
+      "path": "mods/Cobblemon-neoforge-1.7.1+1.21.1.jar",
+      "sha1": "8135b55ab1ae2aaaaf6f44883a757f7c5aee3420",
+      "size": 123744060,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/Cobblemon-neoforge-1.7.1+1.21.1.jar"
+    },
+    {
+      "path": "mods/Cobblemon-Utility+-neoforge-1.7.1.jar",
+      "sha1": "076ce7312ae67da563a87287706755405c28b649",
+      "size": 143763,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/Cobblemon-Utility+-neoforge-1.7.1.jar"
+    },
+    {
+      "path": "mods/cobblemonintegrations-neoforge-1.21.1-1.1.4.jar",
+      "sha1": "5d4d1d081a7d8585f26b4fcc283b6dc49b206630",
+      "size": 367106,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/cobblemonintegrations-neoforge-1.21.1-1.1.4.jar"
+    },
+    {
+      "path": "mods/copycats-3.0.4+mc.1.21.1-neoforge.jar",
+      "sha1": "6a11d5806bcf521e08faba1ee6ef5f31af55ca0f",
+      "size": 1791747,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/copycats-3.0.4+mc.1.21.1-neoforge.jar"
+    },
+    {
+      "path": "mods/create-1.21.1-6.0.8.jar",
+      "sha1": "eee603ac7b083c9cd3a8ded4d4e3ed1a9a836f96",
+      "size": 19001557,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/create-1.21.1-6.0.8.jar"
+    },
+    {
+      "path": "mods/create-dragons-plus-1.8.5.jar",
+      "sha1": "5c1495b201f9f20af75d35b65be652ce8b68cdf7",
+      "size": 642543,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/create-dragons-plus-1.8.5.jar"
+    },
+    {
+      "path": "mods/create-enchantment-industry-2.2.5b.jar",
+      "sha1": "22a01df0317ab4d9207cf1c8724ec73d262ceec7",
+      "size": 678897,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/create-enchantment-industry-2.2.5b.jar"
+    },
+    {
+      "path": "mods/createaddition-1.5.9.jar",
+      "sha1": "039e3cf4ba526fd10204834b8ad6df8f549f86c3",
+      "size": 1595080,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/createaddition-1.5.9.jar"
+    },
+    {
+      "path": "mods/createdeco-2.1.1-1.21.1-neo.jar",
+      "sha1": "e64d4e67695231f59c04ac850cac76b840a0f26f",
+      "size": 3316851,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/createdeco-2.1.1-1.21.1-neo.jar"
+    },
+    {
+      "path": "mods/create_hypertube-0.3.0-NEOFORGE.jar",
+      "sha1": "ad84b056c71f844110606e0d17f9b9be3dd850a5",
+      "size": 391585,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/create_hypertube-0.3.0-NEOFORGE.jar"
+    },
+    {
+      "path": "mods/cristellib-neoforge-1.21.1-3.0.2.1.jar",
+      "sha1": "e35d8fd602ed89228e7cf9ef2ff47da7a37833de",
+      "size": 540740,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/cristellib-neoforge-1.21.1-3.0.2.1.jar"
+    },
+    {
+      "path": "mods/decocraft-3.0.5-1.21.1-neoforge.jar",
+      "sha1": "0a36419ad9cc17f2d6a76f10609f4dec40e6887c",
+      "size": 93350316,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/decocraft-3.0.5-1.21.1-neoforge.jar"
+    },
+    {
+      "path": "mods/Design-n-Decor-1.21.1-2.1.0.jar",
+      "sha1": "6ff962a9c2e9cc9abdc6de0b01f834839ce7fed1",
+      "size": 3264862,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/Design-n-Decor-1.21.1-2.1.0.jar"
+    },
+    {
+      "path": "mods/DistantHorizons-2.3.6-b-1.21.1-fabric-neoforge.jar.disabled",
+      "sha1": "e8a97b52e89bf96f67af547cda3bc6b15f5ceb73",
+      "size": 25477119,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/DistantHorizons-2.3.6-b-1.21.1-fabric-neoforge.jar.disabled"
+    },
+    {
+      "path": "mods/Essential_1-3-10-2_neoforge_1-21-1.jar",
+      "sha1": "362eaa6c8db68a839222b9c8accc3634fb105266",
+      "size": 54645795,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/Essential_1-3-10-2_neoforge_1-21-1.jar"
+    },
+    {
+      "path": "mods/FarmersDelight-1.21.1-1.2.9.jar",
+      "sha1": "9abe078f48781e4b87288dbc59691c8ba1152d8d",
+      "size": 2964387,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/FarmersDelight-1.21.1-1.2.9.jar"
+    },
+    {
+      "path": "mods/fetzisasiandeco-neoforge-1.7.2-1.21-beta.jar",
+      "sha1": "63e2092e7b5cee3e38c47e0a227c15be625afbf4",
+      "size": 17366800,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/fetzisasiandeco-neoforge-1.7.2-1.21-beta.jar"
+    },
+    {
+      "path": "mods/geckolib-neoforge-1.21.1-4.8.2.jar",
+      "sha1": "b2d84a5ea8b8944be66dbf817f0d4aa3f494db7a",
+      "size": 621848,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/geckolib-neoforge-1.21.1-4.8.2.jar"
+    },
+    {
+      "path": "mods/ghosts-neoforge-1.21.1-1.2.1.jar",
+      "sha1": "273c032af2acd47d097afafa0c3c71cd3d142322",
+      "size": 359931,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/ghosts-neoforge-1.21.1-1.2.1.jar"
+    },
+    {
+      "path": "mods/iris-neoforge-1.8.12+mc1.21.1.jar",
+      "sha1": "a3e6355915c7d3b2bc392724795113e51d289378",
+      "size": 2438548,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/iris-neoforge-1.8.12+mc1.21.1.jar"
+    },
+    {
+      "path": "mods/ironchest-1.21-neoforge-16.0.7.jar",
+      "sha1": "7064b4ea349f37d95a6448c3179dc0a2cad0c162",
+      "size": 305975,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/ironchest-1.21-neoforge-16.0.7.jar"
+    },
+    {
+      "path": "mods/Jade-1.21.1-NeoForge-15.10.3.jar",
+      "sha1": "0c7e9b04e2481d26c9080dd5d32351490d1fed3a",
+      "size": 725736,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/Jade-1.21.1-NeoForge-15.10.3.jar"
+    },
+    {
+      "path": "mods/jei-1.21.1-neoforge-19.25.1.332.jar",
+      "sha1": "54d1e999f496dc76bce821f605e31d071252a0f3",
+      "size": 1517028,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/jei-1.21.1-neoforge-19.25.1.332.jar"
+    },
+    {
+      "path": "mods/jmi-neoforge-1.21.1-1.9.jar",
+      "sha1": "b49a9afa0685af95baf76931c05ce43979ce744a",
+      "size": 100241,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/jmi-neoforge-1.21.1-1.9.jar"
+    },
+    {
+      "path": "mods/journeymap-neoforge-1.21.1-6.0.0-beta.52.jar",
+      "sha1": "369f9271b8b8adbb8b5baa7f2aa661edb9eb5838",
+      "size": 3537573,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/journeymap-neoforge-1.21.1-6.0.0-beta.52.jar"
+    },
+    {
+      "path": "mods/justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+      "sha1": "328da50972fa693b8e6f337d4a9560d4a6170ac3",
+      "size": 43798,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/justzoom_neoforge_2.1.0_MC_1.21.1.jar"
+    },
+    {
+      "path": "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "sha1": "97771eb287d5ac7fe667d1df9493d5e54c8ca1fa",
+      "size": 618842,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/konkrete_neoforge_1.9.9_MC_1.21.jar"
+    },
+    {
+      "path": "mods/kotlinforforge-5.10.0-all.jar",
+      "sha1": "cdde4af2f1cecc97d320d230093e5564212f9fb2",
+      "size": 6730194,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/kotlinforforge-5.10.0-all.jar"
+    },
+    {
+      "path": "mods/mega_showdown-neoforge-1.4.2+1.7.1+1.21.1.jar",
+      "sha1": "9bce9be99907b5f094ad97642675367393fa55ee",
+      "size": 15909101,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/mega_showdown-neoforge-1.4.2+1.7.1+1.21.1.jar"
+    },
+    {
+      "path": "mods/MythsAndLegends-neoforge-1.9.0.jar",
+      "sha1": "b90873d4a478753d099e641d7f1b7649c360e868",
+      "size": 3254096,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/MythsAndLegends-neoforge-1.9.0.jar"
+    },
+    {
+      "path": "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "sha1": "48dda11a6710591cf162bdbedf982ea21dd1f2ed",
+      "size": 1221583,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar"
+    },
+    {
+      "path": "mods/reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+      "sha1": "b03d05495be28d8cef7a34872941bb8d703d60e6",
+      "size": 78451,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar"
+    },
+    {
+      "path": "mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "sha1": "24389c8e48ff0e8594e4686b750c494c66a5f8df",
+      "size": 484332,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/resourcefullib-neoforge-1.21-3.0.12.jar"
+    },
+    {
+      "path": "mods/skinlayers3d-neoforge-1.9.2-mc1.21.1.jar",
+      "sha1": "c75d03796b22e70b3441f0cfa1b1b0a59d2ddd14",
+      "size": 873849,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/skinlayers3d-neoforge-1.9.2-mc1.21.1.jar"
+    },
+    {
+      "path": "mods/sliceanddice-forge-4.2.2.jar",
+      "sha1": "980f26c4ed2b077462950e1710d28c0b6af7aecd",
+      "size": 406282,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/sliceanddice-forge-4.2.2.jar"
+    },
+    {
+      "path": "mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "sha1": "38af70fa4dc4b2aaac636e92fdba3bedd5a025e1",
+      "size": 1162994,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/sodium-neoforge-0.6.13+mc1.21.1.jar"
+    },
+    {
+      "path": "mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+      "sha1": "02e9bc7ba28147cdf2d608ecf4f2c1eab34b4652",
+      "size": 299353,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar"
+    },
+    {
+      "path": "mods/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+      "sha1": "5d014d031fa77ab600e07835b032ef4dcb79b442",
+      "size": 309122,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar"
+    },
+    {
+      "path": "mods/sophisticatedbackpacks-1.21.1-3.25.14.1410.jar",
+      "sha1": "5676cf0e7634a6b186e491f5f8d919563808e6f8",
+      "size": 976161,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/sophisticatedbackpacks-1.21.1-3.25.14.1410.jar"
+    },
+    {
+      "path": "mods/sophisticatedcore-1.21.1-1.3.89.1239.jar",
+      "sha1": "5ac6fafc45a9b343d45efc5f6532619782765c0f",
+      "size": 1485311,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/sophisticatedcore-1.21.1-1.3.89.1239.jar"
+    },
+    {
+      "path": "mods/Terralith_1.21.x_v2.5.8.jar",
+      "sha1": "bee0cfb1a8cd4bf3d96bccea224fb45d74de9085",
+      "size": 3115385,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/Terralith_1.21.x_v2.5.8.jar"
+    },
+    {
+      "path": "mods/tombstone-neoforge-1.21.1-9.4.8.jar",
+      "sha1": "759633541e96254f4dd73ac1af936d9df2328b76",
+      "size": 2304453,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/tombstone-neoforge-1.21.1-9.4.8.jar"
+    },
+    {
+      "path": "mods/Tomtaru's Cobblemon  Farmer's Delight Tweaks - 1.21.1 - R.1.6.jar",
+      "sha1": "2f69a92167cd28e48988178a9649a492959f966a",
+      "size": 71841,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/Tomtaru's Cobblemon  Farmer's Delight Tweaks - 1.21.1 - R.1.6.jar"
+    },
+    {
+      "path": "mods/trashslot-neoforge-1.21.1-21.1.4.jar",
+      "sha1": "0b7004a166834ae9a33cc37d769947436bb3f956",
+      "size": 123189,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/trashslot-neoforge-1.21.1-21.1.4.jar"
+    },
+    {
+      "path": "mods/t_and_t-neoforge-fabric-1.13.7+1.21.1.jar",
+      "sha1": "eb7666961fb0b0d0ff8bc01ff62194952f6b6b8c",
+      "size": 3641681,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/t_and_t-neoforge-fabric-1.13.7+1.21.1.jar"
+    },
+    {
+      "path": "mods/Xaeros_Minimap_25.2.10_NeoForge_1.21.jar.disabled",
+      "sha1": "c671bd1d33e551c74f0157c9678549e566c5368e",
+      "size": 1710781,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/mods/Xaeros_Minimap_25.2.10_NeoForge_1.21.jar.disabled"
+    },
+    {
+      "path": "versions/fabric-loader-0.18.2-1.21.1/fabric-loader-0.18.2-1.21.1.json",
+      "sha1": "025a25bdeb063f8b7db176b74a814d58fa44f513",
+      "size": 2847,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/versions/fabric-loader-0.18.2-1.21.1/fabric-loader-0.18.2-1.21.1.json"
+    }
+  ]
+}
