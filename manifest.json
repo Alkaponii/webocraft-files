@@ -19,6 +19,12 @@
       "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/fasterrandom-5.1.0.jar"
     },
     {
+      "path": "mods/fancymenu_fabric_3.8.1_MC_1.21.1.jar",
+      "sha1": "65903483bbf770824d821c6065309648aae95304",
+      "size": 4522643,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/fancymenu_fabric_3.8.1_MC_1.21.1.jar"
+    },
+    {
       "path": "mods/ferritecore-7.0.2-hotfix-fabric.jar",
       "sha1": "48ee764932d0c8ec81a2223dbe333886938e512c",
       "size": 120709,
