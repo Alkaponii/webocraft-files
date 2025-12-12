@@ -361,16 +361,28 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/electronwill/night-config/toml/3.8.3/toml-3.8.3.jar"
     },
     {
+      "path": "libraries/com/fasterxml/jackson/core/jackson-annotations/2.13.4/jackson-annotations-2.13.4.jar",
+      "sha1": "858c6cc78e1f08a885b1613e1d817c829df70a6e",
+      "size": 75717,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/fasterxml/jackson/core/jackson-annotations/2.13.4/jackson-annotations-2.13.4.jar"
+    },
+    {
+      "path": "libraries/com/fasterxml/jackson/core/jackson-core/2.13.4/jackson-core-2.13.4.jar",
+      "sha1": "0cf934c681294b97ef6d80082faeefbe1edadf56",
+      "size": 374895,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/fasterxml/jackson/core/jackson-core/2.13.4/jackson-core-2.13.4.jar"
+    },
+    {
+      "path": "libraries/com/fasterxml/jackson/core/jackson-databind/2.13.4.2/jackson-databind-2.13.4.2.jar",
+      "sha1": "325c06bdfeb628cfb80ebaaf1a26cc1eb558a585",
+      "size": 1531681,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/fasterxml/jackson/core/jackson-databind/2.13.4.2/jackson-databind-2.13.4.2.jar"
+    },
+    {
       "path": "libraries/com/github/jponge/lzma-java/1.3/lzma-java-1.3.jar",
       "sha1": "a25db9d4d385ccda4825ae1b47a7a61d86e595af",
       "size": 51041,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/github/jponge/lzma-java/1.3/lzma-java-1.3.jar"
-    },
-    {
-      "path": "libraries/com/github/oshi/oshi-core/5.8.5/oshi-core-5.8.5.jar",
-      "sha1": "1d0ec654d820741327f5a9229d513732a4b7ce50",
-      "size": 879623,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/github/oshi/oshi-core/5.8.5/oshi-core-5.8.5.jar"
     },
     {
       "path": "libraries/com/github/oshi/oshi-core/6.2.2/oshi-core-6.2.2.jar",
@@ -383,6 +395,18 @@
       "sha1": "b1d8ab82d11d92fd639b56d639f8f46f739dd5fa",
       "size": 979212,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar"
+    },
+    {
+      "path": "libraries/com/github/oshi/oshi-core/6.6.5/oshi-core-6.6.5.jar",
+      "sha1": "e1099981fd15dc4236c4499d82aba1276fb43a9a",
+      "size": 991378,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/github/oshi/oshi-core/6.6.5/oshi-core-6.6.5.jar"
+    },
+    {
+      "path": "libraries/com/github/stephenc/jcip/jcip-annotations/1.0-1/jcip-annotations-1.0-1.jar",
+      "sha1": "ef31541dd28ae2cefdd17c7ebf352d93e9058c63",
+      "size": 4722,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/github/stephenc/jcip/jcip-annotations/1.0-1/jcip-annotations-1.0-1.jar"
     },
     {
       "path": "libraries/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar",
@@ -403,10 +427,10 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar"
     },
     {
-      "path": "libraries/com/google/code/gson/gson/2.8.7/gson-2.8.7.jar",
-      "sha1": "69d9503ea0a40ee16f0bcdac7e3eaf83d0fa914a",
-      "size": 240400,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/google/code/gson/gson/2.8.7/gson-2.8.7.jar"
+      "path": "libraries/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar",
+      "sha1": "527175ca6d81050b53bdd4c457a6d6e017626b0e",
+      "size": 298435,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar"
     },
     {
       "path": "libraries/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar",
@@ -433,6 +457,12 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar"
     },
     {
+      "path": "libraries/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar",
+      "sha1": "c4a06a64e650562f30b7bf9aaec1bfed43aca12b",
+      "size": 4740,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar"
+    },
+    {
       "path": "libraries/com/google/guava/guava/20.0/guava-20.0.jar",
       "sha1": "89507701249388e1ed5ddcf8c41f4ce1be7831ef",
       "size": 2442625,
@@ -445,12 +475,6 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/google/guava/guava/25.1-jre/guava-25.1-jre.jar"
     },
     {
-      "path": "libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar",
-      "sha1": "119ea2b2bc205b138974d351777b20f02b92704b",
-      "size": 2974216,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar"
-    },
-    {
       "path": "libraries/com/google/guava/guava/31.1-jre/guava-31.1-jre.jar",
       "sha1": "60458f877d055d0c9114d9e1a2efb737b4bc282c",
       "size": 2959479,
@@ -461,6 +485,12 @@
       "sha1": "5e64ec7e056456bef3a4bc4c6fdaef71e8ab6318",
       "size": 3041591,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar"
+    },
+    {
+      "path": "libraries/com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar",
+      "sha1": "852f8b363da0111e819460021ca693cacca3e8db",
+      "size": 3079289,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar"
     },
     {
       "path": "libraries/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar",
@@ -481,12 +511,6 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar"
     },
     {
-      "path": "libraries/com/ibm/icu/icu4j/70.1/icu4j-70.1.jar",
-      "sha1": "dfa3a1fbc55bf5db8c6e79fc0935ac7ab1202950",
-      "size": 13708936,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/ibm/icu/icu4j/70.1/icu4j-70.1.jar"
-    },
-    {
       "path": "libraries/com/ibm/icu/icu4j/71.1/icu4j-71.1.jar",
       "sha1": "9e7d3304c23f9ba5cb71915f7cce23231a57a445",
       "size": 13963762,
@@ -499,16 +523,22 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/ibm/icu/icu4j/73.2/icu4j-73.2.jar"
     },
     {
+      "path": "libraries/com/ibm/icu/icu4j/76.1/icu4j-76.1.jar",
+      "sha1": "215f3a8e936d4069344bd75f2b1368fd58112894",
+      "size": 14621879,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/ibm/icu/icu4j/76.1/icu4j-76.1.jar"
+    },
+    {
       "path": "libraries/com/machinezoo/noexception/noexception/1.7.1/noexception-1.7.1.jar",
       "sha1": "b65330c98e38a1f915fa54a6e5eca496505e3f0a",
       "size": 250861,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/machinezoo/noexception/noexception/1.7.1/noexception-1.7.1.jar"
     },
     {
-      "path": "libraries/com/mojang/authlib/3.3.39/authlib-3.3.39.jar",
-      "sha1": "289405e70c0917eaeac017f7fba9adb4427baa36",
-      "size": 98740,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/mojang/authlib/3.3.39/authlib-3.3.39.jar"
+      "path": "libraries/com/microsoft/azure/msal4j/1.17.2/msal4j-1.17.2.jar",
+      "sha1": "a6211e3d71d0388929babaa0ff0951b30d001852",
+      "size": 366717,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/microsoft/azure/msal4j/1.17.2/msal4j-1.17.2.jar"
     },
     {
       "path": "libraries/com/mojang/authlib/4.0.43/authlib-4.0.43.jar",
@@ -523,16 +553,16 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/mojang/authlib/6.0.54/authlib-6.0.54.jar"
     },
     {
+      "path": "libraries/com/mojang/authlib/7.0.61/authlib-7.0.61.jar",
+      "sha1": "efee1e6b54e863108576eb3b3ae71144626aaefc",
+      "size": 116084,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/mojang/authlib/7.0.61/authlib-7.0.61.jar"
+    },
+    {
       "path": "libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar",
       "sha1": "5c685c5ffa94c4cd39496c7184c1d122e515ecef",
       "size": 964,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar"
-    },
-    {
-      "path": "libraries/com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar",
-      "sha1": "c1ef1234282716483c92183f49bef47b1a89bfa9",
-      "size": 77116,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar"
     },
     {
       "path": "libraries/com/mojang/brigadier/1.1.8/brigadier-1.1.8.jar",
@@ -547,12 +577,6 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/mojang/brigadier/1.3.10/brigadier-1.3.10.jar"
     },
     {
-      "path": "libraries/com/mojang/datafixerupper/4.1.27/datafixerupper-4.1.27.jar",
-      "sha1": "0a02c43824ce57c3f7a7d7e744f0d99a040398b5",
-      "size": 672957,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/mojang/datafixerupper/4.1.27/datafixerupper-4.1.27.jar"
-    },
-    {
       "path": "libraries/com/mojang/datafixerupper/6.0.8/datafixerupper-6.0.8.jar",
       "sha1": "3ba4a30557a9b057760af4011f909ba619fc5125",
       "size": 689960,
@@ -565,16 +589,16 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/mojang/datafixerupper/8.0.16/datafixerupper-8.0.16.jar"
     },
     {
-      "path": "libraries/com/mojang/javabridge/1.2.24/javabridge-1.2.24.jar",
-      "sha1": "0c876796229b2ef5120f186eab5acc870699d3b9",
-      "size": 6053,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/mojang/javabridge/1.2.24/javabridge-1.2.24.jar"
+      "path": "libraries/com/mojang/jtracy/1.0.36/jtracy-1.0.36-natives-windows.jar",
+      "sha1": "b42bc771ab0d38a920258dd771eaf4f3c08011fa",
+      "size": 47599,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/mojang/jtracy/1.0.36/jtracy-1.0.36-natives-windows.jar"
     },
     {
-      "path": "libraries/com/mojang/logging/1.0.0/logging-1.0.0.jar",
-      "sha1": "f6ca3b2eee0b80b384e8ed93d368faecb82dfb9b",
-      "size": 15343,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/mojang/logging/1.0.0/logging-1.0.0.jar"
+      "path": "libraries/com/mojang/jtracy/1.0.36/jtracy-1.0.36.jar",
+      "sha1": "20a63d06b621bfeb3cb21ef51b7fa40c0fc22021",
+      "size": 12876,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/mojang/jtracy/1.0.36/jtracy-1.0.36.jar"
     },
     {
       "path": "libraries/com/mojang/logging/1.1.1/logging-1.1.1.jar",
@@ -589,28 +613,52 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/mojang/logging/1.2.7/logging-1.2.7.jar"
     },
     {
+      "path": "libraries/com/mojang/logging/1.5.10/logging-1.5.10.jar",
+      "sha1": "9ab1202793717af9df9c1704d0a02892067001eb",
+      "size": 19800,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/mojang/logging/1.5.10/logging-1.5.10.jar"
+    },
+    {
       "path": "libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar",
       "sha1": "da05971b07cbb379d002cf7eaec6a2048211fefc",
       "size": 4439,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar"
     },
     {
-      "path": "libraries/com/mojang/text2speech/1.12.4/text2speech-1.12.4-natives-windows.jar",
-      "sha1": "7e37c535186a058d730ec03491182fae2efb57be",
-      "size": 81379,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/mojang/text2speech/1.12.4/text2speech-1.12.4-natives-windows.jar"
-    },
-    {
-      "path": "libraries/com/mojang/text2speech/1.12.4/text2speech-1.12.4.jar",
-      "sha1": "1f618f522dbdd93218c270bcfd8f8dd84be31717",
-      "size": 12874,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/mojang/text2speech/1.12.4/text2speech-1.12.4.jar"
-    },
-    {
       "path": "libraries/com/mojang/text2speech/1.17.9/text2speech-1.17.9.jar",
       "sha1": "3cad216e3a7f0c19b4b394388bc9ffc446f13b14",
       "size": 12243,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/mojang/text2speech/1.17.9/text2speech-1.17.9.jar"
+    },
+    {
+      "path": "libraries/com/mojang/text2speech/1.18.11/text2speech-1.18.11.jar",
+      "sha1": "e853a12cdd6ba4f4836e8f4bf3b37844a13482b6",
+      "size": 13842,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/mojang/text2speech/1.18.11/text2speech-1.18.11.jar"
+    },
+    {
+      "path": "libraries/com/nimbusds/content-type/2.3/content-type-2.3.jar",
+      "sha1": "e3aa0be212d7a42839a8f3f506f5b990bcce0222",
+      "size": 8877,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/nimbusds/content-type/2.3/content-type-2.3.jar"
+    },
+    {
+      "path": "libraries/com/nimbusds/lang-tag/1.7/lang-tag-1.7.jar",
+      "sha1": "97c73ecd70bc7e8eefb26c5eea84f251a63f1031",
+      "size": 11170,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/nimbusds/lang-tag/1.7/lang-tag-1.7.jar"
+    },
+    {
+      "path": "libraries/com/nimbusds/nimbus-jose-jwt/9.40/nimbus-jose-jwt-9.40.jar",
+      "sha1": "42b1dfa0360e4062951b070bac52dd8d96fd7b38",
+      "size": 810931,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/nimbusds/nimbus-jose-jwt/9.40/nimbus-jose-jwt-9.40.jar"
+    },
+    {
+      "path": "libraries/com/nimbusds/oauth2-oidc-sdk/11.18/oauth2-oidc-sdk-11.18.jar",
+      "sha1": "07c7ec4f4066625ff07a711ad856fa04da1ff9de",
+      "size": 896918,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/com/nimbusds/oauth2-oidc-sdk/11.18/oauth2-oidc-sdk-11.18.jar"
     },
     {
       "path": "libraries/com/nothome/javaxdelta/2.0.1/javaxdelta-2.0.1.jar",
@@ -643,6 +691,12 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.jar"
     },
     {
+      "path": "libraries/commons-codec/commons-codec/1.17.1/commons-codec-1.17.1.jar",
+      "sha1": "973638b7149d333563584137ebf13a691bb60579",
+      "size": 372687,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/commons-codec/commons-codec/1.17.1/commons-codec-1.17.1.jar"
+    },
+    {
       "path": "libraries/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar",
       "sha1": "8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5",
       "size": 588337,
@@ -661,6 +715,12 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/commons-io/commons-io/2.15.1/commons-io-2.15.1.jar"
     },
     {
+      "path": "libraries/commons-io/commons-io/2.17.0/commons-io-2.17.0.jar",
+      "sha1": "ddcc8433eb019fb48fe25207c0278143f3e1d7e2",
+      "size": 515978,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/commons-io/commons-io/2.17.0/commons-io-2.17.0.jar"
+    },
+    {
       "path": "libraries/commons-io/commons-io/2.4/commons-io-2.4.jar",
       "sha1": "b1b6ea3b7e4aa4f492509a4952029cd8e48019ad",
       "size": 185140,
@@ -673,10 +733,10 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar"
     },
     {
-      "path": "libraries/cpw/mods/bootstraplauncher/1.0.0/bootstraplauncher-1.0.0.jar",
-      "sha1": "f55ddbb35612c6745cefc47d1a0d6dbfb25d3982",
-      "size": 7828,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/cpw/mods/bootstraplauncher/1.0.0/bootstraplauncher-1.0.0.jar"
+      "path": "libraries/commons-logging/commons-logging/1.3.4/commons-logging-1.3.4.jar",
+      "sha1": "b9fc14968d63a8b8a8a2c1885fe3e90564239708",
+      "size": 73721,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/commons-logging/commons-logging/1.3.4/commons-logging-1.3.4.jar"
     },
     {
       "path": "libraries/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar",
@@ -703,18 +763,6 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/cpw/mods/modlauncher/11.0.5/modlauncher-11.0.5.jar"
     },
     {
-      "path": "libraries/cpw/mods/modlauncher/9.1.3/modlauncher-9.1.3.jar",
-      "sha1": "7339d0e87813c366d706c3fdba479455e2283ecd",
-      "size": 129301,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/cpw/mods/modlauncher/9.1.3/modlauncher-9.1.3.jar"
-    },
-    {
-      "path": "libraries/cpw/mods/securejarhandler/1.0.8/securejarhandler-1.0.8.jar",
-      "sha1": "94c7b14c960e1b6cb37337d81ad4ec5932f7595c",
-      "size": 85028,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/cpw/mods/securejarhandler/1.0.8/securejarhandler-1.0.8.jar"
-    },
-    {
       "path": "libraries/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar",
       "sha1": "51e6a22c6c716beb11e244bf5b8be480f51dd6b5",
       "size": 88749,
@@ -725,24 +773,6 @@
       "sha1": "c0ef95cecd8699a0449053ac7d9c160748d902cd",
       "size": 103765,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/cpw/mods/securejarhandler/3.0.8/securejarhandler-3.0.8.jar"
-    },
-    {
-      "path": "libraries/de/oceanlabs/mcp/mcp_config/1.18.2-20220404.173914/mcp_config-1.18.2-20220404.173914-mappings-merged.txt",
-      "sha1": "e7fad186833140f9bde813c40f4da196567a19c3",
-      "size": 3848415,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/de/oceanlabs/mcp/mcp_config/1.18.2-20220404.173914/mcp_config-1.18.2-20220404.173914-mappings-merged.txt"
-    },
-    {
-      "path": "libraries/de/oceanlabs/mcp/mcp_config/1.18.2-20220404.173914/mcp_config-1.18.2-20220404.173914-mappings.txt",
-      "sha1": "2de196497224a7568d19703b13cab58386cd6649",
-      "size": 4755548,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/de/oceanlabs/mcp/mcp_config/1.18.2-20220404.173914/mcp_config-1.18.2-20220404.173914-mappings.txt"
-    },
-    {
-      "path": "libraries/de/oceanlabs/mcp/mcp_config/1.18.2-20220404.173914/mcp_config-1.18.2-20220404.173914.zip",
-      "sha1": "ce7571bb8b3367a0368e4b94f6a182e1b523bb4a",
-      "size": 1513918,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/de/oceanlabs/mcp/mcp_config/1.18.2-20220404.173914/mcp_config-1.18.2-20220404.173914.zip"
     },
     {
       "path": "libraries/de/oceanlabs/mcp/mcp_config/1.20.1-20230612.114412/mcp_config-1.20.1-20230612.114412-mappings-merged.txt",
@@ -775,10 +805,10 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/de/siegmar/fastcsv/2.2.2/fastcsv-2.2.2.jar"
     },
     {
-      "path": "libraries/io/netty/netty-all/4.1.68.Final/netty-all-4.1.68.Final.jar",
-      "sha1": "b8266a3c93c1c051109f71d3449e5dcd5d60b333",
-      "size": 4515045,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/io/netty/netty-all/4.1.68.Final/netty-all-4.1.68.Final.jar"
+      "path": "libraries/io/netty/netty-buffer/4.1.118.Final/netty-buffer-4.1.118.Final.jar",
+      "sha1": "7022990af1e0d449f9d5322035899745e19735c5",
+      "size": 339045,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/io/netty/netty-buffer/4.1.118.Final/netty-buffer-4.1.118.Final.jar"
     },
     {
       "path": "libraries/io/netty/netty-buffer/4.1.82.Final/netty-buffer-4.1.82.Final.jar",
@@ -793,6 +823,12 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/io/netty/netty-buffer/4.1.97.Final/netty-buffer-4.1.97.Final.jar"
     },
     {
+      "path": "libraries/io/netty/netty-codec/4.1.118.Final/netty-codec-4.1.118.Final.jar",
+      "sha1": "307f665c08ce57333121de4f460479fc0c3c94d4",
+      "size": 355199,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/io/netty/netty-codec/4.1.118.Final/netty-codec-4.1.118.Final.jar"
+    },
+    {
       "path": "libraries/io/netty/netty-codec/4.1.82.Final/netty-codec-4.1.82.Final.jar",
       "sha1": "b77200379acb345a9ffdece1c605e591ac3e4e0a",
       "size": 339155,
@@ -803,6 +839,18 @@
       "sha1": "384ba4d75670befbedb45c4d3b497a93639c206d",
       "size": 345274,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/io/netty/netty-codec/4.1.97.Final/netty-codec-4.1.97.Final.jar"
+    },
+    {
+      "path": "libraries/io/netty/netty-codec-http/4.1.118.Final/netty-codec-http-4.1.118.Final.jar",
+      "sha1": "eda08a71294afe78c779b85fd696bc13491507a8",
+      "size": 674362,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/io/netty/netty-codec-http/4.1.118.Final/netty-codec-http-4.1.118.Final.jar"
+    },
+    {
+      "path": "libraries/io/netty/netty-common/4.1.118.Final/netty-common-4.1.118.Final.jar",
+      "sha1": "4bb0f9899146484fa89f7b9bc27389d5b8e2ecde",
+      "size": 719225,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/io/netty/netty-common/4.1.118.Final/netty-common-4.1.118.Final.jar"
     },
     {
       "path": "libraries/io/netty/netty-common/4.1.82.Final/netty-common-4.1.82.Final.jar",
@@ -817,6 +865,12 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/io/netty/netty-common/4.1.97.Final/netty-common-4.1.97.Final.jar"
     },
     {
+      "path": "libraries/io/netty/netty-handler/4.1.118.Final/netty-handler-4.1.118.Final.jar",
+      "sha1": "30ebb05b6b0fb071dbfcf713017c4a767a97bb9b",
+      "size": 580162,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/io/netty/netty-handler/4.1.118.Final/netty-handler-4.1.118.Final.jar"
+    },
+    {
       "path": "libraries/io/netty/netty-handler/4.1.82.Final/netty-handler-4.1.82.Final.jar",
       "sha1": "644041d1fa96a5d3130a29e8978630d716d76e38",
       "size": 538569,
@@ -827,6 +881,12 @@
       "sha1": "abb86c6906bf512bf2b797a41cd7d2e8d3cd7c36",
       "size": 560040,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/io/netty/netty-handler/4.1.97.Final/netty-handler-4.1.97.Final.jar"
+    },
+    {
+      "path": "libraries/io/netty/netty-resolver/4.1.118.Final/netty-resolver-4.1.118.Final.jar",
+      "sha1": "28c378c19c1779eca1104b400452627f3ebc4aea",
+      "size": 37842,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/io/netty/netty-resolver/4.1.118.Final/netty-resolver-4.1.118.Final.jar"
     },
     {
       "path": "libraries/io/netty/netty-resolver/4.1.82.Final/netty-resolver-4.1.82.Final.jar",
@@ -841,6 +901,12 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/io/netty/netty-resolver/4.1.97.Final/netty-resolver-4.1.97.Final.jar"
     },
     {
+      "path": "libraries/io/netty/netty-transport/4.1.118.Final/netty-transport-4.1.118.Final.jar",
+      "sha1": "5a27232e5d08218722d94ca14f0b1b4576e7711c",
+      "size": 521428,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/io/netty/netty-transport/4.1.118.Final/netty-transport-4.1.118.Final.jar"
+    },
+    {
       "path": "libraries/io/netty/netty-transport/4.1.82.Final/netty-transport-4.1.82.Final.jar",
       "sha1": "e431a218d91acb6476ccad5f5aafde50aa3945ca",
       "size": 485752,
@@ -853,6 +919,12 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/io/netty/netty-transport/4.1.97.Final/netty-transport-4.1.97.Final.jar"
     },
     {
+      "path": "libraries/io/netty/netty-transport-classes-epoll/4.1.118.Final/netty-transport-classes-epoll-4.1.118.Final.jar",
+      "sha1": "376ce95507066f0e755d97c1c8bcd6c33f657617",
+      "size": 147621,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/io/netty/netty-transport-classes-epoll/4.1.118.Final/netty-transport-classes-epoll-4.1.118.Final.jar"
+    },
+    {
       "path": "libraries/io/netty/netty-transport-classes-epoll/4.1.82.Final/netty-transport-classes-epoll-4.1.82.Final.jar",
       "sha1": "e7c7dd18deac93105797f30057c912651ea76521",
       "size": 142066,
@@ -863,6 +935,12 @@
       "sha1": "795da37ded759e862457a82d9d92c4d39ce8ecee",
       "size": 147139,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/io/netty/netty-transport-classes-epoll/4.1.97.Final/netty-transport-classes-epoll-4.1.97.Final.jar"
+    },
+    {
+      "path": "libraries/io/netty/netty-transport-native-unix-common/4.1.118.Final/netty-transport-native-unix-common-4.1.118.Final.jar",
+      "sha1": "9da25a94e6a0edac90da0bc7894e5a54efcb866b",
+      "size": 44157,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/io/netty/netty-transport-native-unix-common/4.1.118.Final/netty-transport-native-unix-common-4.1.118.Final.jar"
     },
     {
       "path": "libraries/io/netty/netty-transport-native-unix-common/4.1.82.Final/netty-transport-native-unix-common-4.1.82.Final.jar",
@@ -883,10 +961,10 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/it/unimi/dsi/fastutil/8.5.12/fastutil-8.5.12.jar"
     },
     {
-      "path": "libraries/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar",
-      "sha1": "76f95700418a68fbc4ac050525261f05dc681ca1",
-      "size": 23565248,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar"
+      "path": "libraries/it/unimi/dsi/fastutil/8.5.15/fastutil-8.5.15.jar",
+      "sha1": "1e885b40c9563ab0d3899b871fd0b30e958705dc",
+      "size": 23730770,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/it/unimi/dsi/fastutil/8.5.15/fastutil-8.5.15.jar"
     },
     {
       "path": "libraries/it/unimi/dsi/fastutil/8.5.9/fastutil-8.5.9.jar",
@@ -895,28 +973,10 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/it/unimi/dsi/fastutil/8.5.9/fastutil-8.5.9.jar"
     },
     {
-      "path": "libraries/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar",
-      "sha1": "dbd932c2a3641d2c41cf9abfe47e140a5753fa86",
-      "size": 1387408,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
-    },
-    {
-      "path": "libraries/net/fabricmc/fabric-loader/0.16.11/fabric-loader-0.16.11.jar",
-      "sha1": "eb5ed64a38b1d76e0febc1902b27f2c4bd0abe40",
-      "size": 1387461,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/fabricmc/fabric-loader/0.16.11/fabric-loader-0.16.11.jar"
-    },
-    {
-      "path": "libraries/net/fabricmc/fabric-loader/0.18.1/fabric-loader-0.18.1.jar",
-      "sha1": "2f1cf1fa62e868562f522698cce909fa1c474d36",
-      "size": 1944103,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/fabricmc/fabric-loader/0.18.1/fabric-loader-0.18.1.jar"
-    },
-    {
-      "path": "libraries/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar",
-      "sha1": "97d0bff94981e37bd7a4362deee53c9a84e3fb21",
-      "size": 573365,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+      "path": "libraries/net/fabricmc/fabric-loader/0.18.2/fabric-loader-0.18.2.jar",
+      "sha1": "1cd44667bd93b74564056eb4867dfd12e38cb262",
+      "size": 1944281,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/fabricmc/fabric-loader/0.18.2/fabric-loader-0.18.2.jar"
     },
     {
       "path": "libraries/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar",
@@ -931,22 +991,10 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar"
     },
     {
-      "path": "libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar",
-      "sha1": "6a12aacc794f1078458433116e9ed42c1cc98096",
-      "size": 1494834,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
-    },
-    {
       "path": "libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar",
       "sha1": "80fc3a9f592673cea87f4cd702f87991c6c9fe4d",
       "size": 1504519,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar"
-    },
-    {
-      "path": "libraries/net/java/dev/jna/jna/5.10.0/jna-5.10.0.jar",
-      "sha1": "7cf4c87dd802db50721db66947aa237d7ad09418",
-      "size": 1756400,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/java/dev/jna/jna/5.10.0/jna-5.10.0.jar"
     },
     {
       "path": "libraries/net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar",
@@ -961,10 +1009,10 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/java/dev/jna/jna/5.14.0/jna-5.14.0.jar"
     },
     {
-      "path": "libraries/net/java/dev/jna/jna-platform/5.10.0/jna-platform-5.10.0.jar",
-      "sha1": "fbed7d9669dba47714ad0d4f4454290a997aee69",
-      "size": 1343495,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/java/dev/jna/jna-platform/5.10.0/jna-platform-5.10.0.jar"
+      "path": "libraries/net/java/dev/jna/jna/5.15.0/jna-5.15.0.jar",
+      "sha1": "01ee1d80ff44f08280188f7c0e740d57207841ac",
+      "size": 2001532,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/java/dev/jna/jna/5.15.0/jna-5.15.0.jar"
     },
     {
       "path": "libraries/net/java/dev/jna/jna-platform/5.12.1/jna-platform-5.12.1.jar",
@@ -979,58 +1027,22 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/java/dev/jna/jna-platform/5.14.0/jna-platform-5.14.0.jar"
     },
     {
+      "path": "libraries/net/java/dev/jna/jna-platform/5.15.0/jna-platform-5.15.0.jar",
+      "sha1": "86b502cad57d45da172b5e3231c537b042e296ef",
+      "size": 1376668,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/java/dev/jna/jna-platform/5.15.0/jna-platform-5.15.0.jar"
+    },
+    {
       "path": "libraries/net/jodah/typetools/0.6.3/typetools-0.6.3.jar",
       "sha1": "a01aaa6ddaea9ec07ec4f209487b7a46a526283a",
       "size": 18281,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
     },
     {
-      "path": "libraries/net/jodah/typetools/0.8.3/typetools-0.8.3.jar",
-      "sha1": "98f84f353457629e81cc6827224871b1a8faa7af",
-      "size": 15425,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
-    },
-    {
       "path": "libraries/net/md-5/SpecialSource/1.11.0/SpecialSource-1.11.0.jar",
       "sha1": "43b84c4bb8d01cf90a29dfeec1c958a4b64baf46",
       "size": 88737,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/md-5/SpecialSource/1.11.0/SpecialSource-1.11.0.jar"
-    },
-    {
-      "path": "libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-extra.jar",
-      "sha1": "52e1b15676c03b5e1b769f5bd7d89426e9807c89",
-      "size": 9349972,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-extra.jar"
-    },
-    {
-      "path": "libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-extra.jar.cache",
-      "sha1": "72f320a3993b2b6811fb1fb09c7ea02e492eb42c",
-      "size": 142,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-extra.jar.cache"
-    },
-    {
-      "path": "libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-mappings.txt",
-      "sha1": "a661c6a55a0600bd391bdbbd6827654c05b2109c",
-      "size": 6716693,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-mappings.txt"
-    },
-    {
-      "path": "libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-slim.jar",
-      "sha1": "2b8907919c1d51fda0b2ace0eba8a8b73855198f",
-      "size": 10909711,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-slim.jar"
-    },
-    {
-      "path": "libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-slim.jar.cache",
-      "sha1": "f15c94ecb576219b69d1698b745610532a5e695e",
-      "size": 142,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-slim.jar.cache"
-    },
-    {
-      "path": "libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar",
-      "sha1": "457e3d74343804b4e7d36a014cff71833d6d1580",
-      "size": 13796791,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar"
     },
     {
       "path": "libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar",
@@ -1111,22 +1123,10 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
     },
     {
-      "path": "libraries/net/minecraftforge/binarypatcher/1.0.12/binarypatcher-1.0.12.jar",
-      "sha1": "971ea098f83ef2e1b96c1b7849465bb79fd05838",
-      "size": 16491,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/binarypatcher/1.0.12/binarypatcher-1.0.12.jar"
-    },
-    {
       "path": "libraries/net/minecraftforge/binarypatcher/1.1.1/binarypatcher-1.1.1.jar",
       "sha1": "23176c4f9fd7a8db961dc0b2ec32ad97ab08513c",
       "size": 21892,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/binarypatcher/1.1.1/binarypatcher-1.1.1.jar"
-    },
-    {
-      "path": "libraries/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar",
-      "sha1": "386b00279628b105b2d507539c46e134e96f6237",
-      "size": 24199,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
     },
     {
       "path": "libraries/net/minecraftforge/coremods/5.2.4/coremods-5.2.4.jar",
@@ -1135,94 +1135,70 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/coremods/5.2.4/coremods-5.2.4.jar"
     },
     {
-      "path": "libraries/net/minecraftforge/eventbus/5.0.3/eventbus-5.0.3.jar",
-      "sha1": "f2317ed9d19271be8727a71ae3e5dfeb62715594",
-      "size": 42838,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/eventbus/5.0.3/eventbus-5.0.3.jar"
-    },
-    {
       "path": "libraries/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar",
       "sha1": "699143dd438431d06b57416944f7cedbe52e1475",
       "size": 53985,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
     },
     {
-      "path": "libraries/net/minecraftforge/fmlcore/1.18.2-40.2.17/fmlcore-1.18.2-40.2.17.jar",
-      "sha1": "fcb8a7063c3a86af22acb4a9eded5e9667f65a3c",
-      "size": 111968,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.17/fmlcore-1.18.2-40.2.17.jar"
+      "path": "libraries/net/minecraftforge/fmlcore/1.20.1-47.4.10/fmlcore-1.20.1-47.4.10.jar",
+      "sha1": "94dae566be650566ea9115a1414ab76bfcf5a804",
+      "size": 118913,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.10/fmlcore-1.20.1-47.4.10.jar"
     },
     {
-      "path": "libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar",
-      "sha1": "235975dafa4309945b59c56b53f31dc5b65a6051",
-      "size": 118914,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar"
+      "path": "libraries/net/minecraftforge/fmlcore/1.20.1-47.4.12/fmlcore-1.20.1-47.4.12.jar",
+      "sha1": "995c754de314b49215f92ae5e4a7e420590a7554",
+      "size": 118913,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.12/fmlcore-1.20.1-47.4.12.jar"
     },
     {
-      "path": "libraries/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.0/fmlearlydisplay-1.20.1-47.4.0.jar",
-      "sha1": "5a0c2d1a65a422bd0e64548e58b70f4d011ef788",
-      "size": 170517,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.0/fmlearlydisplay-1.20.1-47.4.0.jar"
+      "path": "libraries/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.10/fmlearlydisplay-1.20.1-47.4.10.jar",
+      "sha1": "a262fa19e65f643aae210b4275b53bee053aa765",
+      "size": 170518,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.10/fmlearlydisplay-1.20.1-47.4.10.jar"
     },
     {
-      "path": "libraries/net/minecraftforge/fmlloader/1.18.2-40.2.17/fmlloader-1.18.2-40.2.17.jar",
-      "sha1": "211c1d20c8c61ee52cd10936f97da25a39b3f155",
-      "size": 257597,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/fmlloader/1.18.2-40.2.17/fmlloader-1.18.2-40.2.17.jar"
+      "path": "libraries/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.12/fmlearlydisplay-1.20.1-47.4.12.jar",
+      "sha1": "4075e5525f5729a5e1ec9753509b2150d64eae11",
+      "size": 170518,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.12/fmlearlydisplay-1.20.1-47.4.12.jar"
     },
     {
-      "path": "libraries/net/minecraftforge/fmlloader/1.20.1-47.4.0/fmlloader-1.20.1-47.4.0.jar",
-      "sha1": "350292a3c597f65d130e48b6e419a2b21cba2ac1",
+      "path": "libraries/net/minecraftforge/fmlloader/1.20.1-47.4.10/fmlloader-1.20.1-47.4.10.jar",
+      "sha1": "55c46d27e7cfc8b829af8a28e562a7d290fa38b6",
       "size": 267079,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/fmlloader/1.20.1-47.4.0/fmlloader-1.20.1-47.4.0.jar"
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/fmlloader/1.20.1-47.4.10/fmlloader-1.20.1-47.4.10.jar"
     },
     {
-      "path": "libraries/net/minecraftforge/forge/1.18.2-40.2.17/forge-1.18.2-40.2.17-client.jar",
-      "sha1": "bc0fcb54870586d3ad6d019cd2002e192a61af0f",
-      "size": 4367198,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/forge/1.18.2-40.2.17/forge-1.18.2-40.2.17-client.jar"
+      "path": "libraries/net/minecraftforge/fmlloader/1.20.1-47.4.12/fmlloader-1.20.1-47.4.12.jar",
+      "sha1": "9d58f481637d85d07b493a00f5e8839725c07749",
+      "size": 269268,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/fmlloader/1.20.1-47.4.12/fmlloader-1.20.1-47.4.12.jar"
     },
     {
-      "path": "libraries/net/minecraftforge/forge/1.18.2-40.2.17/forge-1.18.2-40.2.17-clientdata.lzma",
-      "sha1": "958b2b793a81b44059fae4cd5a662dbbf7b945ca",
-      "size": 2242873,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/forge/1.18.2-40.2.17/forge-1.18.2-40.2.17-clientdata.lzma"
+      "path": "libraries/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-client.jar",
+      "sha1": "4d8a9a63dc16a45d7fc5c54c627234f601d0cc17",
+      "size": 4848366,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-client.jar"
     },
     {
-      "path": "libraries/net/minecraftforge/forge/1.18.2-40.2.17/forge-1.18.2-40.2.17-universal.jar",
-      "sha1": "c4f6d9f940862c1979e1a801f79b4a6a45c80031",
-      "size": 2533111,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/forge/1.18.2-40.2.17/forge-1.18.2-40.2.17-universal.jar"
+      "path": "libraries/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-universal.jar",
+      "sha1": "41747347bacead85302e07082073fb46c2f69361",
+      "size": 2777708,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-universal.jar"
     },
     {
-      "path": "libraries/net/minecraftforge/forge/1.18.2-40.2.17/forge-1.18.2-40.2.17.jar",
-      "sha1": "23959adca361e57cae5c94605888ce6e6ec3b461",
-      "size": 10,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/forge/1.18.2-40.2.17/forge-1.18.2-40.2.17.jar"
+      "path": "libraries/net/minecraftforge/forge/1.20.1-47.4.12/forge-1.20.1-47.4.12-client.jar",
+      "sha1": "4d8a9a63dc16a45d7fc5c54c627234f601d0cc17",
+      "size": 4848366,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/forge/1.20.1-47.4.12/forge-1.20.1-47.4.12-client.jar"
     },
     {
-      "path": "libraries/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-client.jar",
-      "sha1": "b268fd6fb2c4829a72e8d0d6c75b7fefbec8479c",
-      "size": 4826828,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-client.jar"
-    },
-    {
-      "path": "libraries/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-clientdata.lzma",
-      "sha1": "41d9d3f43459ecd2863aa91a17d9f79111235cda",
-      "size": 2764750,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-clientdata.lzma"
-    },
-    {
-      "path": "libraries/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-universal.jar",
-      "sha1": "45e8b14d52cc0cb555c6340dcd631ef1edf68596",
-      "size": 2776081,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-universal.jar"
-    },
-    {
-      "path": "libraries/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0.jar",
-      "sha1": "23959adca361e57cae5c94605888ce6e6ec3b461",
-      "size": 10,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0.jar"
+      "path": "libraries/net/minecraftforge/forge/1.20.1-47.4.12/forge-1.20.1-47.4.12-universal.jar",
+      "sha1": "bb572e7bb363b71f7e63420554ed11b7ca0d8d1a",
+      "size": 2777985,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/forge/1.20.1-47.4.12/forge-1.20.1-47.4.12-universal.jar"
     },
     {
       "path": "libraries/net/minecraftforge/ForgeAutoRenamingTool/0.1.22/ForgeAutoRenamingTool-0.1.22-all.jar",
@@ -1231,28 +1207,10 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/ForgeAutoRenamingTool/0.1.22/ForgeAutoRenamingTool-0.1.22-all.jar"
     },
     {
-      "path": "libraries/net/minecraftforge/ForgeAutoRenamingTool/0.1.25/ForgeAutoRenamingTool-0.1.25-all.jar",
-      "sha1": "8a684615a1ea8799c0bcda1759838f79618d1b3a",
-      "size": 435098,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/ForgeAutoRenamingTool/0.1.25/ForgeAutoRenamingTool-0.1.25-all.jar"
-    },
-    {
-      "path": "libraries/net/minecraftforge/forgespi/4.0.15-4.x/forgespi-4.0.15-4.x.jar",
-      "sha1": "1d10ffe779684cb20f2b63bdcc030152e47116bb",
-      "size": 22072,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/forgespi/4.0.15-4.x/forgespi-4.0.15-4.x.jar"
-    },
-    {
       "path": "libraries/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar",
       "sha1": "3b4972a0cdb135853dba219be61a79b22cff1309",
       "size": 29831,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
-    },
-    {
-      "path": "libraries/net/minecraftforge/installertools/1.3.0/installertools-1.3.0.jar",
-      "sha1": "248be3a2b70ecf8aca430d52cbbecd4d63b077cc",
-      "size": 83178,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/installertools/1.3.0/installertools-1.3.0.jar"
     },
     {
       "path": "libraries/net/minecraftforge/installertools/1.4.1/installertools-1.4.1.jar",
@@ -1285,52 +1243,46 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/jarsplitter/1.1.4/jarsplitter-1.1.4.jar"
     },
     {
-      "path": "libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.17/javafmllanguage-1.18.2-40.2.17.jar",
-      "sha1": "73cb4e30d7e55cf35a68b2ed112653aff913a58c",
-      "size": 16291,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.17/javafmllanguage-1.18.2-40.2.17.jar"
+      "path": "libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.10/javafmllanguage-1.20.1-47.4.10.jar",
+      "sha1": "ccc533c7dd67e0983217197d7549c8b49e7ab453",
+      "size": 16854,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.10/javafmllanguage-1.20.1-47.4.10.jar"
     },
     {
-      "path": "libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar",
-      "sha1": "0f0c0b352173d0a378cbdcec9cfc4ba65899a721",
-      "size": 16855,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar"
+      "path": "libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.12/javafmllanguage-1.20.1-47.4.12.jar",
+      "sha1": "3a50b0f2ce140ffe96e3ad01389f5049261166a5",
+      "size": 16856,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.12/javafmllanguage-1.20.1-47.4.12.jar"
     },
     {
-      "path": "libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.17/lowcodelanguage-1.18.2-40.2.17.jar",
-      "sha1": "8693e97e0581c0f5aaabb09e7fa319d5685ce194",
-      "size": 7381,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.17/lowcodelanguage-1.18.2-40.2.17.jar"
+      "path": "libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.10/lowcodelanguage-1.20.1-47.4.10.jar",
+      "sha1": "e9a2879fe3612ea34b9728ec2633304a1e67d480",
+      "size": 7398,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.10/lowcodelanguage-1.20.1-47.4.10.jar"
     },
     {
-      "path": "libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar",
-      "sha1": "e862740d8c84d08dbfedea412bef88fe42e727c5",
-      "size": 7399,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar"
+      "path": "libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.12/lowcodelanguage-1.20.1-47.4.12.jar",
+      "sha1": "b15145fddd4cbc015817704c8fe55ce4843e3f52",
+      "size": 7400,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.12/lowcodelanguage-1.20.1-47.4.12.jar"
     },
     {
-      "path": "libraries/net/minecraftforge/mclanguage/1.18.2-40.2.17/mclanguage-1.18.2-40.2.17.jar",
-      "sha1": "902814f818aebf3928966206f56835dece033e2a",
-      "size": 4987,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.17/mclanguage-1.18.2-40.2.17.jar"
+      "path": "libraries/net/minecraftforge/mclanguage/1.20.1-47.4.10/mclanguage-1.20.1-47.4.10.jar",
+      "sha1": "ec5cefbbc65c67302b8fac317010faab85fa14b9",
+      "size": 4999,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.10/mclanguage-1.20.1-47.4.10.jar"
     },
     {
-      "path": "libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar",
-      "sha1": "5719b3a297a33f877ed5dde4cb4bd75c859096af",
-      "size": 4998,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar"
+      "path": "libraries/net/minecraftforge/mclanguage/1.20.1-47.4.12/mclanguage-1.20.1-47.4.12.jar",
+      "sha1": "f1493236a64d23ae06166cd8f4c5f0cec4de7a1d",
+      "size": 4999,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.12/mclanguage-1.20.1-47.4.12.jar"
     },
     {
       "path": "libraries/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar",
       "sha1": "f3da18e12c696d35a47c82cbb2cc8b5aa15e1154",
       "size": 2572,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
-    },
-    {
-      "path": "libraries/net/minecraftforge/srgutils/0.4.11/srgutils-0.4.11.jar",
-      "sha1": "fbad1341ffdb47d276bbdc40ecb06da49e053e74",
-      "size": 69289,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/srgutils/0.4.11/srgutils-0.4.11.jar"
     },
     {
       "path": "libraries/net/minecraftforge/srgutils/0.4.15/srgutils-0.4.15.jar",
@@ -1373,6 +1325,18 @@
       "sha1": "b562e9bb61235c9520e26282cdee71f8f802d1fc",
       "size": 16949,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecrell/terminalconsoleappender/1.3.0/terminalconsoleappender-1.3.0.jar"
+    },
+    {
+      "path": "libraries/net/minidev/accessors-smart/2.5.1/accessors-smart-2.5.1.jar",
+      "sha1": "19b820261eb2e7de7d5bde11d1c06e4501dd7e5f",
+      "size": 30305,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minidev/accessors-smart/2.5.1/accessors-smart-2.5.1.jar"
+    },
+    {
+      "path": "libraries/net/minidev/json-smart/2.5.1/json-smart-2.5.1.jar",
+      "sha1": "4c11d2808d009132dfbbf947ebf37de6bf266c8e",
+      "size": 122291,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minidev/json-smart/2.5.1/json-smart-2.5.1.jar"
     },
     {
       "path": "libraries/net/neoforged/accesstransformers/10.0.1/accesstransformers-10.0.1.jar",
@@ -1465,58 +1429,16 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/neoforged/mergetool/2.0.0/mergetool-2.0.0-api.jar"
     },
     {
-      "path": "libraries/net/neoforged/neoforge/21.1.213/neoforge-21.1.213-client.jar",
-      "sha1": "c25abc893e4061707dfcea4ebc6e92164dca33cd",
-      "size": 5663899,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/neoforged/neoforge/21.1.213/neoforge-21.1.213-client.jar"
-    },
-    {
-      "path": "libraries/net/neoforged/neoforge/21.1.213/neoforge-21.1.213-clientdata.lzma",
-      "sha1": "03ca9d3cd8bba559aa523f42a4c0e69fc132d9ca",
-      "size": 3234106,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/neoforged/neoforge/21.1.213/neoforge-21.1.213-clientdata.lzma"
-    },
-    {
-      "path": "libraries/net/neoforged/neoforge/21.1.213/neoforge-21.1.213-universal.jar",
-      "sha1": "6b06941e0206706c1310ab28b9abd7729aa431ef",
-      "size": 3523969,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/neoforged/neoforge/21.1.213/neoforge-21.1.213-universal.jar"
-    },
-    {
       "path": "libraries/net/neoforged/neoforge/21.1.215/neoforge-21.1.215-client.jar",
       "sha1": "35f0b2b20492d04b4aedeb25a2163dba9e952a06",
       "size": 5663882,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/neoforged/neoforge/21.1.215/neoforge-21.1.215-client.jar"
     },
     {
-      "path": "libraries/net/neoforged/neoforge/21.1.215/neoforge-21.1.215-clientdata.lzma",
-      "sha1": "f5a492869ff4d89cdffcae13ffcfe745a28f0d58",
-      "size": 3234112,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/neoforged/neoforge/21.1.215/neoforge-21.1.215-clientdata.lzma"
-    },
-    {
       "path": "libraries/net/neoforged/neoforge/21.1.215/neoforge-21.1.215-universal.jar",
       "sha1": "85531e66f2a824d731bfde00284d1c44b2a208b3",
       "size": 3524122,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/neoforged/neoforge/21.1.215/neoforge-21.1.215-universal.jar"
-    },
-    {
-      "path": "libraries/net/neoforged/neoforge/21.1.216/neoforge-21.1.216-client.jar",
-      "sha1": "e4496a2bcf84565363130f6a92aa275035a026c5",
-      "size": 5663796,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/neoforged/neoforge/21.1.216/neoforge-21.1.216-client.jar"
-    },
-    {
-      "path": "libraries/net/neoforged/neoforge/21.1.216/neoforge-21.1.216-clientdata.lzma",
-      "sha1": "490cd7b8d6c09506179ab678eec2dd17d69fb9da",
-      "size": 3233994,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/neoforged/neoforge/21.1.216/neoforge-21.1.216-clientdata.lzma"
-    },
-    {
-      "path": "libraries/net/neoforged/neoforge/21.1.216/neoforge-21.1.216-universal.jar",
-      "sha1": "112262f7ab3818994345055ed445d8824f8d82a5",
-      "size": 3524131,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/neoforged/neoforge/21.1.216/neoforge-21.1.216-universal.jar"
     },
     {
       "path": "libraries/net/neoforged/neoform/1.21.1-20240808.144430/neoform-1.21.1-20240808.144430-mappings-merged.txt",
@@ -1585,6 +1507,12 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/apache/commons/commons-compress/1.26.0/commons-compress-1.26.0.jar"
     },
     {
+      "path": "libraries/org/apache/commons/commons-compress/1.27.1/commons-compress-1.27.1.jar",
+      "sha1": "a19151084758e2fbb6b41eddaa88e7b8ff4e6599",
+      "size": 1087319,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/apache/commons/commons-compress/1.27.1/commons-compress-1.27.1.jar"
+    },
+    {
       "path": "libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar",
       "sha1": "c6842c86792ff03b9f1d1fe2aab8dc23aa6c6f0e",
       "size": 587402,
@@ -1595,6 +1523,12 @@
       "sha1": "1ed471194b02f2c6cb734a0cd6f6f107c673afae",
       "size": 657952,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar"
+    },
+    {
+      "path": "libraries/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar",
+      "sha1": "b17d2136f0460dcc0d2016ceefca8723bdf4ee70",
+      "size": 673587,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar"
     },
     {
       "path": "libraries/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar",
@@ -1615,10 +1549,10 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar"
     },
     {
-      "path": "libraries/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar",
-      "sha1": "9dd1a631c082d92ecd4bd8fd4cf55026c720a8c1",
-      "size": 328436,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar"
+      "path": "libraries/org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14.jar",
+      "sha1": "1194890e6f56ec29177673f2f12d0b8e627dec98",
+      "size": 785639,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14.jar"
     },
     {
       "path": "libraries/org/apache/httpcomponents/httpcore/4.4.15/httpcore-4.4.15.jar",
@@ -1633,12 +1567,6 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16.jar"
     },
     {
-      "path": "libraries/org/apache/logging/log4j/log4j-api/2.17.0/log4j-api-2.17.0.jar",
-      "sha1": "bbd791e9c8c9421e45337c4fe0a10851c086e36c",
-      "size": 301776,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/apache/logging/log4j/log4j-api/2.17.0/log4j-api-2.17.0.jar"
-    },
-    {
       "path": "libraries/org/apache/logging/log4j/log4j-api/2.19.0/log4j-api-2.19.0.jar",
       "sha1": "ea1b37f38c327596b216542bc636cfdc0b8036fa",
       "size": 317566,
@@ -1651,10 +1579,10 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/apache/logging/log4j/log4j-api/2.22.1/log4j-api-2.22.1.jar"
     },
     {
-      "path": "libraries/org/apache/logging/log4j/log4j-core/2.17.0/log4j-core-2.17.0.jar",
-      "sha1": "fe6e7a32c1228884b9691a744f953a55d0dd8ead",
-      "size": 1789339,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/apache/logging/log4j/log4j-core/2.17.0/log4j-core-2.17.0.jar"
+      "path": "libraries/org/apache/logging/log4j/log4j-api/2.24.1/log4j-api-2.24.1.jar",
+      "sha1": "7ebeb12c20606373005af4232cd0ecca72613dda",
+      "size": 348428,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/apache/logging/log4j/log4j-api/2.24.1/log4j-api-2.24.1.jar"
     },
     {
       "path": "libraries/org/apache/logging/log4j/log4j-core/2.19.0/log4j-core-2.19.0.jar",
@@ -1669,10 +1597,10 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/apache/logging/log4j/log4j-core/2.22.1/log4j-core-2.22.1.jar"
     },
     {
-      "path": "libraries/org/apache/logging/log4j/log4j-slf4j18-impl/2.17.0/log4j-slf4j18-impl-2.17.0.jar",
-      "sha1": "bd7f6c0b9224dd214afb4e684957e2349b529a8d",
-      "size": 21244,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/apache/logging/log4j/log4j-slf4j18-impl/2.17.0/log4j-slf4j18-impl-2.17.0.jar"
+      "path": "libraries/org/apache/logging/log4j/log4j-core/2.24.1/log4j-core-2.24.1.jar",
+      "sha1": "c85285146f28d8c8962384f786e2dff04172fb43",
+      "size": 1910958,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/apache/logging/log4j/log4j-core/2.24.1/log4j-core-2.24.1.jar"
     },
     {
       "path": "libraries/org/apache/logging/log4j/log4j-slf4j2-impl/2.19.0/log4j-slf4j2-impl-2.19.0.jar",
@@ -1687,10 +1615,10 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/apache/logging/log4j/log4j-slf4j2-impl/2.22.1/log4j-slf4j2-impl-2.22.1.jar"
     },
     {
-      "path": "libraries/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar",
-      "sha1": "f8ff8032903882376e8d000c51e3e16d20fc7df7",
-      "size": 57824,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar"
+      "path": "libraries/org/apache/logging/log4j/log4j-slf4j2-impl/2.24.1/log4j-slf4j2-impl-2.24.1.jar",
+      "sha1": "8e3ddc96464ef7f768823e7e001a52b23de8cd0a",
+      "size": 30133,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/apache/logging/log4j/log4j-slf4j2-impl/2.24.1/log4j-slf4j2-impl-2.24.1.jar"
     },
     {
       "path": "libraries/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar",
@@ -1759,16 +1687,10 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/joml/joml/1.10.5/joml-1.10.5.jar"
     },
     {
-      "path": "libraries/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2-natives-windows.jar",
-      "sha1": "05359f3aa50d36352815fc662ea73e1c00d22170",
-      "size": 279593,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2-natives-windows.jar"
-    },
-    {
-      "path": "libraries/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2.jar",
-      "sha1": "8ad6294407e15780b43e84929c40e4c5e997972e",
-      "size": 321900,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2.jar"
+      "path": "libraries/org/joml/joml/1.10.8/joml-1.10.8.jar",
+      "sha1": "fc0a71dad90a2cf41d82a76156a0e700af8e4f8d",
+      "size": 778846,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/joml/joml/1.10.8/joml-1.10.8.jar"
     },
     {
       "path": "libraries/org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1-natives-windows-arm64.jar",
@@ -1843,18 +1765,6 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3.jar"
     },
     {
-      "path": "libraries/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2-natives-windows.jar",
-      "sha1": "dc6826d636bf796b33a49038c354210e661bfc17",
-      "size": 266648,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2-natives-windows.jar"
-    },
-    {
-      "path": "libraries/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2.jar",
-      "sha1": "d3ad4df38e400b8afba1de63f84338809399df5b",
-      "size": 108907,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2.jar"
-    },
-    {
       "path": "libraries/org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1-natives-windows-arm64.jar",
       "sha1": "beda65ee503443e60aa196d58ed31f8d001dc22a",
       "size": 123808,
@@ -1901,18 +1811,6 @@
       "sha1": "efa1eb78c5ccd840e9f329717109b5e892d72f8e",
       "size": 135546,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3.jar"
-    },
-    {
-      "path": "libraries/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2-natives-windows.jar",
-      "sha1": "338b25b99da3ba5f441f6492f2ce2a9c608860ed",
-      "size": 220623,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2-natives-windows.jar"
-    },
-    {
-      "path": "libraries/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2.jar",
-      "sha1": "ee8e57a79300f78294576d87c4a587f8c99402e2",
-      "size": 34848,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2.jar"
     },
     {
       "path": "libraries/org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar",
@@ -1963,18 +1861,6 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/lwjgl/lwjgl-jemalloc/3.3.3/lwjgl-jemalloc-3.3.3.jar"
     },
     {
-      "path": "libraries/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2-natives-windows.jar",
-      "sha1": "ec20a7d42a2438528fca87e60b1705f1e2339ddb",
-      "size": 1310102,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2-natives-windows.jar"
-    },
-    {
-      "path": "libraries/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2.jar",
-      "sha1": "2b772a102b0a11ee5f2109a5b136f4dc7c630827",
-      "size": 80012,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2.jar"
-    },
-    {
       "path": "libraries/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1-natives-windows-arm64.jar",
       "sha1": "40d65f1a7368a2aa47336f9cb69f5a190cf9975a",
       "size": 505234,
@@ -2021,18 +1907,6 @@
       "sha1": "daada81ceb5fc0c291fbfdd4433cb8d9423577f2",
       "size": 110586,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3.jar"
-    },
-    {
-      "path": "libraries/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2-natives-windows.jar",
-      "sha1": "d8dcdc91066cae2d2d8279cb4a9f9f05d9525826",
-      "size": 170798,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2-natives-windows.jar"
-    },
-    {
-      "path": "libraries/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2.jar",
-      "sha1": "6ac5bb88b44c43ea195a570aab059f63da004cd8",
-      "size": 929780,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2.jar"
     },
     {
       "path": "libraries/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1-natives-windows-arm64.jar",
@@ -2083,18 +1957,6 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3.jar"
     },
     {
-      "path": "libraries/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2-natives-windows.jar",
-      "sha1": "811f705cbb29e8ae8d60bdf8fdd38c0c123ad3ef",
-      "size": 465810,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2-natives-windows.jar"
-    },
-    {
-      "path": "libraries/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2.jar",
-      "sha1": "3b8e6ebc5851dd3d17e37e5cadce2eff2a429f0f",
-      "size": 104469,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2.jar"
-    },
-    {
       "path": "libraries/org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1-natives-windows-arm64.jar",
       "sha1": "fde63cdd2605c00636721a6c8b961e41d1f6b247",
       "size": 216848,
@@ -2141,18 +2003,6 @@
       "sha1": "25dd6161988d7e65f71d5065c99902402ee32746",
       "size": 120283,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3.jar"
-    },
-    {
-      "path": "libraries/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2-natives-windows.jar",
-      "sha1": "e9115958773644e863332a6a06488d26f9e1fc9f",
-      "size": 208314,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2-natives-windows.jar"
-    },
-    {
-      "path": "libraries/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2.jar",
-      "sha1": "fcbe606c8f8da6f8f9a05e2c540eb1ee8632b0e9",
-      "size": 7092,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2.jar"
     },
     {
       "path": "libraries/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar",
@@ -2209,12 +2059,6 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar"
     },
     {
-      "path": "libraries/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar",
-      "sha1": "43977e804697048fc8d81d333a36c17d07a5b3dd",
-      "size": 2167288,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
-    },
-    {
       "path": "libraries/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar",
       "sha1": "f67f5ffaa5f5130cf6fb9b133da00c7df3b532a5",
       "size": 2167292,
@@ -2233,22 +2077,10 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/ow2/asm/asm/9.3/asm-9.3.jar"
     },
     {
-      "path": "libraries/org/ow2/asm/asm/9.5/asm-9.5.jar",
-      "sha1": "dc6ea1875f4d64fbc85e1691c95b96a3d8569c90",
-      "size": 121863,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/ow2/asm/asm/9.5/asm-9.5.jar"
-    },
-    {
       "path": "libraries/org/ow2/asm/asm/9.6/asm-9.6.jar",
       "sha1": "aa205cf0a06dbd8e04ece91c0b37c3f5d567546a",
       "size": 123598,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/ow2/asm/asm/9.6/asm-9.6.jar"
-    },
-    {
-      "path": "libraries/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar",
-      "sha1": "f0ed132a49244b042cd0e15702ab9f2ce3cc8436",
-      "size": 126093,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
     },
     {
       "path": "libraries/org/ow2/asm/asm/9.8/asm-9.8.jar",
@@ -2275,18 +2107,6 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar"
     },
     {
-      "path": "libraries/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar",
-      "sha1": "490bacc77de7cbc0be1a30bb3471072d705be4a4",
-      "size": 33978,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar"
-    },
-    {
-      "path": "libraries/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar",
-      "sha1": "f97a3b319f0ed6a8cd944dc79060d3912a28985f",
-      "size": 35126,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
-    },
-    {
       "path": "libraries/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar",
       "sha1": "b9747a320844b6cb1eacd90d8ecfd260a16c01d3",
       "size": 35151,
@@ -2311,22 +2131,10 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar"
     },
     {
-      "path": "libraries/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar",
-      "sha1": "19ab5b5800a3910d30d3a3e64fdb00fd0cb42de0",
-      "size": 72209,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar"
-    },
-    {
       "path": "libraries/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar",
       "sha1": "f1a9e5508eff490744144565c47326c8648be309",
       "size": 72194,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
-    },
-    {
-      "path": "libraries/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar",
-      "sha1": "406c6a2225cfe1819f102a161e54cc16a5c24f75",
-      "size": 73459,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
     },
     {
       "path": "libraries/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar",
@@ -2353,22 +2161,10 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar"
     },
     {
-      "path": "libraries/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar",
-      "sha1": "fd33c8b6373abaa675be407082fdfda35021254a",
-      "size": 51944,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar"
-    },
-    {
       "path": "libraries/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar",
       "sha1": "c0cdda9d211e965d2a4448aa3fd86110f2f8c2de",
       "size": 51935,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
-    },
-    {
-      "path": "libraries/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar",
-      "sha1": "3a53139787663b139de76b627fca0084ab60d32c",
-      "size": 51939,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
     },
     {
       "path": "libraries/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar",
@@ -2383,18 +2179,6 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
     },
     {
-      "path": "libraries/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar",
-      "sha1": "64b5a1fc8c1b15ed2efd6a063e976bc8d3dc5ffe",
-      "size": 91076,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar"
-    },
-    {
-      "path": "libraries/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar",
-      "sha1": "9e23359b598ec6b74b23e53110dd5c577adf2243",
-      "size": 94519,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
-    },
-    {
       "path": "libraries/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar",
       "sha1": "395f1c1f035258511f27bc9b2583d76e4b143f59",
       "size": 94559,
@@ -2407,16 +2191,16 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
     },
     {
-      "path": "libraries/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar",
-      "sha1": "83b0359d847ee053d745be7ec0d8e9e8a44304b4",
-      "size": 44213,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar"
-    },
-    {
       "path": "libraries/org/slf4j/slf4j-api/2.0.1/slf4j-api-2.0.1.jar",
       "sha1": "f48d81adce2abf5ad3cfe463df517952749e03bc",
       "size": 61388,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/slf4j/slf4j-api/2.0.1/slf4j-api-2.0.1.jar"
+    },
+    {
+      "path": "libraries/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.jar",
+      "sha1": "0172931663a09a1fa515567af5fbef00897d3c04",
+      "size": 69435,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.jar"
     },
     {
       "path": "libraries/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar",
@@ -4939,22 +4723,10 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/shaderpacks/superDuperVanilla.zip"
     },
     {
-      "path": "versions/1.20.1-forge-47.4.10/1.20.1-forge-47.4.10.json",
-      "sha1": "e8f31c29b64b8acd9a5ce8a62ffa4a0c82d4a97d",
-      "size": 1154,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/versions/1.20.1-forge-47.4.10/1.20.1-forge-47.4.10.json"
-    },
-    {
-      "path": "versions/forge-47.4.0/forge-47.4.0.jar",
+      "path": "versions/1.20.1-forge-47.4.10/1.20.1-forge-47.4.10.jar",
       "sha1": "0c3ec587af28e5a785c0b4a7b8a30f9a8f78f838",
       "size": 23028853,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/versions/forge-47.4.0/forge-47.4.0.jar"
-    },
-    {
-      "path": "versions/forge-47.4.0/forge-47.4.0.json",
-      "sha1": "9e7c1fec97b241af04d135b118cbc976f2004bbb",
-      "size": 14225,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/versions/forge-47.4.0/forge-47.4.0.json"
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/versions/1.20.1-forge-47.4.10/1.20.1-forge-47.4.10.jar"
     }
   ]
 }
