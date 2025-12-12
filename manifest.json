@@ -1,0 +1,2854 @@
+{
+  "files": [
+    {
+      "path": "config/fabric/indigo-renderer.properties",
+      "sha1": "7e5de76a8033165e8be513209a128f3e772777e9",
+      "size": 296,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fabric/indigo-renderer.properties"
+    },
+    {
+      "path": "config/fancymenu/animation_controller_states.json",
+      "sha1": "28e63700e7bad7792e68d8b367fce771db34cbef",
+      "size": 111,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/animation_controller_states.json"
+    },
+    {
+      "path": "config/fancymenu/assets/as21.png",
+      "sha1": "74024718f29ac7704da5e0447089cc5dc7df7efc",
+      "size": 5833833,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/assets/as21.png"
+    },
+    {
+      "path": "config/fancymenu/assets/im1.jpg",
+      "sha1": "01013140c5493874cef317ddd180246e6828f8fe",
+      "size": 18620,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/assets/im1.jpg"
+    },
+    {
+      "path": "config/fancymenu/assets/image.png",
+      "sha1": "4099ef7da1e20277e1f3a4bb5602739c9c84b0f0",
+      "size": 223238,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/assets/image.png"
+    },
+    {
+      "path": "config/fancymenu/assets/img2.png",
+      "sha1": "796b1d33b5911592742f8b9f426fda3f7ecca883",
+      "size": 298149,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/assets/img2.png"
+    },
+    {
+      "path": "config/fancymenu/assets/img3.png",
+      "sha1": "66196c173d20e03c39ddd75e068985e008fb581b",
+      "size": 448730,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/assets/img3.png"
+    },
+    {
+      "path": "config/fancymenu/assets/img4.png",
+      "sha1": "9de39d00a966bd3d6f00425ab7ad39d68cf9ae61",
+      "size": 1263039,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/assets/img4.png"
+    },
+    {
+      "path": "config/fancymenu/assets/img5.png",
+      "sha1": "2e72d1125dd0d064c96d8cebda31b7bc434614dc",
+      "size": 301668,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/assets/img5.png"
+    },
+    {
+      "path": "config/fancymenu/assets/img6.png",
+      "sha1": "e895838c164c37752904d1bf99458bfa636106ea",
+      "size": 1533929,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/assets/img6.png"
+    },
+    {
+      "path": "config/fancymenu/assets/logo.png",
+      "sha1": "47c1d24963f142338cec10c84cf970375f810a57",
+      "size": 91673,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/assets/logo.png"
+    },
+    {
+      "path": "config/fancymenu/assets/webo.png",
+      "sha1": "c323d02aa0766e4006e5cbe9fcfb369adc027fcb",
+      "size": 64552,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/assets/webo.png"
+    },
+    {
+      "path": "config/fancymenu/assets/webogif.gif",
+      "sha1": "d89099c0daf3969941d54dec840b834c032eea88",
+      "size": 1226570,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/assets/webogif.gif"
+    },
+    {
+      "path": "config/fancymenu/assets/zero.png",
+      "sha1": "742e29193b6de3ce7d8291956e12e27e9a888982",
+      "size": 177838,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/assets/zero.png"
+    },
+    {
+      "path": "config/fancymenu/assets/zero1.png",
+      "sha1": "c87f73149672a79c0c12a73d42608f82bab8b5a1",
+      "size": 246511,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/assets/zero1.png"
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "sha1": "97c76f9e4585744d4f45401fe15959311404233c",
+      "size": 55,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/customizablemenus.txt"
+    },
+    {
+      "path": "config/fancymenu/customization/test2.txt",
+      "sha1": "2b0538df81ed5586cac77fb7399d8f8b79d605a9",
+      "size": 36308,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/customization/test2.txt"
+    },
+    {
+      "path": "config/fancymenu/customization/webos.txt",
+      "sha1": "95b5e0541a57016f7f9eaf88c737988ea74be196",
+      "size": 33825,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/customization/webos.txt"
+    },
+    {
+      "path": "config/fancymenu/custom_gui_screens.txt",
+      "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c",
+      "size": 51,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/custom_gui_screens.txt"
+    },
+    {
+      "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "sha1": "adc605cf794120522f34a402a4301baf4e59350d",
+      "size": 197,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+    },
+    {
+      "path": "config/fancymenu/legacy_checklist.txt",
+      "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e",
+      "size": 42,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/legacy_checklist.txt"
+    },
+    {
+      "path": "config/fancymenu/options.txt",
+      "sha1": "8c3c9ba621741fa065dadc9dbbd73b5a4a8c1a68",
+      "size": 2129,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/options.txt"
+    },
+    {
+      "path": "config/fancymenu/slideshows/im1.jpg",
+      "sha1": "01013140c5493874cef317ddd180246e6828f8fe",
+      "size": 18620,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/slideshows/im1.jpg"
+    },
+    {
+      "path": "config/fancymenu/slideshows/image.png",
+      "sha1": "4099ef7da1e20277e1f3a4bb5602739c9c84b0f0",
+      "size": 223238,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/slideshows/image.png"
+    },
+    {
+      "path": "config/fancymenu/slideshows/images/im1.jpg",
+      "sha1": "01013140c5493874cef317ddd180246e6828f8fe",
+      "size": 18620,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/slideshows/images/im1.jpg"
+    },
+    {
+      "path": "config/fancymenu/slideshows/images/image.png",
+      "sha1": "4099ef7da1e20277e1f3a4bb5602739c9c84b0f0",
+      "size": 223238,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/slideshows/images/image.png"
+    },
+    {
+      "path": "config/fancymenu/slideshows/images/img2.png",
+      "sha1": "796b1d33b5911592742f8b9f426fda3f7ecca883",
+      "size": 298149,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/slideshows/images/img2.png"
+    },
+    {
+      "path": "config/fancymenu/slideshows/images/img3.png",
+      "sha1": "66196c173d20e03c39ddd75e068985e008fb581b",
+      "size": 448730,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/slideshows/images/img3.png"
+    },
+    {
+      "path": "config/fancymenu/slideshows/images/img4.png",
+      "sha1": "9de39d00a966bd3d6f00425ab7ad39d68cf9ae61",
+      "size": 1263039,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/slideshows/images/img4.png"
+    },
+    {
+      "path": "config/fancymenu/slideshows/images/img5.png",
+      "sha1": "2e72d1125dd0d064c96d8cebda31b7bc434614dc",
+      "size": 301668,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/slideshows/images/img5.png"
+    },
+    {
+      "path": "config/fancymenu/slideshows/images/img6.png",
+      "sha1": "e895838c164c37752904d1bf99458bfa636106ea",
+      "size": 1533929,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/slideshows/images/img6.png"
+    },
+    {
+      "path": "config/fancymenu/slideshows/img2.png",
+      "sha1": "796b1d33b5911592742f8b9f426fda3f7ecca883",
+      "size": 298149,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/slideshows/img2.png"
+    },
+    {
+      "path": "config/fancymenu/slideshows/img3.png",
+      "sha1": "66196c173d20e03c39ddd75e068985e008fb581b",
+      "size": 448730,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/slideshows/img3.png"
+    },
+    {
+      "path": "config/fancymenu/slideshows/img4.png",
+      "sha1": "9de39d00a966bd3d6f00425ab7ad39d68cf9ae61",
+      "size": 1263039,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/slideshows/img4.png"
+    },
+    {
+      "path": "config/fancymenu/slideshows/img5.png",
+      "sha1": "2e72d1125dd0d064c96d8cebda31b7bc434614dc",
+      "size": 301668,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/slideshows/img5.png"
+    },
+    {
+      "path": "config/fancymenu/slideshows/img6.png",
+      "sha1": "e895838c164c37752904d1bf99458bfa636106ea",
+      "size": 1533929,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/slideshows/img6.png"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark.json",
+      "sha1": "22cefe5b52927d21f68b7e1537f52fba7ec6cca1",
+      "size": 6218,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/ui_themes/dark.json"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light.json",
+      "sha1": "800a6df3553074fe5474a9dc43d0ce0fdeb8f131",
+      "size": 6220,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/ui_themes/light.json"
+    },
+    {
+      "path": "config/fancymenu/user_variables.db",
+      "sha1": "b41f9d7688944b0d96eaa089a5a5bb74af28d258",
+      "size": 23,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/user_variables.db"
+    },
+    {
+      "path": "config/fancymenu/video_element_controller_metas.json",
+      "sha1": "5d81cd4e11de6effda263d2350fda417a34e9372",
+      "size": 130,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/fancymenu/video_element_controller_metas.json"
+    },
+    {
+      "path": "config/konkrete/locals/de_de.local",
+      "sha1": "02adaf2602f1ba03a9352db3d10a6fac3a02aea5",
+      "size": 369,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/konkrete/locals/de_de.local"
+    },
+    {
+      "path": "config/konkrete/locals/en_us.local",
+      "sha1": "42badc338e767559db38a67bd3e8020a92000e56",
+      "size": 426,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/konkrete/locals/en_us.local"
+    },
+    {
+      "path": "config/konkrete/locals/pl_pl.local",
+      "sha1": "adf2ded54b4952ca83af26a1217e2c5db8ac1429",
+      "size": 313,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/konkrete/locals/pl_pl.local"
+    },
+    {
+      "path": "config/konkrete/locals/pt_br.local",
+      "sha1": "9c324fb4d33106366e6cbb5400c8c34f11539d34",
+      "size": 322,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/konkrete/locals/pt_br.local"
+    },
+    {
+      "path": "config/modmenu.json",
+      "sha1": "d1f10fbacb91be7ec9b84ad261059c9fb4e5d62f",
+      "size": 840,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/config/modmenu.json"
+    },
+    {
+      "path": "fancymenu_data/action_favorites.json",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/fancymenu_data/action_favorites.json"
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_leveling.json",
+      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
+      "size": 1619,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/fancymenu_data/buddy/buddy_leveling.json"
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_save.json",
+      "sha1": "0ef158f51ca8c391a0bf7744600cd57b084dbcc4",
+      "size": 260,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/fancymenu_data/buddy/buddy_save.json"
+    },
+    {
+      "path": "fancymenu_data/cached_data/im1.jpg",
+      "sha1": "01013140c5493874cef317ddd180246e6828f8fe",
+      "size": 18620,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/fancymenu_data/cached_data/im1.jpg"
+    },
+    {
+      "path": "fancymenu_data/cached_data/image.png",
+      "sha1": "4099ef7da1e20277e1f3a4bb5602739c9c84b0f0",
+      "size": 223238,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/fancymenu_data/cached_data/image.png"
+    },
+    {
+      "path": "fancymenu_data/cached_data/img2.png",
+      "sha1": "796b1d33b5911592742f8b9f426fda3f7ecca883",
+      "size": 298149,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/fancymenu_data/cached_data/img2.png"
+    },
+    {
+      "path": "fancymenu_data/cached_data/img3.png",
+      "sha1": "66196c173d20e03c39ddd75e068985e008fb581b",
+      "size": 448730,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/fancymenu_data/cached_data/img3.png"
+    },
+    {
+      "path": "fancymenu_data/cached_data/img4.png",
+      "sha1": "9de39d00a966bd3d6f00425ab7ad39d68cf9ae61",
+      "size": 1263039,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/fancymenu_data/cached_data/img4.png"
+    },
+    {
+      "path": "fancymenu_data/cached_data/img5.png",
+      "sha1": "2e72d1125dd0d064c96d8cebda31b7bc434614dc",
+      "size": 301668,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/fancymenu_data/cached_data/img5.png"
+    },
+    {
+      "path": "fancymenu_data/cached_data/img6.png",
+      "sha1": "e895838c164c37752904d1bf99458bfa636106ea",
+      "size": 1533929,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/fancymenu_data/cached_data/img6.png"
+    },
+    {
+      "path": "fancymenu_data/last_world.fmdata",
+      "sha1": "5ebd91388679cf8ff29ac3f8253d61aacf46abfb",
+      "size": 84,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/fancymenu_data/last_world.fmdata"
+    },
+    {
+      "path": "mods/additionaladditions-6.0.1.jar",
+      "sha1": "8f1f9125f5cb27a8bc34087b3939a54b37e610cf",
+      "size": 3847478,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/additionaladditions-6.0.1.jar"
+    },
+    {
+      "path": "mods/AdLods-1.20.1-8.1.7.0-build.1496.jar",
+      "sha1": "b8bf34c0f17d2c902a6a47816831705129f17b49",
+      "size": 192747,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/AdLods-1.20.1-8.1.7.0-build.1496.jar"
+    },
+    {
+      "path": "mods/AdvancementPlaques-1.20.1-forge-1.6.9.jar",
+      "sha1": "6e7b01db61f9646977bd06e9d85492a667d4a8bd",
+      "size": 208850,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/AdvancementPlaques-1.20.1-forge-1.6.9.jar"
+    },
+    {
+      "path": "mods/AI-Improvements-1.20-0.5.2.jar",
+      "sha1": "11ad483d1fd1f7ebd84b4940b1dc0926b3e9daa8",
+      "size": 29553,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/AI-Improvements-1.20-0.5.2.jar"
+    },
+    {
+      "path": "mods/alekiNiftyShips-FORGE-1.20.1-1.0.14.jar",
+      "sha1": "c42aaab43cd524c45c4065996cc06b9b48c5682a",
+      "size": 22335232,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/alekiNiftyShips-FORGE-1.20.1-1.0.14.jar"
+    },
+    {
+      "path": "mods/Alex's Mobs Music Mod 1.20.1 v1.1.0.jar",
+      "sha1": "9701ee4096d103963fc1e73aaa45eb534177219d",
+      "size": 3919767,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Alex's Mobs Music Mod 1.20.1 v1.1.0.jar"
+    },
+    {
+      "path": "mods/alexscaves-2.0.2.jar",
+      "sha1": "a1e5c7b7c7eadda4c8e954acbcbaf75a7b500d53",
+      "size": 74871657,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/alexscaves-2.0.2.jar"
+    },
+    {
+      "path": "mods/alexscaves_torpedoes-1.0.4.jar",
+      "sha1": "616852e109f7f063ad614d9b566967590581e2bf",
+      "size": 1476678,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/alexscaves_torpedoes-1.0.4.jar"
+    },
+    {
+      "path": "mods/alexsdelight-1.5.jar",
+      "sha1": "ef7049ba6f16df22c8d98dd4dad2d9dc2aa6b6ba",
+      "size": 55398,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/alexsdelight-1.5.jar"
+    },
+    {
+      "path": "mods/alexsmobs-1.22.9.jar",
+      "sha1": "dbf93d2f1da19e16739e91e8ea0fc6f4bc2f228f",
+      "size": 26350793,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/alexsmobs-1.22.9.jar"
+    },
+    {
+      "path": "mods/alltheleaks-1.1.1+1.20.1-forge.jar",
+      "sha1": "3c43c2e76093dc7ef5ad6e456d20da9674c653aa",
+      "size": 1187126,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/alltheleaks-1.1.1+1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/AmbientSounds_FORGE_v6.3.1_mc1.20.1.jar",
+      "sha1": "b6c676fbe4e586de6c266190943c069a0a49104d",
+      "size": 52449474,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/AmbientSounds_FORGE_v6.3.1_mc1.20.1.jar"
+    },
+    {
+      "path": "mods/amendments-1.20-2.2.3.jar",
+      "sha1": "70f46de146e959d6abb4346a0ac7dfb04475d239",
+      "size": 1294274,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/amendments-1.20-2.2.3.jar"
+    },
+    {
+      "path": "mods/AnvilRepairing-Forge-1.20.1-4.0.9.jar",
+      "sha1": "e526dae6ced2bcdea930773e847a8fd97482a6b6",
+      "size": 9088,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/AnvilRepairing-Forge-1.20.1-4.0.9.jar"
+    },
+    {
+      "path": "mods/ApothicAttributes-1.20.1-1.3.7.jar",
+      "sha1": "1dc0744d17f0861fe6b067798d39abce9d8e0e86",
+      "size": 227511,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/ApothicAttributes-1.20.1-1.3.7.jar"
+    },
+    {
+      "path": "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "sha1": "81919356f84eab14258db98924b66c3c38e372b1",
+      "size": 47428,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/appleskin-forge-mc1.20.1-2.5.1.jar"
+    },
+    {
+      "path": "mods/aquacombat 1.2.jar",
+      "sha1": "f4587161d10325d3b5788aa8c80530d888500037",
+      "size": 5292,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/aquacombat 1.2.jar"
+    },
+    {
+      "path": "mods/Aquaculture-1.20.1-2.5.6.jar",
+      "sha1": "8a00a1f1d83d7c80a3f14f0a4030873950c41978",
+      "size": 602097,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Aquaculture-1.20.1-2.5.6.jar"
+    },
+    {
+      "path": "mods/aquaculturedelight-1.1.1-forge-1.20.1.jar",
+      "sha1": "e20e281d1d8909d334a331e110ad091d4b03027f",
+      "size": 225149,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/aquaculturedelight-1.1.1-forge-1.20.1.jar"
+    },
+    {
+      "path": "mods/Aquamirae Mod Boss Music Tweaks 1.20.1 v1.1.0.jar",
+      "sha1": "3cd130f137bba8429dec78b943db6ddc47a306d4",
+      "size": 7911875,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Aquamirae Mod Boss Music Tweaks 1.20.1 v1.1.0.jar"
+    },
+    {
+      "path": "mods/aquamirae-forge-1.20.1-6.1.2.jar",
+      "sha1": "3c4287166225fc010d29f94a546f908f0fdebef8",
+      "size": 17954713,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/aquamirae-forge-1.20.1-6.1.2.jar"
+    },
+    {
+      "path": "mods/aquamirae_delight-1.5.2-forge-1.20.1.jar",
+      "sha1": "3486cd1765ed0f84144f57ba039b818852b2cf54",
+      "size": 202434,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/aquamirae_delight-1.5.2-forge-1.20.1.jar"
+    },
+    {
+      "path": "mods/architectury-9.2.14-forge.jar",
+      "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+      "size": 580602,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/architectury-9.2.14-forge.jar"
+    },
+    {
+      "path": "mods/ArmorTrimItemFix-forge-1.20.1-1.2.0.jar",
+      "sha1": "dbc1a172f22f7f83b060e16c8da7a9c15ea52182",
+      "size": 3140426,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/ArmorTrimItemFix-forge-1.20.1-1.2.0.jar"
+    },
+    {
+      "path": "mods/artifacts-forge-9.5.16.jar",
+      "sha1": "41b0751ec3f1410f1bee668f4e68e4c5c43f8fac",
+      "size": 850457,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/artifacts-forge-9.5.16.jar"
+    },
+    {
+      "path": "mods/Ash Of Sin-Soul Like Boss Battle-1.20.1-1.0.3.jar",
+      "sha1": "91aee975c279e31d860518c1816c460718ac8ceb",
+      "size": 66709,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Ash Of Sin-Soul Like Boss Battle-1.20.1-1.0.3.jar"
+    },
+    {
+      "path": "mods/astikorcarts-1.20.1-1.1.8.jar",
+      "sha1": "49a8ac1c23282fe86420f0b4527e522421f2f692",
+      "size": 231706,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/astikorcarts-1.20.1-1.1.8.jar"
+    },
+    {
+      "path": "mods/AttributeFix-Forge-1.20.1-21.0.4.jar",
+      "sha1": "6eb69343eb21d38f95d1b1d00e6bc777bdb336fa",
+      "size": 19471,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/AttributeFix-Forge-1.20.1-21.0.4.jar"
+    },
+    {
+      "path": "mods/BadOptimizations-2.4.0-1.20.1.jar",
+      "sha1": "d664f5e16a4ddef2a207146155716cfb299eb4f7",
+      "size": 463375,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/BadOptimizations-2.4.0-1.20.1.jar"
+    },
+    {
+      "path": "mods/baguettelib-1.20.1-Forge-1.1.5.jar",
+      "sha1": "7aaab6216e7fc72e1606b1e35f1f56a18f01153f",
+      "size": 31868,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/baguettelib-1.20.1-Forge-1.1.5.jar"
+    },
+    {
+      "path": "mods/balm-forge-1.20.1-7.3.37-all.jar",
+      "sha1": "bb7af11fd4bc2e76fce98f90c752279ae381b934",
+      "size": 590486,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/balm-forge-1.20.1-7.3.37-all.jar"
+    },
+    {
+      "path": "mods/bedspreads-forge-6.3.0+1.20.1.jar",
+      "sha1": "37e18532608a0f5d6f9efa200c0c71a734f4f8dd",
+      "size": 212376,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/bedspreads-forge-6.3.0+1.20.1.jar"
+    },
+    {
+      "path": "mods/bestylewither-forge-mc1.20-1.6.1.jar",
+      "sha1": "99a4de2f8ff373982455f82fe7e8a57c836b96cf",
+      "size": 175821,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/bestylewither-forge-mc1.20-1.6.1.jar"
+    },
+    {
+      "path": "mods/BetterAdvancements-Forge-1.20.1-0.4.2.10.jar",
+      "sha1": "3c5c99f481e48fcf41223b48063af6851378e746",
+      "size": 98123,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/BetterAdvancements-Forge-1.20.1-0.4.2.10.jar"
+    },
+    {
+      "path": "mods/betterarcheology-1.2.1-1.20.1.jar",
+      "sha1": "c2cb928bef1c1aa89e90e72b8544b885aceb5d01",
+      "size": 982838,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/betterarcheology-1.2.1-1.20.1.jar"
+    },
+    {
+      "path": "mods/BetterBeacons-Forge-1.20.1-2.0.0.jar",
+      "sha1": "af05241e1b25d6d843464a9b335d21002badd31e",
+      "size": 415307,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/BetterBeacons-Forge-1.20.1-2.0.0.jar"
+    },
+    {
+      "path": "mods/betterbiomereblend-1.5.3.jar",
+      "sha1": "80d2e5e3bc88c610244d449859c4e3480f3edae1",
+      "size": 226772,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/betterbiomereblend-1.5.3.jar"
+    },
+    {
+      "path": "mods/bettercombat-forge-1.9.0+1.20.1.jar",
+      "sha1": "ea7e7247132cb3acacadd96b2b6b635c4cc63a74",
+      "size": 1054339,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/bettercombat-forge-1.9.0+1.20.1.jar"
+    },
+    {
+      "path": "mods/BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar",
+      "sha1": "c5407cfd0b38d8db6d6f1c0088397f4c5616c7ae",
+      "size": 26540,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar"
+    },
+    {
+      "path": "mods/betterdays-1.20.1-3.3.4.5-FORGE.jar",
+      "sha1": "281989d937d10266e059d4df4813cdb536531584",
+      "size": 543969,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/betterdays-1.20.1-3.3.4.5-FORGE.jar"
+    },
+    {
+      "path": "mods/betterendcities-1.0.0-1.20.1.jar",
+      "sha1": "be5951d1f64cbac1f1d5a60e415f6e7bd90551d4",
+      "size": 81018,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/betterendcities-1.0.0-1.20.1.jar"
+    },
+    {
+      "path": "mods/BetterF3-7.0.2-Forge-1.20.1.jar",
+      "sha1": "b65cba59e87dc6c6d1aa9c47f09b9996b4e5075d",
+      "size": 468517,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/BetterF3-7.0.2-Forge-1.20.1.jar"
+    },
+    {
+      "path": "mods/betterfpsdist-1.20.1-6.0.jar",
+      "sha1": "8e4fe2cd85c08c24ab363b47a63d1c872fc3cc1e",
+      "size": 19917,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/betterfpsdist-1.20.1-6.0.jar"
+    },
+    {
+      "path": "mods/BetterThanMending-1.7.2.jar",
+      "sha1": "d54e7e41e992ccc8038a9ecc8dd6ee666f659f8e",
+      "size": 5102,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/BetterThanMending-1.7.2.jar"
+    },
+    {
+      "path": "mods/BetterTridents-v8.0.1-1.20.1-Forge.jar",
+      "sha1": "900d906d80c33a10f277bbfbca166b40af1d68b5",
+      "size": 89292,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/BetterTridents-v8.0.1-1.20.1-Forge.jar"
+    },
+    {
+      "path": "mods/better_climbing-forge-3.jar",
+      "sha1": "74558f3499d9e5e1f4e29e0163781c594df52eb8",
+      "size": 12199,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/better_climbing-forge-3.jar"
+    },
+    {
+      "path": "mods/bigger_vanilla_trees-forge-1.20-1.0.jar",
+      "sha1": "ecdf4dc22d7fc15944680432692931c82988c582",
+      "size": 86596,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/bigger_vanilla_trees-forge-1.20-1.0.jar"
+    },
+    {
+      "path": "mods/biomemakeover-FORGE-1.20.1-1.11.4.jar",
+      "sha1": "8093790297cc1c567184708aac6c8b98b5c8430c",
+      "size": 6780712,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/biomemakeover-FORGE-1.20.1-1.11.4.jar"
+    },
+    {
+      "path": "mods/blazegear-1.4.5.jar",
+      "sha1": "545e0163357dddef84b99547b535a105bb2c580e",
+      "size": 123151,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/blazegear-1.4.5.jar"
+    },
+    {
+      "path": "mods/blossom.jar",
+      "sha1": "60de94121c90db74ca13e581dfdbf30a2054d022",
+      "size": 7029,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/blossom.jar"
+    },
+    {
+      "path": "mods/blueprint-1.20.1-7.1.3.jar",
+      "sha1": "fdf9cb568546e80485ea4402a39656ed9acfa991",
+      "size": 1151213,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/blueprint-1.20.1-7.1.3.jar"
+    },
+    {
+      "path": "mods/blur-forge-3.1.1.jar",
+      "sha1": "562f34155f3849463449aeb1ab54cc7064e4bc86",
+      "size": 177259,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/blur-forge-3.1.1.jar"
+    },
+    {
+      "path": "mods/BoatBreakFix-Universal-1.0.2.jar",
+      "sha1": "f0bc583479532b7a83cded5ac86f0b3622c69558",
+      "size": 6866,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/BoatBreakFix-Universal-1.0.2.jar"
+    },
+    {
+      "path": "mods/BOMD-Forge-1.20.1-1.1.2.jar",
+      "sha1": "2caa8739ed9702c5ad87b6c5436432f8be755217",
+      "size": 1753623,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/BOMD-Forge-1.20.1-1.1.2.jar"
+    },
+    {
+      "path": "mods/Bookshelf-Forge-1.20.1-20.2.13.jar",
+      "sha1": "c53d9eb5ce9e8ef0f2ea9b11e478d84ce958c3e5",
+      "size": 343962,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Bookshelf-Forge-1.20.1-20.2.13.jar"
+    },
+    {
+      "path": "mods/born_in_chaos_[Forge]1.20.1_1.7.3.jar",
+      "sha1": "2eb9ee651bdf5330b5a5a20182df4d8cde46a19b",
+      "size": 11824309,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/born_in_chaos_[Forge]1.20.1_1.7.3.jar"
+    },
+    {
+      "path": "mods/Boss Music Mod 1.20.x v1.2.1.jar",
+      "sha1": "4fb5935f1df17a135e448d6ec4e339f14b2c2361",
+      "size": 9019150,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Boss Music Mod 1.20.x v1.2.1.jar"
+    },
+    {
+      "path": "mods/Botania-1.20.1-450-FORGE.jar",
+      "sha1": "637e1d7ac69d89f17aea813e0b43f2ee806e3b14",
+      "size": 12195508,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Botania-1.20.1-450-FORGE.jar"
+    },
+    {
+      "path": "mods/bounced-4.1.0-forge1.20.1.jar",
+      "sha1": "47daa5a2d222677efdf5a9bf2a83e144580b3681",
+      "size": 53662,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/bounced-4.1.0-forge1.20.1.jar"
+    },
+    {
+      "path": "mods/Bountiful-6.0.4+1.20.1-forge.jar",
+      "sha1": "3627112f17aeef9018d98883a2469e7f90afc3c4",
+      "size": 502662,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Bountiful-6.0.4+1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/bowinfinityfix-1.20.x-forge-2.6.0.jar",
+      "sha1": "aecf2b133ef23251d2640795f719fbc7dec10b44",
+      "size": 5752,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/bowinfinityfix-1.20.x-forge-2.6.0.jar"
+    },
+    {
+      "path": "mods/Butchersdelight beta 1.20.1 2.1.0.jar",
+      "sha1": "eefde2b0a35ae4380c131ac083116b8f797afe56",
+      "size": 3942918,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Butchersdelight beta 1.20.1 2.1.0.jar"
+    },
+    {
+      "path": "mods/bygonenether-1.3.2-1.20.x.jar",
+      "sha1": "529e31d2877b87a8bf006f590513a33ab6b73171",
+      "size": 7642613,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/bygonenether-1.3.2-1.20.x.jar"
+    },
+    {
+      "path": "mods/caelus-forge-3.2.0+1.20.1.jar",
+      "sha1": "fa834f140bf7dce7b67c29b46cb531f4309d3209",
+      "size": 40125,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/caelus-forge-3.2.0+1.20.1.jar"
+    },
+    {
+      "path": "mods/carryon-forge-1.20.1-2.1.2.7.jar",
+      "sha1": "9999714ca3dd2f2401f0396ca44f3b27c3784c4f",
+      "size": 439457,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/carryon-forge-1.20.1-2.1.2.7.jar"
+    },
+    {
+      "path": "mods/cataclysmiccombat-1.4.1-1.20.1.jar",
+      "sha1": "f455a6e260afa4903703f8b063ecbc6c494887d2",
+      "size": 4291,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/cataclysmiccombat-1.4.1-1.20.1.jar"
+    },
+    {
+      "path": "mods/catloaf-1.1.3-1.20.x-FORGE.jar",
+      "sha1": "bbf12aac95c6950331c63769da55241a2536047c",
+      "size": 74875,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/catloaf-1.1.3-1.20.x-FORGE.jar"
+    },
+    {
+      "path": "mods/cavedust-2.0.4-1.20.1-forge.jar",
+      "sha1": "c18fba965e5dab309de5adf9e8fd7ee3253be7e9",
+      "size": 32512,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/cavedust-2.0.4-1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/celestisynth-1.20.1-1.3.3-all.jar",
+      "sha1": "587d9980e695dc0c1bb4f6bcc3892cda0eb2a135",
+      "size": 2664846,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/celestisynth-1.20.1-1.3.3-all.jar"
+    },
+    {
+      "path": "mods/CerbonsAPI-Forge-1.20.1-1.1.0.jar",
+      "sha1": "83cccb66e679d72345a5194e4ca520f647bc97e6",
+      "size": 241148,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/CerbonsAPI-Forge-1.20.1-1.1.0.jar"
+    },
+    {
+      "path": "mods/charmofundying-forge-6.5.0+1.20.1.jar",
+      "sha1": "2afdc7f42b47384062012e54439c4aab90fb7063",
+      "size": 169487,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/charmofundying-forge-6.5.0+1.20.1.jar"
+    },
+    {
+      "path": "mods/chefsdelight-1.0.4-forge-1.20.1.jar",
+      "sha1": "4bb324dcad6b13df4ecbfa4d9c46664a5ee8da6f",
+      "size": 98303,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/chefsdelight-1.0.4-forge-1.20.1.jar"
+    },
+    {
+      "path": "mods/cherishedworlds-forge-6.1.7+1.20.1.jar",
+      "sha1": "d3eb588c64691c9da83460e3b2e783401d337a34",
+      "size": 60956,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/cherishedworlds-forge-6.1.7+1.20.1.jar"
+    },
+    {
+      "path": "mods/Chimes-v2.0.1-1.20.1.jar",
+      "sha1": "439e82c2e4f2f159996dc158915f20536cd600a9",
+      "size": 12444849,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Chimes-v2.0.1-1.20.1.jar"
+    },
+    {
+      "path": "mods/chunksending-1.20.1-2.8.jar",
+      "sha1": "befdcf1c0177c8dd97d68ebb3c5c5581065caefe",
+      "size": 11734,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/chunksending-1.20.1-2.8.jar"
+    },
+    {
+      "path": "mods/Chunky-1.3.146.jar",
+      "sha1": "0b782d12b4ac3b03a94c28f32e9b2d5587d1dd50",
+      "size": 341451,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Chunky-1.3.146.jar"
+    },
+    {
+      "path": "mods/citadel-2.6.2-1.20.1.jar",
+      "sha1": "06866f4005d3f6ba63ac01f715b352842d809bbd",
+      "size": 3185379,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/citadel-2.6.2-1.20.1.jar"
+    },
+    {
+      "path": "mods/cleanswing-1.20-1.8.jar",
+      "sha1": "c128e24c47ab4a389b3868ff6913ee0631f254e8",
+      "size": 8305,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/cleanswing-1.20-1.8.jar"
+    },
+    {
+      "path": "mods/clickadv-1.20.1-3.8.jar",
+      "sha1": "a348e4418676ed8b1ffea6c54755f1ee8656f559",
+      "size": 16295,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/clickadv-1.20.1-3.8.jar"
+    },
+    {
+      "path": "mods/clientcrafting-1.20.1-1.8.jar",
+      "sha1": "2cd821e69e88d3eda2c144b268c25b361ded3d9a",
+      "size": 7089,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/clientcrafting-1.20.1-1.8.jar"
+    },
+    {
+      "path": "mods/cloth-config-11.1.136-forge.jar",
+      "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f",
+      "size": 1181413,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/cloth-config-11.1.136-forge.jar"
+    },
+    {
+      "path": "mods/Clumps-forge-1.20.1-12.0.0.4.jar",
+      "sha1": "97cc669f68dbe812cb77cc3631339334fc28b877",
+      "size": 20299,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Clumps-forge-1.20.1-12.0.0.4.jar"
+    },
+    {
+      "path": "mods/cobweb-forge-1.20.1-1.0.1.jar",
+      "sha1": "607bbb82656d28ddfaa5ef2ec6e9c413859f5956",
+      "size": 87042,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/cobweb-forge-1.20.1-1.0.1.jar"
+    },
+    {
+      "path": "mods/Cognition-v2.4.9-1.20.1.jar",
+      "sha1": "36036ee514ba1250d11f3ce2a718fc616ed38646",
+      "size": 640122,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Cognition-v2.4.9-1.20.1.jar"
+    },
+    {
+      "path": "mods/collective-1.20.1-8.13.jar",
+      "sha1": "74b917dd99cd97b2f0480628a1b56958f5e0f5ad",
+      "size": 665169,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/collective-1.20.1-8.13.jar"
+    },
+    {
+      "path": "mods/combatroll-forge-1.3.3+1.20.1.jar",
+      "sha1": "4ff92ecd8df9b5a280330f68ef9c7a8a2300b23f",
+      "size": 217962,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/combatroll-forge-1.3.3+1.20.1.jar"
+    },
+    {
+      "path": "mods/CompletionistsIndex-v8.0.0-1.20.1-Forge.jar",
+      "sha1": "5a304f957f09dac883ab43b752cf415876edc341",
+      "size": 86781,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/CompletionistsIndex-v8.0.0-1.20.1-Forge.jar"
+    },
+    {
+      "path": "mods/configured-forge-1.20.1-2.2.3.jar",
+      "sha1": "065c2d287a52f52fc8d33d780192325ee6f4b6ae",
+      "size": 418929,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/configured-forge-1.20.1-2.2.3.jar"
+    },
+    {
+      "path": "mods/Connectible Chains-forge-1.20.1-1.1.1.jar",
+      "sha1": "c2d46c7d488623a65df0225459231d0b0102c0f9",
+      "size": 175462,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Connectible Chains-forge-1.20.1-1.1.1.jar"
+    },
+    {
+      "path": "mods/connectivity-1.20.1-7.2.jar",
+      "sha1": "b05ecfb2729938fb5ce38df6af43b0b4e55b1833",
+      "size": 112268,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/connectivity-1.20.1-7.2.jar"
+    },
+    {
+      "path": "mods/Corgilib-Forge-1.20.1-4.0.3.4.jar",
+      "sha1": "4b08e5f8f2580842eacd5388458a0b52411a9fb2",
+      "size": 360700,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Corgilib-Forge-1.20.1-4.0.3.4.jar"
+    },
+    {
+      "path": "mods/coroutil-forge-1.20.1-1.3.7.jar",
+      "sha1": "7f5f0b62a638b6053c95919cbe8c2bea2e0c93d0",
+      "size": 64187,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/coroutil-forge-1.20.1-1.3.7.jar"
+    },
+    {
+      "path": "mods/corpse-forge-1.20.1-1.0.23.jar",
+      "sha1": "843b16ca88bc5c390bb22a2a84437e6bffdd43dd",
+      "size": 245644,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/corpse-forge-1.20.1-1.0.23.jar"
+    },
+    {
+      "path": "mods/corpsecurioscompat-1.20.1-Forge-3.1.3.jar",
+      "sha1": "3b36538ca8c6cc16982788c8e058cb726357a90c",
+      "size": 23655,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/corpsecurioscompat-1.20.1-Forge-3.1.3.jar"
+    },
+    {
+      "path": "mods/cosmeticarmorreworked-1.20.1-v1a.jar",
+      "sha1": "afd9fa3fe95e8c086e8d439df403ed1e5ea5cbea",
+      "size": 88752,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/cosmeticarmorreworked-1.20.1-v1a.jar"
+    },
+    {
+      "path": "mods/CraftPresence-2.7.0+1.20.1-forge.jar",
+      "sha1": "e37dbe8efb670d3a9e079e095d59410658c7e3e9",
+      "size": 2059525,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/CraftPresence-2.7.0+1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/CrashAssistant-forge-1.19-1.20.1-1.10.26.jar",
+      "sha1": "d5cd735e77ad7ef265cb4f80483a240e62239f5c",
+      "size": 1230034,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/CrashAssistant-forge-1.19-1.20.1-1.10.26.jar"
+    },
+    {
+      "path": "mods/crashexploitfixer-forge-1.1.0+1.20.1.jar",
+      "sha1": "5dec3209e6dbb6c4fa06fb544e797608a1d58014",
+      "size": 688719,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/crashexploitfixer-forge-1.1.0+1.20.1.jar"
+    },
+    {
+      "path": "mods/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
+      "sha1": "d49e8c29748677d0a530432f1c1bda4e9865da00",
+      "size": 1158417,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar"
+    },
+    {
+      "path": "mods/creeperoverhaul-3.0.2-forge.jar",
+      "sha1": "01e3275d3eb586c953ac786b1afee6e473eef947",
+      "size": 1456860,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/creeperoverhaul-3.0.2-forge.jar"
+    },
+    {
+      "path": "mods/cristellib-1.1.6-forge.jar",
+      "sha1": "524ecf0f93f28be2f5db21d87dd81bdbc1a450e1",
+      "size": 431318,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/cristellib-1.1.6-forge.jar"
+    },
+    {
+      "path": "mods/crittersandcompanions-forge-1.20.1-2.3.5.jar",
+      "sha1": "2f1e69f8c2df17459aff94762dbf197301e67d95",
+      "size": 1594359,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/crittersandcompanions-forge-1.20.1-2.3.5.jar"
+    },
+    {
+      "path": "mods/cupboard-1.20.1-2.7.jar",
+      "sha1": "204bc8aa83e8a685f64311b72d55505ab2eca867",
+      "size": 25983,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/cupboard-1.20.1-2.7.jar"
+    },
+    {
+      "path": "mods/curios-forge-5.14.1+1.20.1.jar",
+      "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
+      "size": 398066,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/curios-forge-5.14.1+1.20.1.jar"
+    },
+    {
+      "path": "mods/curiouslanterns-1.20.1-1.3.7.jar",
+      "sha1": "072677d8205e108b69074baa032f62668ad6edb6",
+      "size": 35886,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/curiouslanterns-1.20.1-1.3.7.jar"
+    },
+    {
+      "path": "mods/curious_armor_stands-1.20-5.1.0.jar",
+      "sha1": "7c69c82603c4797616fc7f4aed07062dd0afe203",
+      "size": 12526,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/curious_armor_stands-1.20-5.1.0.jar"
+    },
+    {
+      "path": "mods/CustomPlayerModels-1.20-0.6.25a.jar",
+      "sha1": "fc4f720cb0233ed08cbd6055865423189d757d37",
+      "size": 2792497,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/CustomPlayerModels-1.20-0.6.25a.jar"
+    },
+    {
+      "path": "mods/customvillagertrades-forge-20.25.0.jar",
+      "sha1": "48e82ed57a784b03cd8f7aa695efdbf1a2e85f25",
+      "size": 55863,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/customvillagertrades-forge-20.25.0.jar"
+    },
+    {
+      "path": "mods/DarkPaintings-Forge-1.20.1-17.0.5.jar",
+      "sha1": "46c2762720a82045c3f412dfd231e32d4445f4a3",
+      "size": 53036,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/DarkPaintings-Forge-1.20.1-17.0.5.jar"
+    },
+    {
+      "path": "mods/decorative_blocks-forge-1.20.1-4.1.3.jar",
+      "sha1": "10263d3e99807662ff065edce0e470fe62e84b30",
+      "size": 573928,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/decorative_blocks-forge-1.20.1-4.1.3.jar"
+    },
+    {
+      "path": "mods/deeperdarker-forge-1.20.1-1.3.3.jar",
+      "sha1": "12f95fa85c62123140d1962702a97a3bb746bbf5",
+      "size": 17844266,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/deeperdarker-forge-1.20.1-1.3.3.jar"
+    },
+    {
+      "path": "mods/defaultoptions-forge-1.20.1-18.0.4.jar",
+      "sha1": "37ef64d3ae7fda292c882ee949a0280bf6c7f033",
+      "size": 94684,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/defaultoptions-forge-1.20.1-18.0.4.jar"
+    },
+    {
+      "path": "mods/deltaboxlib-forge-2.2.0+1.20.1.jar",
+      "sha1": "8f5cd619b02eaccd936cc6a3e1e47fe558a728b7",
+      "size": 804529,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/deltaboxlib-forge-2.2.0+1.20.1.jar"
+    },
+    {
+      "path": "mods/diet-forge-2.1.1+1.20.1.jar",
+      "sha1": "c5f5d5980803259931dfa62236e888fb08ecf70a",
+      "size": 368483,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/diet-forge-2.1.1+1.20.1.jar"
+    },
+    {
+      "path": "mods/Ding-1.20.1-Forge-1.5.0.jar",
+      "sha1": "15272a231088077e566f383f51eb408d12c23308",
+      "size": 36827,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Ding-1.20.1-Forge-1.5.0.jar"
+    },
+    {
+      "path": "mods/DistantHorizons-2.3.6-b-1.20.1-fabric-forge.jar",
+      "sha1": "89fd2d00de842579e41efa9fe6a87f67dd99a113",
+      "size": 25362721,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/DistantHorizons-2.3.6-b-1.20.1-fabric-forge.jar"
+    },
+    {
+      "path": "mods/domesticationinnovation-1.7.1-1.20.1.jar",
+      "sha1": "8feae4ba8a3ffb117fa7b3b4291a520e2497fa1e",
+      "size": 853614,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/domesticationinnovation-1.7.1-1.20.1.jar"
+    },
+    {
+      "path": "mods/doubledoors-1.20.1-7.2.jar",
+      "sha1": "e97abe73c78be318584623a5e5b6e311e545da31",
+      "size": 54300,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/doubledoors-1.20.1-7.2.jar"
+    },
+    {
+      "path": "mods/do_a_barrel_roll-forge-3.5.6+1.20.1.jar",
+      "sha1": "08b58bfbdf20660bdc5a0c4a0b088f7d89f40a38",
+      "size": 625488,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/do_a_barrel_roll-forge-3.5.6+1.20.1.jar"
+    },
+    {
+      "path": "mods/dragonfight-1.20.1-4.7.jar",
+      "sha1": "649c0c3493a2373b1298d4b89d8c1723ee67b11f",
+      "size": 38450,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/dragonfight-1.20.1-4.7.jar"
+    },
+    {
+      "path": "mods/DrawersTooltip-1.20.1-forge-8.0.0.jar",
+      "sha1": "1af87c87a1f9810eedd06515d41015e97ec862d4",
+      "size": 17721,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/DrawersTooltip-1.20.1-forge-8.0.0.jar"
+    },
+    {
+      "path": "mods/drippyloadingscreen_forge_3.1.0_MC_1.20.1.jar",
+      "sha1": "5c5e9dd39881b9b65dba7d7124690c51430a3ff1",
+      "size": 285003,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/drippyloadingscreen_forge_3.1.0_MC_1.20.1.jar"
+    },
+    {
+      "path": "mods/dummmmmmy-1.20-2.0.9.jar",
+      "sha1": "782d16edca6fa22fb72fa825cec39117bbb7e78a",
+      "size": 363044,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/dummmmmmy-1.20-2.0.9.jar"
+    },
+    {
+      "path": "mods/Dungeon Now Loading-forge-1.20.1-2.11.jar",
+      "sha1": "8e3640696d86a71b7305c76381e84e3f703b55ce",
+      "size": 66861448,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Dungeon Now Loading-forge-1.20.1-2.11.jar"
+    },
+    {
+      "path": "mods/dynamiccrosshair-9.10+1.20.1-forge.jar",
+      "sha1": "9ec4f7fefa33d1be77883a080f69b2bc9c521ea4",
+      "size": 879924,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/dynamiccrosshair-9.10+1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/dynview-1.20.1-4.0.jar",
+      "sha1": "626d970796531ae63a4029176ef0db07b2109c4f",
+      "size": 22525,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/dynview-1.20.1-4.0.jar"
+    },
+    {
+      "path": "mods/EasyAnvils-v8.0.2-1.20.1-Forge.jar",
+      "sha1": "d44a8b549b27713a92d59148729bf374ff3e25f0",
+      "size": 141744,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/EasyAnvils-v8.0.2-1.20.1-Forge.jar"
+    },
+    {
+      "path": "mods/easyelytratakeoff-1.20.1-4.5.jar",
+      "sha1": "644c0938d450a15f94982602c857a989ee1c8363",
+      "size": 29913,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/easyelytratakeoff-1.20.1-4.5.jar"
+    },
+    {
+      "path": "mods/EasyMagic-v8.0.1-1.20.1-Forge.jar",
+      "sha1": "9bfb5d63ac2e03ecdab8755c968ffa25b799469b",
+      "size": 115947,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/EasyMagic-v8.0.1-1.20.1-Forge.jar"
+    },
+    {
+      "path": "mods/EasyShulkerBoxes-v8.0.2-1.20.1-Forge.jar",
+      "sha1": "c5245255c422afa2d627e89bbbf4a2f1d5d721e8",
+      "size": 581742,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/EasyShulkerBoxes-v8.0.2-1.20.1-Forge.jar"
+    },
+    {
+      "path": "mods/eatinganimation-1.20.1-5.1.0.jar",
+      "sha1": "d80502ca23195814f245bb8a4bffcb778ea4c02a",
+      "size": 294792,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/eatinganimation-1.20.1-5.1.0.jar"
+    },
+    {
+      "path": "mods/ecologics-forge-1.20.1-2.2.2.jar",
+      "sha1": "709fba5e3fc727944b66e2d1a556cff6fc5d591e",
+      "size": 1809159,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/ecologics-forge-1.20.1-2.2.2.jar"
+    },
+    {
+      "path": "mods/eeeabsmobs-1.20.1-0.97-Fix.jar",
+      "sha1": "ceef31a3c3b5a1766f39378ce34fb1f00ad8aac5",
+      "size": 28960284,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/eeeabsmobs-1.20.1-0.97-Fix.jar"
+    },
+    {
+      "path": "mods/ElysiumAPI-1.20.1-1.1.3.jar",
+      "sha1": "2ef237d14ea228118daf2e20827bb45abb92b02a",
+      "size": 107624,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/ElysiumAPI-1.20.1-1.1.3.jar"
+    },
+    {
+      "path": "mods/elytraslot-forge-6.4.4+1.20.1.jar",
+      "sha1": "f11443ef3371fa790eb33cba1a517638a3afcb07",
+      "size": 100660,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/elytraslot-forge-6.4.4+1.20.1.jar"
+    },
+    {
+      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+      "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
+      "size": 1320675,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/embeddium-0.3.31+mc1.20.1.jar"
+    },
+    {
+      "path": "mods/EnchantingInfuser-v8.0.3-1.20.1-Forge.jar",
+      "sha1": "d939ec7d3771062f24a44ee1fdfa17e476e51634",
+      "size": 177437,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/EnchantingInfuser-v8.0.3-1.20.1-Forge.jar"
+    },
+    {
+      "path": "mods/EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar",
+      "sha1": "7cb8e1242d058c9800e1f3f886930647de7f44e1",
+      "size": 69476,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar"
+    },
+    {
+      "path": "mods/endermanoverhaul-forge-1.20.1-1.0.4.jar",
+      "sha1": "636a2b20a5973fcb80016370865cb4251e029b6a",
+      "size": 1208062,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/endermanoverhaul-forge-1.20.1-1.0.4.jar"
+    },
+    {
+      "path": "mods/endersdelight-forge-1.20.1-1.1.3.jar",
+      "sha1": "c318ed189e2e39a7770c61618a2f221ceef99359",
+      "size": 179456,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/endersdelight-forge-1.20.1-1.1.3.jar"
+    },
+    {
+      "path": "mods/ender_dragon_loot-1.20.1.jar",
+      "sha1": "c00069cd28c5df014f094dc1fc59022e80ae9748",
+      "size": 95526,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/ender_dragon_loot-1.20.1.jar"
+    },
+    {
+      "path": "mods/endrem_forge-5.3.3-R-1.20.1.jar",
+      "sha1": "b4df41de8439e834a493fe59842709ef33ecfa82",
+      "size": 889634,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/endrem_forge-5.3.3-R-1.20.1.jar"
+    },
+    {
+      "path": "mods/enhancedai-3.3.3.jar",
+      "sha1": "86433fe430ef1b93592f029cc4525a497ab95ed3",
+      "size": 1385901,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/enhancedai-3.3.3.jar"
+    },
+    {
+      "path": "mods/EnhancedVisuals_FORGE_v1.8.2_mc1.20.1.jar",
+      "sha1": "780caf39421ccfc495d14cb287856ced97c32985",
+      "size": 4726286,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/EnhancedVisuals_FORGE_v1.8.2_mc1.20.1.jar"
+    },
+    {
+      "path": "mods/enhanced_boss_bars-1.20.1-1.0.0.jar",
+      "sha1": "8a709553a1eb98792b5db787dc57d132bc5b3971",
+      "size": 254629,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/enhanced_boss_bars-1.20.1-1.0.0.jar"
+    },
+    {
+      "path": "mods/entityculling-forge-1.9.4-mc1.20.1.jar",
+      "sha1": "2b19c5c38f88285aed2aad6a61eb622003540ee5",
+      "size": 1568324,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/entityculling-forge-1.9.4-mc1.20.1.jar"
+    },
+    {
+      "path": "mods/entity_model_features_1.20.1-forge-3.0.7.jar",
+      "sha1": "4c3367cc6923e778ea1119a1240d1d160055f3e6",
+      "size": 661640,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/entity_model_features_1.20.1-forge-3.0.7.jar"
+    },
+    {
+      "path": "mods/entity_texture_features_1.20.1-forge-7.0.6.jar",
+      "sha1": "756a6ed1a8ef46ae664d8a1fdaf50c9a7b4030fa",
+      "size": 951154,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/entity_texture_features_1.20.1-forge-7.0.6.jar"
+    },
+    {
+      "path": "mods/EuphoriaPatcher-1.7.8-r5.6.1-forge.jar",
+      "sha1": "641fe3d45531371214d3e8601cb22188aa9bc203",
+      "size": 2247963,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/EuphoriaPatcher-1.7.8-r5.6.1-forge.jar"
+    },
+    {
+      "path": "mods/everycomp-1.20-2.9.12-forge.jar",
+      "sha1": "1a9fab9e9273ab45f0a312b7a71aeade41716a4a",
+      "size": 2807757,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/everycomp-1.20-2.9.12-forge.jar"
+    },
+    {
+      "path": "mods/exlinecopperequipment-forge-1.20.1-v2.0.8.jar",
+      "sha1": "542ff4d52336364a71512d30de123b08364baede",
+      "size": 166503,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/exlinecopperequipment-forge-1.20.1-v2.0.8.jar"
+    },
+    {
+      "path": "mods/Explorify v1.6.4 f15-88.mod.jar",
+      "sha1": "5a9b99242bdb9437396f5a3c78decc567adab6a5",
+      "size": 951495,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Explorify v1.6.4 f15-88.mod.jar"
+    },
+    {
+      "path": "mods/explosiveenhancement-1.1.0-1.20.1-client-and-server.jar",
+      "sha1": "cd88ace6193c3704d46a5ee8fc7d0063d2e687f6",
+      "size": 83842,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/explosiveenhancement-1.1.0-1.20.1-client-and-server.jar"
+    },
+    {
+      "path": "mods/ExtraSoundsNext-forge-1.20.1-1.4.jar",
+      "sha1": "e2167a2e3e016cfb65a130d31c47cddcb765bd14",
+      "size": 220040,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/ExtraSoundsNext-forge-1.20.1-1.4.jar"
+    },
+    {
+      "path": "mods/extra_compat-1.5.25.jar",
+      "sha1": "73daad79b768afd4c233811d39696053e9bbb2da",
+      "size": 594131,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/extra_compat-1.5.25.jar"
+    },
+    {
+      "path": "mods/fallingleaves-1.20.1-2.1.2.jar",
+      "sha1": "b890536f44a5c0a49f2b1f4af91c17d948b4ef4d",
+      "size": 124212,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/fallingleaves-1.20.1-2.1.2.jar"
+    },
+    {
+      "path": "mods/fancymenu_forge_3.8.1_MC_1.20.1.jar",
+      "sha1": "1fef1d8ab0dc2dec116bc6d6cb6f789fd33b23b0",
+      "size": 4472193,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/fancymenu_forge_3.8.1_MC_1.20.1.jar"
+    },
+    {
+      "path": "mods/FarmersDelight-1.20.1-1.2.9.jar",
+      "sha1": "ca9417c369e75d38dacdac59937223e5f6adcc18",
+      "size": 2978080,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/FarmersDelight-1.20.1-1.2.9.jar"
+    },
+    {
+      "path": "mods/farsight-1.20.1-4.5.jar",
+      "sha1": "985eb925a7d8e3d3eca79f7759f59d0af09e3831",
+      "size": 441356,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/farsight-1.20.1-4.5.jar"
+    },
+    {
+      "path": "mods/fastasyncworldsave-1.20.1-2.6.jar",
+      "sha1": "3a3180f5fc9d1209ca0ad69084afe8ee42ba44d6",
+      "size": 14812,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/fastasyncworldsave-1.20.1-2.6.jar"
+    },
+    {
+      "path": "mods/FastFurnace-1.20.1-8.0.2.jar",
+      "sha1": "b144b8599acd3fac3f8f9d31fa217a4a5b942f61",
+      "size": 6170,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/FastFurnace-1.20.1-8.0.2.jar"
+    },
+    {
+      "path": "mods/FastItemFrames-v20.1.5-1.20.1-Forge.jar",
+      "sha1": "5ab6e361d3a68159ac0d5d252c6558d355e564af",
+      "size": 99737,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/FastItemFrames-v20.1.5-1.20.1-Forge.jar"
+    },
+    {
+      "path": "mods/FastLeafDecay-32.jar",
+      "sha1": "4a76af4ca71dd9939d3c21206792c0d5f75b93a7",
+      "size": 9835,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/FastLeafDecay-32.jar"
+    },
+    {
+      "path": "mods/fastpaintings-1.20-1.2.7.jar",
+      "sha1": "036137a54b8f503794cf38296ff4c7fbf2e9d5cc",
+      "size": 309400,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/fastpaintings-1.20-1.2.7.jar"
+    },
+    {
+      "path": "mods/FastSuite-1.20.1-5.1.0.jar",
+      "sha1": "3a759dce0ddc91e299027faa800c0ee40ab90de8",
+      "size": 25305,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/FastSuite-1.20.1-5.1.0.jar"
+    },
+    {
+      "path": "mods/FastWorkbench-1.20.1-8.0.4.jar",
+      "sha1": "1a322a85e7c7024b8a0715c12d27b5ed0930d729",
+      "size": 28188,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/FastWorkbench-1.20.1-8.0.4.jar"
+    },
+    {
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+      "size": 123034,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/ferritecore-6.0.1-forge.jar"
+    },
+    {
+      "path": "mods/feur_extension_fossil-1.20.1-forge.jar",
+      "sha1": "30924088094cecbc8837a8c21f3c55fedcd63450",
+      "size": 420363,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/feur_extension_fossil-1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/firstperson-forge-2.6.1-mc1.20.1.jar",
+      "sha1": "62ad011fab7f9f1e4f15c0be75f4f4c0373442fa",
+      "size": 1789065,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/firstperson-forge-2.6.1-mc1.20.1.jar"
+    },
+    {
+      "path": "mods/flerovium-forge-1.20.1-1.2.16-all.jar",
+      "sha1": "12dd81bea1dc7a2a240646a778ec9921f250713f",
+      "size": 233586,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/flerovium-forge-1.20.1-1.2.16-all.jar"
+    },
+    {
+      "path": "mods/footprintparticle-0.5.4b-mc1.20(.1).jar",
+      "sha1": "14e967a94edda5af798fb7df4f015f2b7705c13f",
+      "size": 89531,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/footprintparticle-0.5.4b-mc1.20(.1).jar"
+    },
+    {
+      "path": "mods/forge-medievalend-1.0.1.jar",
+      "sha1": "11e2b53ec5c85ee01fe689ea9ebd695ee0ceb299",
+      "size": 169369,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/forge-medievalend-1.0.1.jar"
+    },
+    {
+      "path": "mods/ForgeEndertech-1.20.1-11.1.9.0-build.1584.jar",
+      "sha1": "b4914d252c4d97564f1160020c2a631b8905042c",
+      "size": 541441,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/ForgeEndertech-1.20.1-11.1.9.0-build.1584.jar"
+    },
+    {
+      "path": "mods/forgivingvoid-forge-1.20.1-10.0.3.jar",
+      "sha1": "f5a37657eabf996da59b1caa07e8c9611ea90eeb",
+      "size": 69739,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/forgivingvoid-forge-1.20.1-10.0.3.jar"
+    },
+    {
+      "path": "mods/formations-1.0.4-forge-mc1.20.2.jar",
+      "sha1": "110c95382a63c9ed4eb76125bc2fed09cac6d905",
+      "size": 290100,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/formations-1.0.4-forge-mc1.20.2.jar"
+    },
+    {
+      "path": "mods/formationsnether-1.0.5.jar",
+      "sha1": "5a6371db683b4d33f5034f7d192424cfe73ea05f",
+      "size": 942157,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/formationsnether-1.0.5.jar"
+    },
+    {
+      "path": "mods/formationsoverworld-1.0.5-mc1.20.jar",
+      "sha1": "baffe74c5b996540bd62a88e6017df040770b405",
+      "size": 873590,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/formationsoverworld-1.0.5-mc1.20.jar"
+    },
+    {
+      "path": "mods/fragmentum-forge-1.20.1-1.0.8.jar",
+      "sha1": "7ec6f43c62973cb920561a849a6ce9f0ad07662f",
+      "size": 1690452,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/fragmentum-forge-1.20.1-1.0.8.jar"
+    },
+    {
+      "path": "mods/framework-forge-1.20.1-0.7.15.jar",
+      "sha1": "0963ba5c19634030dbf1358b5c5f5fb341fede73",
+      "size": 309560,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/framework-forge-1.20.1-0.7.15.jar"
+    },
+    {
+      "path": "mods/friendsandfoes-forge-mc1.20.1-3.0.9.jar",
+      "sha1": "f8c84d824c433e7e6e9f44ae6d4885925a08087f",
+      "size": 3622128,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/friendsandfoes-forge-mc1.20.1-3.0.9.jar"
+    },
+    {
+      "path": "mods/ftb-library-forge-2001.2.12.jar",
+      "sha1": "7f36ec4af42ad1d69872c58022e93a9d1b9c82b7",
+      "size": 780523,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/ftb-library-forge-2001.2.12.jar"
+    },
+    {
+      "path": "mods/ftb-quests-forge-2001.4.17.jar",
+      "sha1": "f7e4fec8991ce2b036ed4628e01fb48446a25ec7",
+      "size": 1227820,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/ftb-quests-forge-2001.4.17.jar"
+    },
+    {
+      "path": "mods/ftb-teams-forge-2001.3.1.jar",
+      "sha1": "c2af94e0b86631cb75daa8de2377ff72527651ca",
+      "size": 248592,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/ftb-teams-forge-2001.3.1.jar"
+    },
+    {
+      "path": "mods/ftb-xmod-compat-forge-2.1.3.jar",
+      "sha1": "0584f628d2bc6a612d79dee368324357ebae1423",
+      "size": 129725,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/ftb-xmod-compat-forge-2.1.3.jar"
+    },
+    {
+      "path": "mods/fuelgoeshere-1.20.0-1.0.1.jar",
+      "sha1": "2f2e367688fe20a313535e6cbb5e384997be0168",
+      "size": 9218,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/fuelgoeshere-1.20.0-1.0.1.jar"
+    },
+    {
+      "path": "mods/fzzy_config-0.7.3+1.20.1+forge.jar",
+      "sha1": "e771e543e930bd7c733f803bdbc0d3f2ecfb46c4",
+      "size": 2312969,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/fzzy_config-0.7.3+1.20.1+forge.jar"
+    },
+    {
+      "path": "mods/Galosphere-1.20.1-1.4.1-Forge.jar",
+      "sha1": "0b21651dc768383bcd4b6cc417335b4c43d208b3",
+      "size": 34909449,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Galosphere-1.20.1-1.4.1-Forge.jar"
+    },
+    {
+      "path": "mods/GatewaysToEternity-1.20.1-4.2.6.jar",
+      "sha1": "ed2158bade0615c90d50474e2cbf0b32b5eeee61",
+      "size": 632950,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/GatewaysToEternity-1.20.1-4.2.6.jar"
+    },
+    {
+      "path": "mods/geckolib-forge-1.20.1-4.8.2.jar",
+      "sha1": "395a9f21a36dc8466d67c2af67a904e7013460d1",
+      "size": 1038979,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/geckolib-forge-1.20.1-4.8.2.jar"
+    },
+    {
+      "path": "mods/Geophilic v3.4.5.mod.jar",
+      "sha1": "0a8373d58ee3e5a580d8710a688cd58b28f9f81b",
+      "size": 750576,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Geophilic v3.4.5.mod.jar"
+    },
+    {
+      "path": "mods/GeophilicReforged-v1.2.0.jar",
+      "sha1": "412650ce355803e91d54ad8c44cdcf8857c09e2a",
+      "size": 381424,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/GeophilicReforged-v1.2.0.jar"
+    },
+    {
+      "path": "mods/glassbreaker-neoforge-1.4.0+1.20.jar",
+      "sha1": "1fbe603e0765b27c6a8cf1eb4169021ecd7317ab",
+      "size": 8795,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/glassbreaker-neoforge-1.4.0+1.20.jar"
+    },
+    {
+      "path": "mods/gml-4.0.11-all.jar",
+      "sha1": "1b8899ea5a9fd45f2adf8bbb25651a0a95dc6020",
+      "size": 11125541,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/gml-4.0.11-all.jar"
+    },
+    {
+      "path": "mods/goblintraders-forge-1.20.1-1.11.5.jar",
+      "sha1": "12bf1775fae7132c4f10ce3f61122bc0a2f171d6",
+      "size": 328727,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/goblintraders-forge-1.20.1-1.11.5.jar"
+    },
+    {
+      "path": "mods/golemsarefriends-1.20.0-1.0.1.jar",
+      "sha1": "e6a26611478acb166d8715eda955e09a0325a758",
+      "size": 13051,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/golemsarefriends-1.20.0-1.0.1.jar"
+    },
+    {
+      "path": "mods/golem_spawn_animation-1.1-forge-1.20.1.jar",
+      "sha1": "a1d8e2177342ff51688aa7f0067c5a3bc03307e7",
+      "size": 476701,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/golem_spawn_animation-1.1-forge-1.20.1.jar"
+    },
+    {
+      "path": "mods/golem_spawn_fix-1.0.2-forge-1.20.1.jar",
+      "sha1": "795153ee2ec39f9f4ee36c61d09ed97d78ceea41",
+      "size": 148842,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/golem_spawn_fix-1.0.2-forge-1.20.1.jar"
+    },
+    {
+      "path": "mods/gpumemleakfix-1.20.1-1.8.jar",
+      "sha1": "54301c2db5467e0f9f5c504887436f358335331f",
+      "size": 7997,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/gpumemleakfix-1.20.1-1.8.jar"
+    },
+    {
+      "path": "mods/great_scrollable_tooltips-15.5.0+forge.jar",
+      "sha1": "ade466d86105965cd06ca7caf5189cb326e7922c",
+      "size": 440740,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/great_scrollable_tooltips-15.5.0+forge.jar"
+    },
+    {
+      "path": "mods/guardvillagers-1.20.1-1.6.15.jar",
+      "sha1": "66b15837d31461f75817773e9226e50f851ea07e",
+      "size": 203437,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/guardvillagers-1.20.1-1.6.15.jar"
+    },
+    {
+      "path": "mods/happyghastmod-1.5.4.jar",
+      "sha1": "3281b4ad608b4e3df2b5bef8740c5d605e91e8e6",
+      "size": 3173419,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/happyghastmod-1.5.4.jar"
+    },
+    {
+      "path": "mods/harderspawners-1.20-46.25.3.jar",
+      "sha1": "c9d915e0cd3ab3d756ddf31ab409e46667c15272",
+      "size": 55863,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/harderspawners-1.20-46.25.3.jar"
+    },
+    {
+      "path": "mods/hero-proof-5.2.1.jar",
+      "sha1": "94251d3feea22f90f664598042002a3e66d15c62",
+      "size": 23648,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/hero-proof-5.2.1.jar"
+    },
+    {
+      "path": "mods/highlight-forge-1.20-2.0.1.jar",
+      "sha1": "f0cbbdf1b0510cfbc38453d4fd411b8a915e3457",
+      "size": 296161,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/highlight-forge-1.20-2.0.1.jar"
+    },
+    {
+      "path": "mods/Highlighter-1.20.1-forge-1.1.9.jar",
+      "sha1": "644dc33b1745ad100f513b4d169ace86fff3b2bf",
+      "size": 29438,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Highlighter-1.20.1-forge-1.1.9.jar"
+    },
+    {
+      "path": "mods/HopoBetterRuinedPortals-.1.20-1.20.2.-1.3.7b.jar.jar",
+      "sha1": "c8ae3a5450528f712b9f1123e9c46629f058ff74",
+      "size": 342952,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/HopoBetterRuinedPortals-.1.20-1.20.2.-1.3.7b.jar.jar"
+    },
+    {
+      "path": "mods/Iceberg-1.20.1-forge-1.1.25.jar",
+      "sha1": "d551ff55814cfb01403b812459ee5a02b020d87b",
+      "size": 134551,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Iceberg-1.20.1-forge-1.1.25.jar"
+    },
+    {
+      "path": "mods/iChunUtil-1.20.1-Forge-1.0.3.jar",
+      "sha1": "6e7f110cb4ef9c22bf557cd54248546548d56c66",
+      "size": 692753,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/iChunUtil-1.20.1-Forge-1.0.3.jar"
+    },
+    {
+      "path": "mods/illagerraidmusic-1.20-1.20.1-1.2.jar",
+      "sha1": "2f90c3b308f239c31fdcbcfe90918be3546a1ce9",
+      "size": 5492340,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/illagerraidmusic-1.20-1.20.1-1.2.jar"
+    },
+    {
+      "path": "mods/ImmersiveUI-FORGE-0.3.0.jar",
+      "sha1": "b2b36a49f1b8daf8d8fc0521f532fb706649c09c",
+      "size": 401514,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/ImmersiveUI-FORGE-0.3.0.jar"
+    },
+    {
+      "path": "mods/Incendium_1.20.x_v5.3.5.jar",
+      "sha1": "484556937b1b2dde2682144e7953e79bff717104",
+      "size": 4638945,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Incendium_1.20.x_v5.3.5.jar"
+    },
+    {
+      "path": "mods/incontrol-1.20-9.4.5.jar",
+      "sha1": "4329f881cf52b6a8fd6b22d369eaa64e2fa0d60d",
+      "size": 361877,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/incontrol-1.20-9.4.5.jar"
+    },
+    {
+      "path": "mods/insanelib-1.22.1.jar",
+      "sha1": "8add80cad0a6ba8caf15643a554157b7917acf87",
+      "size": 365467,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/insanelib-1.22.1.jar"
+    },
+    {
+      "path": "mods/InventoryProfilesNext-forge-1.20-1.10.19.jar",
+      "sha1": "432f4b107b13818bd2c1d16dccc9212da61e2a17",
+      "size": 1456863,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/InventoryProfilesNext-forge-1.20-1.10.19.jar"
+    },
+    {
+      "path": "mods/invtweaks-1.20.1-1.2.2.jar",
+      "sha1": "37e62b3aebc73aa8830407cfaed588d582b28fc1",
+      "size": 75049,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/invtweaks-1.20.1-1.2.2.jar"
+    },
+    {
+      "path": "mods/Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar",
+      "sha1": "d8fa4e840a3d60f2172de0584d804d0bf7e6db19",
+      "size": 22930,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar"
+    },
+    {
+      "path": "mods/ItemPhysicLite_FORGE_v1.6.6_mc1.20.1.jar",
+      "sha1": "4fc87af53afb8610e77710b30340783fc6bd0ccf",
+      "size": 19487,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/ItemPhysicLite_FORGE_v1.6.6_mc1.20.1.jar"
+    },
+    {
+      "path": "mods/Jade-1.20.1-Forge-11.13.2.jar",
+      "sha1": "1997e5fe2db3a0575ca79bfe4720019f01fd2b8c",
+      "size": 552486,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Jade-1.20.1-Forge-11.13.2.jar"
+    },
+    {
+      "path": "mods/JadeAddons-1.20.1-Forge-5.5.0.jar",
+      "sha1": "5e74e87f61cf05c18457f09dfa1cb70332b6b777",
+      "size": 91771,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/JadeAddons-1.20.1-Forge-5.5.0.jar"
+    },
+    {
+      "path": "mods/Jadens-Nether-Expansion-2.3.5.jar",
+      "sha1": "bfb10b56cb5dcc34f3643472aa09bc4120808d31",
+      "size": 23488061,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Jadens-Nether-Expansion-2.3.5.jar"
+    },
+    {
+      "path": "mods/jamlib-forge-1.3.5+1.20.1.jar",
+      "sha1": "6d5ffd184496a979a54a92be86139e4afabbb580",
+      "size": 191327,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/jamlib-forge-1.3.5+1.20.1.jar"
+    },
+    {
+      "path": "mods/jearchaeology-1.20.1-1.0.4.jar",
+      "sha1": "862676b9348a6103914e4dce3866cd22faa6a662",
+      "size": 43487,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/jearchaeology-1.20.1-1.0.4.jar"
+    },
+    {
+      "path": "mods/jei-1.20.1-forge-15.20.0.112.jar",
+      "sha1": "f12b3781af6337794ae6e010420a97585360ea2f",
+      "size": 1385600,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/jei-1.20.1-forge-15.20.0.112.jar"
+    },
+    {
+      "path": "mods/Kambrik-6.1.1+1.20.1-forge.jar",
+      "sha1": "48cdc22a0f6698c9059f437538e5546f74900541",
+      "size": 325546,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Kambrik-6.1.1+1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/Kiwi-1.20.1-Forge-11.9.2.jar",
+      "sha1": "8e056749be2b26f520c9ca0a7130a7280bffc288",
+      "size": 1661318,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Kiwi-1.20.1-Forge-11.9.2.jar"
+    },
+    {
+      "path": "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "sha1": "2019d821bed9071daabed43979433a5473ceee49",
+      "size": 625185,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar"
+    },
+    {
+      "path": "mods/kotlinforforge-4.12.0-all.jar",
+      "sha1": "962fdb760409d6d71cbf079235f1ca94e3863a22",
+      "size": 7442998,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/kotlinforforge-4.12.0-all.jar"
+    },
+    {
+      "path": "mods/kubejs-forge-2001.6.5-build.16.jar",
+      "sha1": "93fcf0eacc5dc08a4f719eaaed1dc93f0dc80f66",
+      "size": 1654660,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/kubejs-forge-2001.6.5-build.16.jar"
+    },
+    {
+      "path": "mods/LeaveMyBarsAlone-v8.0.0-1.20.1-Forge.jar",
+      "sha1": "d4b545c4ed05152acb920396de9600938cd01962",
+      "size": 54288,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/LeaveMyBarsAlone-v8.0.0-1.20.1-Forge.jar"
+    },
+    {
+      "path": "mods/legendarymonsters-1.9.8.MC.1.20.1.jar.jar",
+      "sha1": "bc1b1436b490eccbd3554f86f8151a0803dcb1f3",
+      "size": 17573018,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/legendarymonsters-1.9.8.MC.1.20.1.jar.jar"
+    },
+    {
+      "path": "mods/LetSleepingDogsLie-1.20.1-Forge-1.3.0.jar",
+      "sha1": "64a9dbaa85afcd20f821f8a714e642f2be4cf0fa",
+      "size": 270899,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/LetSleepingDogsLie-1.20.1-Forge-1.3.0.jar"
+    },
+    {
+      "path": "mods/libIPN-forge-1.20-4.0.2.jar",
+      "sha1": "3e7c7fcdc037a6ae3d9146e718d87fc83f88f6d5",
+      "size": 693301,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/libIPN-forge-1.20-4.0.2.jar"
+    },
+    {
+      "path": "mods/libraryferret-forge-1.20.1-4.0.0.jar",
+      "sha1": "29f240c16ff1a1bc574d69162d379cc1c881e1ab",
+      "size": 190536,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/libraryferret-forge-1.20.1-4.0.0.jar"
+    },
+    {
+      "path": "mods/limitedchunks-1.20.1-4.1.jar",
+      "sha1": "c6dae9dcdb46b577aba270d3f951291ea235e334",
+      "size": 16405,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/limitedchunks-1.20.1-4.1.jar"
+    },
+    {
+      "path": "mods/lionfishapi-2.4-Fix.jar",
+      "sha1": "b198f38fb27dfc6db490b496d56aa1622d5a5b87",
+      "size": 162767,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/lionfishapi-2.4-Fix.jar"
+    },
+    {
+      "path": "mods/lithostitched-forge-1.20.1-1.4.11.jar",
+      "sha1": "d1a755de84ee5d8910ff1e65e815473056e93ece",
+      "size": 476347,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/lithostitched-forge-1.20.1-1.4.11.jar"
+    },
+    {
+      "path": "mods/lmft-1.0.4+1.20.1-forge.jar",
+      "sha1": "e44a12eb51813b16faaab89b8073ec63c746c1b0",
+      "size": 178625,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/lmft-1.0.4+1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/Loot Journal-forge-1.20.1-5.0.1.jar",
+      "sha1": "8e7ccadf53cd18cd092b58f72f781bed7211bf04",
+      "size": 42433,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Loot Journal-forge-1.20.1-5.0.1.jar"
+    },
+    {
+      "path": "mods/lootintegrations-1.20.1-4.7.jar",
+      "sha1": "2aa541075b8e13480db4a8021482fbffb2132337",
+      "size": 42220,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/lootintegrations-1.20.1-4.7.jar"
+    },
+    {
+      "path": "mods/lootjs-forge-1.20.1-2.13.0.jar",
+      "sha1": "fdf90acf177c19bcbfaa08527f6568bd3e6e622e",
+      "size": 242227,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/lootjs-forge-1.20.1-2.13.0.jar"
+    },
+    {
+      "path": "mods/lukis-grand-capitals-1.1.2.jar",
+      "sha1": "bdf6cf6338e26825324da4ec2cc380b9f485a4a2",
+      "size": 11217284,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/lukis-grand-capitals-1.1.2.jar"
+    },
+    {
+      "path": "mods/L_Enders_Cataclysm-3.16.jar",
+      "sha1": "25d84c486a817ba54362ea1f4b82b6d3802cc074",
+      "size": 127993805,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/L_Enders_Cataclysm-3.16.jar"
+    },
+    {
+      "path": "mods/MaxHealthFix-Forge-1.20.1-12.0.3.jar",
+      "sha1": "c4194bac838c5346708c70724ca4a095f89d6312",
+      "size": 10782,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/MaxHealthFix-Forge-1.20.1-12.0.3.jar"
+    },
+    {
+      "path": "mods/mcw-trapdoors-1.1.5-mc1.20.1forge.jar",
+      "sha1": "1b3b4b40041346b19bc9ab280b288a9f6b77b513",
+      "size": 604510,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/mcw-trapdoors-1.1.5-mc1.20.1forge.jar"
+    },
+    {
+      "path": "mods/Mekanism-1.20.1-10.4.16.80.jar",
+      "sha1": "b7f12ae710888b01746507a0aa8cb375f5897158",
+      "size": 12558456,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Mekanism-1.20.1-10.4.16.80.jar"
+    },
+    {
+      "path": "mods/MekanismGenerators-1.20.1-10.4.16.80.jar",
+      "sha1": "53fa707fd204ca1dd099a08995c2197145ff9a36",
+      "size": 1054586,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/MekanismGenerators-1.20.1-10.4.16.80.jar"
+    },
+    {
+      "path": "mods/MekanismTools-1.20.1-10.4.16.80.jar",
+      "sha1": "0d22b1cc01a33702f1b9e17b26cc55e233a4e7ff",
+      "size": 517999,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/MekanismTools-1.20.1-10.4.16.80.jar"
+    },
+    {
+      "path": "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "sha1": "e0942d396a70c09038e6c2e5e1da6505178249b8",
+      "size": 37178,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar"
+    },
+    {
+      "path": "mods/memorysettings-1.20.1-5.9.jar",
+      "sha1": "022884114477302ed0304db5b857295f6951ae8b",
+      "size": 23538,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/memorysettings-1.20.1-5.9.jar"
+    },
+    {
+      "path": "mods/mes-1.4.6-1.20.jar",
+      "sha1": "849577ebba438bafa8eb8f5769292cf943563d93",
+      "size": 1140667,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/mes-1.4.6-1.20.jar"
+    },
+    {
+      "path": "mods/mobtimizations-forge-1.20.1-1.0.0.jar",
+      "sha1": "1e7de73072e0adc9f09494cd79a79b1db030c293",
+      "size": 22739,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/mobtimizations-forge-1.20.1-1.0.0.jar"
+    },
+    {
+      "path": "mods/modernfix-forge-5.25.2+mc1.20.1.jar",
+      "sha1": "4069534174e618393f0c14d9dc61ac27a04bb992",
+      "size": 895444,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/modernfix-forge-5.25.2+mc1.20.1.jar"
+    },
+    {
+      "path": "mods/MoogsVoyagerStructures-1.20-5.0.3.jar",
+      "sha1": "363be67725a770e0dfce806fb5dc0af21e6535fb",
+      "size": 2656217,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/MoogsVoyagerStructures-1.20-5.0.3.jar"
+    },
+    {
+      "path": "mods/moogs_structure_lib-1.1.0-1.20-1.20.4-forge.jar",
+      "sha1": "b7751ee5cc55e6a56bc4b7c1b79bb6e63727e8aa",
+      "size": 259848,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/moogs_structure_lib-1.1.0-1.20-1.20.4-forge.jar"
+    },
+    {
+      "path": "mods/moonlight-1.20-2.16.16-forge.jar",
+      "sha1": "f1ad21bce5a4b96a1152d6cf83cfb27684fc4b6a",
+      "size": 1333455,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/moonlight-1.20-2.16.16-forge.jar"
+    },
+    {
+      "path": "mods/morejs-forge-1.20.1-0.10.1.jar",
+      "sha1": "c460ca3e95e40894c78fd327c5ba73c7da83f6d3",
+      "size": 173745,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/morejs-forge-1.20.1-0.10.1.jar"
+    },
+    {
+      "path": "mods/moreoverlays-1.24.1-mc1.20.1-forge.jar",
+      "sha1": "f34bd1fde7a4b458493ddf464b4fb94c6108edf7",
+      "size": 114550,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/moreoverlays-1.24.1-mc1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/morevillagers-forge-1.20.1-5.0.0.jar",
+      "sha1": "a6a22e3c7e6ca4a389ce72f82c90144f0a485cf5",
+      "size": 233335,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/morevillagers-forge-1.20.1-5.0.0.jar"
+    },
+    {
+      "path": "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "sha1": "d751153e722a4e014691c83f39f5b07c6ec5333c",
+      "size": 76237,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/MouseTweaks-forge-mc1.20.1-2.25.1.jar"
+    },
+    {
+      "path": "mods/mowziesmobs-1.7.3.jar",
+      "sha1": "690f2134241544b3f6c38ff895d8e5a2aa77aa4d",
+      "size": 35239406,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/mowziesmobs-1.7.3.jar"
+    },
+    {
+      "path": "mods/mowzies_cataclysm-1.2.0.jar",
+      "sha1": "75bbbac8e9d394a30f6751570ed3506a6dfbb846",
+      "size": 29105,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/mowzies_cataclysm-1.2.0.jar"
+    },
+    {
+      "path": "mods/mowzie_respawner-1.1.0-forge-1.20.1.jar",
+      "sha1": "2d0ffabfc0fd1e0b3e12ca143bd3f458fc808d05",
+      "size": 335873,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/mowzie_respawner-1.1.0-forge-1.20.1.jar"
+    },
+    {
+      "path": "mods/nanhealthfixer-1.20.1-0.0.1.jar",
+      "sha1": "2e36f4c6311230f76459000161d3429be723b19d",
+      "size": 3010,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/nanhealthfixer-1.20.1-0.0.1.jar"
+    },
+    {
+      "path": "mods/NaturesCompass-1.20.1-1.11.2-forge.jar",
+      "sha1": "31ae930cdbb34e8e05e1954cfb2fee3a3813e850",
+      "size": 215119,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/NaturesCompass-1.20.1-1.11.2-forge.jar"
+    },
+    {
+      "path": "mods/natures_spirit-2.2.5-1.20.1.jar",
+      "sha1": "edd4d2ea52eed1ff90b412f10eb29f5e4650c147",
+      "size": 18964334,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/natures_spirit-2.2.5-1.20.1.jar"
+    },
+    {
+      "path": "mods/Necronomicon-Forge-1.6.0+1.20.1.jar",
+      "sha1": "2ad4ffa0fb087e4467c6f7496d456fc1ac949ebf",
+      "size": 33251,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Necronomicon-Forge-1.6.0+1.20.1.jar"
+    },
+    {
+      "path": "mods/Neruina-2.1.2-forge+1.20.1.jar",
+      "sha1": "a02a8ccd580ba3c37ba26ff19cf35b221ae2a073",
+      "size": 3086403,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Neruina-2.1.2-forge+1.20.1.jar"
+    },
+    {
+      "path": "mods/netherdepthsupgrade-3.1.5-1.20.jar",
+      "sha1": "d0347db9b56927172b545884d7fbb00ac2b2a1ce",
+      "size": 595410,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/netherdepthsupgrade-3.1.5-1.20.jar"
+    },
+    {
+      "path": "mods/netherite_horse_armor-forge-1.20.1-2.0a.jar",
+      "sha1": "63475c0c2bd49b700332614e43f1bfd04c83439f",
+      "size": 22547,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/netherite_horse_armor-forge-1.20.1-2.0a.jar"
+    },
+    {
+      "path": "mods/netherportalfix-forge-1.20-13.0.1.jar",
+      "sha1": "b110e4590177475dcde70dd9dafd5257116ad9f8",
+      "size": 217831,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/netherportalfix-forge-1.20-13.0.1.jar"
+    },
+    {
+      "path": "mods/noanimaltemptdelay-1.20.1-1.2.jar",
+      "sha1": "06eede19c34764ce0e1c181f5384a0e07a0fada8",
+      "size": 17020,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/noanimaltemptdelay-1.20.1-1.2.jar"
+    },
+    {
+      "path": "mods/NoChatReports-FORGE-1.20.1-v2.2.2.jar",
+      "sha1": "069396e689ae887d065c8d61b7945e685fbcc65b",
+      "size": 272740,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/NoChatReports-FORGE-1.20.1-v2.2.2.jar"
+    },
+    {
+      "path": "mods/nocube's_better_blast_furnace_1.0.1_Forge_1.20.1.jar",
+      "sha1": "aef8153be6396dee092122ddaccbd9d4d52d35fa",
+      "size": 8814,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/nocube's_better_blast_furnace_1.0.1_Forge_1.20.1.jar"
+    },
+    {
+      "path": "mods/nocube's_better_grindstone_1.0.1_forge_1.20.1.jar",
+      "sha1": "9e7d524e1357196a2355b1effab8a8d98fa59440",
+      "size": 10434,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/nocube's_better_grindstone_1.0.1_forge_1.20.1.jar"
+    },
+    {
+      "path": "mods/nocube's_villagers_sell_animals_1.2.1_forge_1.20.1.jar",
+      "sha1": "394818a1f121d51c7db0e11fd6992db734d09871",
+      "size": 105667,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/nocube's_villagers_sell_animals_1.2.1_forge_1.20.1.jar"
+    },
+    {
+      "path": "mods/nocubes_better_fletching_table_1.0.1_forge_1.20.1.jar",
+      "sha1": "34fd59c2d7dee28ded2dcbcca289f60c965f1c21",
+      "size": 14187,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/nocubes_better_fletching_table_1.0.1_forge_1.20.1.jar"
+    },
+    {
+      "path": "mods/noisium-forge-2.3.0+mc1.20-1.20.1.jar.disabled",
+      "sha1": "7da1cdf00c0ae5cad31e17f765f6ea021c8ac808",
+      "size": 218152,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/noisium-forge-2.3.0+mc1.20-1.20.1.jar.disabled"
+    },
+    {
+      "path": "mods/Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar",
+      "sha1": "c0806369f4257149664904db44efc60bd1785c17",
+      "size": 21667,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar"
+    },
+    {
+      "path": "mods/notrample-1.20.1-1.0.1.jar",
+      "sha1": "2875680fdc8f00a582f441c6cd31d782bef49bd2",
+      "size": 8313,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/notrample-1.20.1-1.0.1.jar"
+    },
+    {
+      "path": "mods/Nullscape_1.20.x_v1.2.8.jar",
+      "sha1": "e4afd980e788f1861d8a8263bc700312667df977",
+      "size": 399214,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Nullscape_1.20.x_v1.2.8.jar"
+    },
+    {
+      "path": "mods/obscure_api-18.jar",
+      "sha1": "d395153341a9a732fc80463c475b202d78675e28",
+      "size": 1128392,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/obscure_api-18.jar"
+    },
+    {
+      "path": "mods/obscure_tooltips-forge-1.20.1-3.8.0.jar",
+      "sha1": "fc41dfe218eb957c105031871a8768fd4f710919",
+      "size": 1117919,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/obscure_tooltips-forge-1.20.1-3.8.0.jar"
+    },
+    {
+      "path": "mods/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+      "sha1": "9eab28baff36942e1c924489e34753df10f40208",
+      "size": 424035,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/OctoLib-FORGE-0.5.0.1+1.20.1.jar"
+    },
+    {
+      "path": "mods/oculus-mc1.20.1-1.8.0.jar",
+      "sha1": "984f774e71790deaec674c7587bd24e0711871b2",
+      "size": 2851119,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/oculus-mc1.20.1-1.8.0.jar"
+    },
+    {
+      "path": "mods/open-parties-and-claims-forge-1.20.1-0.25.8.jar",
+      "sha1": "ea87f074e35e6ccf03a73b42804f3bd3f628a4eb",
+      "size": 1315671,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/open-parties-and-claims-forge-1.20.1-0.25.8.jar"
+    },
+    {
+      "path": "mods/OverflowingBars-v8.0.1-1.20.1-Forge.jar",
+      "sha1": "047ac47549ae0a21b05f70d74bcf436ee0221eef",
+      "size": 73689,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/OverflowingBars-v8.0.1-1.20.1-Forge.jar"
+    },
+    {
+      "path": "mods/packetfixer-3.3.1-1.18-1.20.4-merged.jar",
+      "sha1": "0bef29023c8cadb2934d78a8b0066b49d4460974",
+      "size": 188673,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/packetfixer-3.3.1-1.18-1.20.4-merged.jar"
+    },
+    {
+      "path": "mods/palegardenbackport-forge-2.0.3+1.20.1.jar",
+      "sha1": "bb216158fb0a671f2e6eb2ddf71818407ff2b732",
+      "size": 2367640,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/palegardenbackport-forge-2.0.3+1.20.1.jar"
+    },
+    {
+      "path": "mods/particular-1.20.1-Forge-1.2.7.jar",
+      "sha1": "db04a6b14b7fb219701c50907986384bca363298",
+      "size": 420332,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/particular-1.20.1-Forge-1.2.7.jar"
+    },
+    {
+      "path": "mods/Patchouli-1.20.1-84.1-FORGE.jar",
+      "sha1": "e91d2e2f251375d647d592b670ea6f310c2554eb",
+      "size": 642711,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Patchouli-1.20.1-84.1-FORGE.jar"
+    },
+    {
+      "path": "mods/Paxi-1.20-Forge-4.0.jar",
+      "sha1": "a3a7008e07a27b3c831af7e4c82fbbc10a4da328",
+      "size": 96892,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Paxi-1.20-Forge-4.0.jar"
+    },
+    {
+      "path": "mods/Perception-FORGE-0.1.4+1.20.1.jar",
+      "sha1": "a1b3cdfb0895cbfc81a53f6f6eacdb0a0ee091e1",
+      "size": 70069,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Perception-FORGE-0.1.4+1.20.1.jar"
+    },
+    {
+      "path": "mods/Ping-Wheel-1.12.0-forge-1.20.1.jar",
+      "sha1": "295637cddcc338a7741cd7891929b1ff99706da2",
+      "size": 156783,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Ping-Wheel-1.12.0-forge-1.20.1.jar"
+    },
+    {
+      "path": "mods/Placebo-1.20.1-8.6.3.jar",
+      "sha1": "e85f53de2e582a79ce25ff1df1e7b5b5fc08440f",
+      "size": 282474,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Placebo-1.20.1-8.6.3.jar"
+    },
+    {
+      "path": "mods/plasmovoice-forge-1.20.1-2.1.6.jar",
+      "sha1": "a54ae8fafb45a1f2d61c885f646258e800fe0404",
+      "size": 12186715,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/plasmovoice-forge-1.20.1-2.1.6.jar"
+    },
+    {
+      "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "sha1": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a",
+      "size": 181437,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
+    },
+    {
+      "path": "mods/plushie_buddies-0.1.7-1.20.1.jar",
+      "sha1": "25782b7ef0ddba05e4d9cc1310e8543affafcdcf",
+      "size": 411299,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/plushie_buddies-0.1.7-1.20.1.jar"
+    },
+    {
+      "path": "mods/Pretty Rain-1.20.1-Forge-1.1.3.jar",
+      "sha1": "9b787b001c0b573927e21fd7b04254f0170e8157",
+      "size": 601125,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Pretty Rain-1.20.1-Forge-1.1.3.jar"
+    },
+    {
+      "path": "mods/Prism-1.20.1-forge-1.0.5.jar",
+      "sha1": "bcb4bbb1052f49ed4fe6e7d5d7f91f68d45c3fe3",
+      "size": 52205,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Prism-1.20.1-forge-1.0.5.jar"
+    },
+    {
+      "path": "mods/projectvibrantjourneys-1.20.1-6.2.0.jar",
+      "sha1": "b7af434368a43d35104848ab80dc16c8b524958e",
+      "size": 731678,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/projectvibrantjourneys-1.20.1-6.2.0.jar"
+    },
+    {
+      "path": "mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+      "sha1": "285b7c7616971338ccbe0022c9ea0f8ad3036aaf",
+      "size": 1342987,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/PuzzlesLib-v8.1.33-1.20.1-Forge.jar"
+    },
+    {
+      "path": "mods/pyrotechnic-elytra-forge-1.20.1-1.0.0.jar",
+      "sha1": "0b561e53c6494385010ce4913602ae48822a324a",
+      "size": 258935,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/pyrotechnic-elytra-forge-1.20.1-1.0.0.jar"
+    },
+    {
+      "path": "mods/raccompat-1.20.1-0.1.3.jar",
+      "sha1": "3e7613883e6f356fedb8b91bf9bce8ef40a4c857",
+      "size": 119631,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/raccompat-1.20.1-0.1.3.jar"
+    },
+    {
+      "path": "mods/radiantgear-forge-2.2.0+1.20.1.jar",
+      "sha1": "525b3ebccece23ed6bf4945a1c054c21599fc083",
+      "size": 47170,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/radiantgear-forge-2.2.0+1.20.1.jar"
+    },
+    {
+      "path": "mods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
+      "sha1": "f5f5f792473bb7b85ec221f75c5afb3740afb13a",
+      "size": 713454,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/radium-mc1.20.1-0.12.4+git.26c9d8e.jar"
+    },
+    {
+      "path": "mods/ramcompat-1.20.1-0.1.4.jar",
+      "sha1": "6475d3d9eed8ede0a2e9356aacc6a81bf713de2a",
+      "size": 43635,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/ramcompat-1.20.1-0.1.4.jar"
+    },
+    {
+      "path": "mods/rarcompat-1.20.1-0.5.jar",
+      "sha1": "a6d83f41f0bff392fec5db7e392d57d8b0c818e0",
+      "size": 409926,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/rarcompat-1.20.1-0.5.jar"
+    },
+    {
+      "path": "mods/rebind_narrator-1.20.1-forge-2025.10.21.jar",
+      "sha1": "939f6b1a9c04d0ee36b97259005481c2c0e8ab6a",
+      "size": 193563,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/rebind_narrator-1.20.1-forge-2025.10.21.jar"
+    },
+    {
+      "path": "mods/recipeessentials-1.20.1-4.0.jar",
+      "sha1": "6e50995efefdef6f77f0289200a17ae4c18cde75",
+      "size": 50739,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/recipeessentials-1.20.1-4.0.jar"
+    },
+    {
+      "path": "mods/relics-1.20.1-0.8.0.11.jar",
+      "sha1": "7cae606158a0ddcecd0c68c1d82a29ad89da6ce2",
+      "size": 1518437,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/relics-1.20.1-0.8.0.11.jar"
+    },
+    {
+      "path": "mods/repurposed_structures-7.1.19+1.20.1-forge.jar",
+      "sha1": "8605ad00f483bb6d6ac0afc5b1c7b07a5cd5c476",
+      "size": 8229106,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/repurposed_structures-7.1.19+1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "sha1": "597d40920dcc935f963842c817dcc4901862ab14",
+      "size": 136923,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/resourcefulconfig-forge-1.20.1-2.1.3.jar"
+    },
+    {
+      "path": "mods/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "sha1": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa",
+      "size": 432753,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/resourcefullib-forge-1.20.1-2.1.29.jar"
+    },
+    {
+      "path": "mods/ResourcePackOverrides-v8.0.3-1.20.1-Forge.jar",
+      "sha1": "fa3d92461bceb63439d33ab634e894d4b342599c",
+      "size": 84339,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/ResourcePackOverrides-v8.0.3-1.20.1-Forge.jar"
+    },
+    {
+      "path": "mods/restrictedportals-forge-1.20.1-1.5.0.jar",
+      "sha1": "602bb68a7613bf8e1f4da62d5b601ca83b1cebb8",
+      "size": 57684,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/restrictedportals-forge-1.20.1-1.5.0.jar"
+    },
+    {
+      "path": "mods/rhino-forge-2001.2.3-build.10.jar",
+      "sha1": "c83c9b719a6bab33fbd2b3f2f680eb3adbfc1aa1",
+      "size": 1798244,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/rhino-forge-2001.2.3-build.10.jar"
+    },
+    {
+      "path": "mods/Ribbits-1.20.1-Forge-3.0.4.jar",
+      "sha1": "71ea783348537edaf992366b3be306f9ede9a6d4",
+      "size": 2218573,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Ribbits-1.20.1-Forge-3.0.4.jar"
+    },
+    {
+      "path": "mods/rightclickharvest-forge-4.6.0+1.20.1.jar",
+      "sha1": "7b467d8d5c093d0ee5214a12ac2a198681f0f0e6",
+      "size": 288225,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/rightclickharvest-forge-4.6.0+1.20.1.jar"
+    },
+    {
+      "path": "mods/rrls-4.0.6.1+mc1.20.1-forge.jar",
+      "sha1": "c8f154b0b03dde15c5e901fc7c0c7c701466211d",
+      "size": 277896,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/rrls-4.0.6.1+mc1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
+      "sha1": "bb422d5626bf69841e444a3e545c8e71b6928cf8",
+      "size": 568608,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar"
+    },
+    {
+      "path": "mods/RubinatedNether-forge-1.3.0.E-1.20.1.jar",
+      "sha1": "bd12eef161ae99be5036c01f69345491b307192e",
+      "size": 2675251,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/RubinatedNether-forge-1.3.0.E-1.20.1.jar"
+    },
+    {
+      "path": "mods/saturn-mc1.20.1-0.1.3.jar",
+      "sha1": "ad93f99d46714c46aaa6a4409aeca506e9fcac99",
+      "size": 92319,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/saturn-mc1.20.1-0.1.3.jar"
+    },
+    {
+      "path": "mods/Searchables-forge-1.20.1-1.0.3.jar",
+      "sha1": "ed5a23ec30c90fd06b3f1d8140614028e1fafaee",
+      "size": 77732,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Searchables-forge-1.20.1-1.0.3.jar"
+    },
+    {
+      "path": "mods/secondchanceforge-1.20-1.5.1.jar",
+      "sha1": "19a942ea67022baa3d5abe248238918767ae5fca",
+      "size": 29581,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/secondchanceforge-1.20-1.5.1.jar"
+    },
+    {
+      "path": "mods/servercore-forge-1.5.2+1.20.1.jar",
+      "sha1": "75c6418edc76da55ec89f417e8c43c9d1873fceb",
+      "size": 1508496,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/servercore-forge-1.5.2+1.20.1.jar"
+    },
+    {
+      "path": "mods/ShieldExpansion-1.20.1-1.2.2.jar",
+      "sha1": "53e6a67e60067789b8a5152f26034d50c8354bd7",
+      "size": 293526,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/ShieldExpansion-1.20.1-1.2.2.jar"
+    },
+    {
+      "path": "mods/ShoulderSurfing-Forge-1.20.1-4.17.0.jar",
+      "sha1": "77741047e50205980a6eb518aec2514784584c09",
+      "size": 263677,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/ShoulderSurfing-Forge-1.20.1-4.17.0.jar"
+    },
+    {
+      "path": "mods/shutter-2.2.0-1.20.1.jar",
+      "sha1": "c54a6e4f414b78bfac3868abb0d9cb77c950d703",
+      "size": 1121338,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/shutter-2.2.0-1.20.1.jar"
+    },
+    {
+      "path": "mods/simpledrills-1.6.1-forge-1.20.1.jar",
+      "sha1": "36e2addcade50fd2bd0d9fc5151e8ae7d1ce3d54",
+      "size": 83204,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/simpledrills-1.6.1-forge-1.20.1.jar"
+    },
+    {
+      "path": "mods/simplemenu-1.20.1-2.0.jar",
+      "sha1": "a8945a6b758f06d788869c406a9cb848630b031d",
+      "size": 57240,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/simplemenu-1.20.1-2.0.jar"
+    },
+    {
+      "path": "mods/simplyswords-forge-1.56.0-1.20.1.jar",
+      "sha1": "ff801e939da0f9afc2d96cce4375d8c4bb368533",
+      "size": 15202091,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/simplyswords-forge-1.56.0-1.20.1.jar"
+    },
+    {
+      "path": "mods/simply_swords_overhaul-1.0.4-1.20.1.jar",
+      "sha1": "aee8701d2ceca3885889b12766a490fbf305a6be",
+      "size": 79665,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/simply_swords_overhaul-1.0.4-1.20.1.jar"
+    },
+    {
+      "path": "mods/smarterfarmers-1.20-2.1.2.jar",
+      "sha1": "03bae1d509d5a9644bf2ef955fefb2e6b78fc861",
+      "size": 223368,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/smarterfarmers-1.20-2.1.2.jar"
+    },
+    {
+      "path": "mods/smoothchunk-1.20.1-4.1.jar",
+      "sha1": "3e142e4a2e12db1c9a3777879cc021aff49da088",
+      "size": 14249,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/smoothchunk-1.20.1-4.1.jar"
+    },
+    {
+      "path": "mods/Sniffer+-forge-1.20.1-0.3.0.jar",
+      "sha1": "3b084397c77d1b6b8af9c9648cd99eb79779a8e5",
+      "size": 242339,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Sniffer+-forge-1.20.1-0.3.0.jar"
+    },
+    {
+      "path": "mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+      "sha1": "d27524e85bed0f0af83c03be46f9ca3eb02a1be9",
+      "size": 511601,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/sodiumdynamiclights-forge-1.0.10-1.20.1.jar"
+    },
+    {
+      "path": "mods/sodiumextras-forge-1.0.7-1.20.1.jar",
+      "sha1": "7603f44bc4750774fbbdc07a3153c391650fcf3d",
+      "size": 438540,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/sodiumextras-forge-1.0.7-1.20.1.jar"
+    },
+    {
+      "path": "mods/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+      "sha1": "7529fbf938787ed13a251cbf40936f8c29ec4b6c",
+      "size": 443978,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/sodiumoptionsapi-forge-1.0.10-1.20.1.jar"
+    },
+    {
+      "path": "mods/sophisticatedbackpacks-1.20.1-3.24.13.1433.jar",
+      "sha1": "f755b85419761acd6373b024e365ab38a943e1fb",
+      "size": 975060,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/sophisticatedbackpacks-1.20.1-3.24.13.1433.jar"
+    },
+    {
+      "path": "mods/sophisticatedcore-1.20.1-1.2.109.1271.jar",
+      "sha1": "b5310e5abcf0a4708a1f9c2721fab5495b2b3cf0",
+      "size": 1440009,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/sophisticatedcore-1.20.1-1.2.109.1271.jar"
+    },
+    {
+      "path": "mods/soul-fire-d-forge-1.20.1-4.0.11.jar",
+      "sha1": "d5073a142e0b5caf024cfbc812fe08bc14e9570b",
+      "size": 341463,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/soul-fire-d-forge-1.20.1-4.0.11.jar"
+    },
+    {
+      "path": "mods/soulbound-forge-1.0.0+1.20.1.jar",
+      "sha1": "c7a110b2767191674c727812b378d430a897bb75",
+      "size": 24133,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/soulbound-forge-1.0.0+1.20.1.jar"
+    },
+    {
+      "path": "mods/sound-physics-remastered-forge-1.20.1-1.4.10.jar",
+      "sha1": "629e987b2a0c9342a31dfdef67590f228d949c34",
+      "size": 203819,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/sound-physics-remastered-forge-1.20.1-1.4.10.jar"
+    },
+    {
+      "path": "mods/spark-1.10.53-forge.jar",
+      "sha1": "231fb325368c0660954f47bfb03493f5246fa4d1",
+      "size": 3114590,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/spark-1.10.53-forge.jar"
+    },
+    {
+      "path": "mods/sparsestructuresreforged-1.20.1-0.0.1.jar",
+      "sha1": "06ff9088a1ffce096b4826337cd571c5517a3a8b",
+      "size": 9240,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/sparsestructuresreforged-1.20.1-0.0.1.jar"
+    },
+    {
+      "path": "mods/spyglass_improvements-forge-1.5.12b+mc1.20+forge.jar",
+      "sha1": "3279df24484a46a23c5db806a22e01db0672a0ab",
+      "size": 249715,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/spyglass_improvements-forge-1.5.12b+mc1.20+forge.jar"
+    },
+    {
+      "path": "mods/Stoneworks-v8.0.0-1.20.1-Forge.jar",
+      "sha1": "d8f9226296177749e2b07159dfab6165dd6f88af",
+      "size": 2809567,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Stoneworks-v8.0.0-1.20.1-Forge.jar"
+    },
+    {
+      "path": "mods/StorageDrawers-forge-1.20.1-12.14.3.jar",
+      "sha1": "afca74c6e18883632e74e15a549004bfca245a90",
+      "size": 1143623,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/StorageDrawers-forge-1.20.1-12.14.3.jar"
+    },
+    {
+      "path": "mods/Structory_1.20.x_v1.3.5.jar",
+      "sha1": "88c1d90ac79c98a50e3e4bd3a93c70431c716dd5",
+      "size": 1286460,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Structory_1.20.x_v1.3.5.jar"
+    },
+    {
+      "path": "mods/structureessentials-1.20.1-4.8.jar",
+      "sha1": "1f94d509a6c25fa85b748d3cc3015bbbb977a948",
+      "size": 63134,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/structureessentials-1.20.1-4.8.jar"
+    },
+    {
+      "path": "mods/structurify-forge-1.0.21+mc1.20.1.jar",
+      "sha1": "f184257fad61df437f1e54b9c32d98649d7be996",
+      "size": 789793,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/structurify-forge-1.0.21+mc1.20.1.jar"
+    },
+    {
+      "path": "mods/StylishEffects-v8.0.2-1.20.1-Forge.jar",
+      "sha1": "90f812020dcbbd854d4e3bab25237250f2e5f84e",
+      "size": 127246,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/StylishEffects-v8.0.2-1.20.1-Forge.jar"
+    },
+    {
+      "path": "mods/SubtleEffects-forge-1.20.1-1.13.2.jar",
+      "sha1": "704e6b718c405b67296fe717f099aff72ebba8db",
+      "size": 3386816,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/SubtleEffects-forge-1.20.1-1.13.2.jar"
+    },
+    {
+      "path": "mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "sha1": "f80f9eed728966adcfbcc848633e789645057281",
+      "size": 206584,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/supermartijn642configlib-1.1.8-forge-mc1.20.jar"
+    },
+    {
+      "path": "mods/supplementaries-1.20-3.1.41.jar",
+      "sha1": "9ab9dd5ffed81cbb547facf2849920af99bf96c3",
+      "size": 13650491,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/supplementaries-1.20-3.1.41.jar"
+    },
+    {
+      "path": "mods/suppsquared-1.20-1.1.28.jar",
+      "sha1": "fce110da725de7754d524d0fb61aed1bd7dac448",
+      "size": 923074,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/suppsquared-1.20-1.1.28.jar"
+    },
+    {
+      "path": "mods/tact-1.5.0+1.20.1.jar",
+      "sha1": "72938ac29ebd202371436f2e33824e607d3ed0dc",
+      "size": 709975,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/tact-1.5.0+1.20.1.jar"
+    },
+    {
+      "path": "mods/TaxFreeLevels-1.4.14-forge-1.20.1.jar",
+      "sha1": "ba81d423314678c4d5c76b0c7f1af5aeb6a7b84a",
+      "size": 223988,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/TaxFreeLevels-1.4.14-forge-1.20.1.jar"
+    },
+    {
+      "path": "mods/TaxTreeGiant+M.1.20.1+ForM.2.2.0.jar",
+      "sha1": "c91ba8d977503eae952e19a10cce6b06067918b0",
+      "size": 690602,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/TaxTreeGiant+M.1.20.1+ForM.2.2.0.jar"
+    },
+    {
+      "path": "mods/temporalapi-1.6.7.jar",
+      "sha1": "ad7e62754b33f930ecc4270475fe3b9b78eb70e3",
+      "size": 216661,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/temporalapi-1.6.7.jar"
+    },
+    {
+      "path": "mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "sha1": "3bd99fb59e8b06b04e78b5153790c1e08b2be5dc",
+      "size": 107532,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/TerraBlender-forge-1.20.1-3.0.1.10.jar"
+    },
+    {
+      "path": "mods/Terralith_1.20.x_v2.5.4.jar",
+      "sha1": "79e1409b8db4ce86df9d6d6730f09c4bd8860a30",
+      "size": 3156901,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Terralith_1.20.x_v2.5.4.jar"
+    },
+    {
+      "path": "mods/theinkarena-1.3.1-forge-1.20.1.jar",
+      "sha1": "b6ca6809a796171e3caaa9d380ab59cf79cc2bf7",
+      "size": 1916475,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/theinkarena-1.3.1-forge-1.20.1.jar"
+    },
+    {
+      "path": "mods/tidal-towns-1.3.4.jar",
+      "sha1": "a0a8db8df7a471e75b53e3fa8cafc7ca767f5506",
+      "size": 110098,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/tidal-towns-1.3.4.jar"
+    },
+    {
+      "path": "mods/tlc_forge-1.0.3-R-1.20.X.jar",
+      "sha1": "20bdd3e3f8084cf724ebd4fa09f835b5ea693a7c",
+      "size": 713860,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/tlc_forge-1.0.3-R-1.20.X.jar"
+    },
+    {
+      "path": "mods/ToastControl-1.20.1-8.0.3.jar",
+      "sha1": "e9ef48672f01b076ea3b8c7c5e6a139c2491a67c",
+      "size": 26957,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/ToastControl-1.20.1-8.0.3.jar"
+    },
+    {
+      "path": "mods/toms_storage-1.20-1.7.1.jar",
+      "sha1": "8b70aed9e35ad78fdc2f9fcb94a29dc64ba8d757",
+      "size": 520148,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/toms_storage-1.20-1.7.1.jar"
+    },
+    {
+      "path": "mods/toofast-1.20-0.4.3.5.jar",
+      "sha1": "a6163b39827b483fb2976c916d99fce6cbf247a9",
+      "size": 3875,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/toofast-1.20-0.4.3.5.jar"
+    },
+    {
+      "path": "mods/too_many_bows-forge-3.7.0.jar",
+      "sha1": "236c336c732d865d46a1ba2b02e4e0f34b982b63",
+      "size": 954221,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/too_many_bows-forge-3.7.0.jar"
+    },
+    {
+      "path": "mods/torch-hit-forge-1.20.1-7.0.0.jar",
+      "sha1": "2b21969761f9f4765fc59cfb7a6000ed08bc54cd",
+      "size": 1236155,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/torch-hit-forge-1.20.1-7.0.0.jar"
+    },
+    {
+      "path": "mods/Towns-and-Towers-1.12-Fabric+Forge.jar",
+      "sha1": "5a28ec56457cf1bf154e993cf73dba0428a7921b",
+      "size": 2864275,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Towns-and-Towers-1.12-Fabric+Forge.jar"
+    },
+    {
+      "path": "mods/trade-cycling-forge-1.20.1-1.0.18.jar",
+      "sha1": "fbe3dfba11bd9e1c73b673f252c7d4f5cececa06",
+      "size": 84453,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/trade-cycling-forge-1.20.1-1.0.18.jar"
+    },
+    {
+      "path": "mods/TravelersTitles-1.20-Forge-4.0.2.jar",
+      "sha1": "64a435eaa6e08fff5af2c720c3b6a40fe292f2f7",
+      "size": 228191,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/TravelersTitles-1.20-Forge-4.0.2.jar"
+    },
+    {
+      "path": "mods/treasuredistance-1.20-1.2.jar",
+      "sha1": "736d49f14ee48422f6209807c5285e787355d785",
+      "size": 6594,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/treasuredistance-1.20-1.2.jar"
+    },
+    {
+      "path": "mods/TreeChop-1.20.1-forge-0.19.0-fixed.jar",
+      "sha1": "ac5a20b5a2fd9ed7d6e9a0c033f53307947e5f3f",
+      "size": 517225,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/TreeChop-1.20.1-forge-0.19.0-fixed.jar"
+    },
+    {
+      "path": "mods/Trials-2.3.3.jar",
+      "sha1": "606bf9c8cb50b6f8560f892af70387db037f2ca7",
+      "size": 8337747,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Trials-2.3.3.jar"
+    },
+    {
+      "path": "mods/tru.e-ending-v1.1.0c.jar",
+      "sha1": "ab318879312d428eda430006efd14911a15ddd44",
+      "size": 5525883,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/tru.e-ending-v1.1.0c.jar"
+    },
+    {
+      "path": "mods/txnilib-forge-1.0.24-1.20.1.jar",
+      "sha1": "a1e16b7d61f0f16a162d429ee1eab9b4e3eeb9ef",
+      "size": 3743339,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/txnilib-forge-1.0.24-1.20.1.jar"
+    },
+    {
+      "path": "mods/underground-rivers-1.0.1-forge-1.20.1.jar",
+      "sha1": "9592fa574a0110a179bffe885a886a603d0773f0",
+      "size": 40473,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/underground-rivers-1.0.1-forge-1.20.1.jar"
+    },
+    {
+      "path": "mods/UniLib-1.2.0+1.20.1-forge.jar",
+      "sha1": "b8348dbe2ac3226613332eaf65d0fdfa6e76d8c3",
+      "size": 1631104,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/UniLib-1.2.0+1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/untitledduckmod-1.2.0-hotfix-forge-1.20.1.jar",
+      "sha1": "a6b2af7f52523bc8ea425fea31a18cdf352fe41f",
+      "size": 296586,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/untitledduckmod-1.2.0-hotfix-forge-1.20.1.jar"
+    },
+    {
+      "path": "mods/upgrade_aquatic-1.20.1-6.0.3.jar",
+      "sha1": "8745e0f1c1371fe5c028aa7397e4de1a0c4220f6",
+      "size": 4981396,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/upgrade_aquatic-1.20.1-6.0.3.jar"
+    },
+    {
+      "path": "mods/valhelsia_core-forge-1.20.1-1.1.2.jar",
+      "sha1": "5e88feef805d15ffbe3c0918f53d6ed213a7dc6a",
+      "size": 203313,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/valhelsia_core-forge-1.20.1-1.1.2.jar"
+    },
+    {
+      "path": "mods/valhelsia_furniture-forge-1.20.1-1.1.3.jar",
+      "sha1": "3369038794434045849f46c280c390467c8672f2",
+      "size": 4518058,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/valhelsia_furniture-forge-1.20.1-1.1.3.jar"
+    },
+    {
+      "path": "mods/veinmining-forge-1.5.0+1.20.1.jar",
+      "sha1": "e484d2f2556bb638c4c3da5e5542eae70035f98a",
+      "size": 230264,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/veinmining-forge-1.5.0+1.20.1.jar"
+    },
+    {
+      "path": "mods/visuality-forge-2.0.2.jar",
+      "sha1": "1f0547f3ba508156cd4630bf793df464230e04f3",
+      "size": 215750,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/visuality-forge-2.0.2.jar"
+    },
+    {
+      "path": "mods/VisualWorkbench-v8.0.1-1.20.1-Forge.jar",
+      "sha1": "563804910a7ebb1082c1eedca363b16e2c572459",
+      "size": 82557,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/VisualWorkbench-v8.0.1-1.20.1-Forge.jar"
+    },
+    {
+      "path": "mods/voidtotem-forge-1.20-3.0.1.jar",
+      "sha1": "2b5b4e5e366c38f961e931f12b66d328b560e66f",
+      "size": 69915,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/voidtotem-forge-1.20-3.0.1.jar"
+    },
+    {
+      "path": "mods/watut-forge-1.20.1-1.2.3.jar",
+      "sha1": "d376debf1f96f37dbedf56919baeb7da2dcef9ab",
+      "size": 435496,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/watut-forge-1.20.1-1.2.3.jar"
+    },
+    {
+      "path": "mods/waystones-forge-1.20.1-14.1.17.jar",
+      "sha1": "0572e124fa1af248b5b978d7c615fb31629103e5",
+      "size": 518286,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/waystones-forge-1.20.1-14.1.17.jar"
+    },
+    {
+      "path": "mods/WI-Zoom-1.5-MC1.20.1-Forge.jar",
+      "sha1": "de100712cf2b7187a23f5cd726b93e576592979b",
+      "size": 141897,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/WI-Zoom-1.5-MC1.20.1-Forge.jar"
+    },
+    {
+      "path": "mods/woodworks-1.20.1-3.0.2.jar",
+      "sha1": "dc0022c3f785b2e0a16fdcaadb227963f117d851",
+      "size": 1438278,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/woodworks-1.20.1-3.0.2.jar"
+    },
+    {
+      "path": "mods/XaerosWorldMap_1.39.12_Forge_1.20.jar",
+      "sha1": "3c4005a400ba8270738bbe4c573526749ecf2f8f",
+      "size": 960799,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/XaerosWorldMap_1.39.12_Forge_1.20.jar"
+    },
+    {
+      "path": "mods/Xaeros_Minimap_25.2.10_Forge_1.20.jar",
+      "sha1": "1f23df114da3a8603dbe4781c07e8acf20f6d1ce",
+      "size": 1723029,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/Xaeros_Minimap_25.2.10_Forge_1.20.jar"
+    },
+    {
+      "path": "mods/xaeros_waystones_compability-1.0.jar",
+      "sha1": "a5cee92bae3ebb6a95f01e972a71ca794bc60f98",
+      "size": 325574,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/xaeros_waystones_compability-1.0.jar"
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+      "sha1": "644731e321c53a35a0b3177a3cc6347fe38002f4",
+      "size": 1105891,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/YungsApi-1.20-Forge-4.0.6.jar",
+      "sha1": "af584b690f5646c6032002b58abc4591beed3833",
+      "size": 370524,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/YungsApi-1.20-Forge-4.0.6.jar"
+    },
+    {
+      "path": "mods/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+      "sha1": "31b386b2dbaa4933e0a10ccdfb25f56da16931a6",
+      "size": 918012,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar"
+    },
+    {
+      "path": "mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+      "sha1": "67a9e1c2ff126ab54cea8e0709d178915243039e",
+      "size": 792381,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/YungsBetterDungeons-1.20-Forge-4.0.4.jar"
+    },
+    {
+      "path": "mods/YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+      "sha1": "4e7bf109981593061b8100bc8bf23e1c9bbcbb76",
+      "size": 387111,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/YungsBetterEndIsland-1.20-Forge-2.0.6.jar"
+    },
+    {
+      "path": "mods/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+      "sha1": "0b3c8556983895fea980247bb4d437ca535e7259",
+      "size": 806652,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar"
+    },
+    {
+      "path": "mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "sha1": "e2cbc574807a994bb9610184eb4bbfe29a6c0774",
+      "size": 492998,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/YungsBetterMineshafts-1.20-Forge-4.0.4.jar"
+    },
+    {
+      "path": "mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+      "sha1": "889cd16a93764d1d6af2e2dda5bbc286a2683e7a",
+      "size": 619255,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar"
+    },
+    {
+      "path": "mods/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+      "sha1": "d8e74ed19903752a97ed0e1d2b1a8bf378bc252f",
+      "size": 1033262,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar"
+    },
+    {
+      "path": "mods/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+      "sha1": "3730238c56edca4bb5b2238e1314aec572ced385",
+      "size": 473564,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/YungsBetterStrongholds-1.20-Forge-4.0.3.jar"
+    },
+    {
+      "path": "mods/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+      "sha1": "71fee574f920c6b05004f100ba07e9b8d5844169",
+      "size": 179190,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar"
+    },
+    {
+      "path": "mods/YungsCaveBiomes-1.20.1-Forge-2.0.5.jar",
+      "sha1": "c0a57a7d5a0cea0297f82a482490fc1e7933695f",
+      "size": 13014967,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/YungsCaveBiomes-1.20.1-Forge-2.0.5.jar"
+    },
+    {
+      "path": "mods/YungsExtras-1.20-Forge-4.0.3.jar",
+      "sha1": "4b2e632353a95c16a080c2e64c426480a139fbd6",
+      "size": 200341,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/YungsExtras-1.20-Forge-4.0.3.jar"
+    },
+    {
+      "path": "mods/YungsMenuTweaks-1.20.1-Forge-1.0.2.jar",
+      "sha1": "b43a0bc054d3974076d36b5cfec6aeab968d24a6",
+      "size": 157602,
+      "url": "https://github.com/Alkaponii/webocraft-files/releases/download/almacen/YungsMenuTweaks-1.20.1-Forge-1.0.2.jar"
+    },
+    {
+      "path": "shaderpacks/astralex.zip",
+      "sha1": "1041c11b811ee3546bca75cbb14c8c1916a2e9c3",
+      "size": 3184524,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/shaderpacks/astralex.zip"
+    },
+    {
+      "path": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+      "sha1": "ded6c8a98305f8aff90ef781e7585b33b8452cfd",
+      "size": 1791406,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
+    },
+    {
+      "path": "shaderpacks/BSL_v8.4.zip",
+      "sha1": "ee9a262f6f284e581dd946644704d299d1f735d5",
+      "size": 1105442,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/shaderpacks/BSL_v8.4.zip"
+    },
+    {
+      "path": "shaderpacks/Chocapic13_V9.zip",
+      "sha1": "5c53ce4d54f8976361420a51c42e62ccf65cfb8a",
+      "size": 14149623,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/shaderpacks/Chocapic13_V9.zip"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.6.1.zip",
+      "sha1": "7fa0a31aa9375ad63e4b13cb1de8d4a9702dd74e",
+      "size": 500696,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/shaderpacks/ComplementaryReimagined_r5.6.1.zip"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.6.1.zip",
+      "sha1": "db9d5d3fab53bb896e1d727661540ecf570059a9",
+      "size": 500699,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/shaderpacks/ComplementaryUnbound_r5.6.1.zip"
+    },
+    {
+      "path": "shaderpacks/outdated complementaryreimagined.zip",
+      "sha1": "f233f23a3d5fea7cdad39976dac06eeb8d8f43aa",
+      "size": 1222069,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/shaderpacks/outdated complementaryreimagined.zip"
+    },
+    {
+      "path": "shaderpacks/Solas Shader V3.1c.zip",
+      "sha1": "ea8bbed27e5a780022f43704e1e2a7ca1767d984",
+      "size": 1303026,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/shaderpacks/Solas Shader V3.1c.zip"
+    },
+    {
+      "path": "shaderpacks/superDuperVanilla.zip",
+      "sha1": "f2d6d259368e8b8d8807abb1ac28aaa7cff85b8c",
+      "size": 2851664,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/shaderpacks/superDuperVanilla.zip"
+    },
+    {
+      "path": "versions/1.20.1-forge-47.4.10/1.20.1-forge-47.4.10.json",
+      "sha1": "7df0e0f336b41bda764f1e863b56872faee1caf8",
+      "size": 16554,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/versions/1.20.1-forge-47.4.10/1.20.1-forge-47.4.10.json"
+    }
+  ]
+}
