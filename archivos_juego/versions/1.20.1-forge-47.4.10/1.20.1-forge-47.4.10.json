@@ -1,0 +1,970 @@
+{
+    "id": "1.20.1-forge-47.4.10",
+    "time": "2025-10-09T22:56:29+00:00",
+    "releaseTime": "2025-10-09T22:56:29+00:00",
+    "type": "release",
+    "mainClass": "cpw.mods.bootstraplauncher.BootstrapLauncher",
+    "inheritsFrom": "1.20.1",
+    "logging": {},
+    "arguments": {
+        "game": [
+            "--launchTarget",
+            "forgeclient",
+            "--fml.forgeVersion",
+            "47.4.10",
+            "--fml.mcVersion",
+            "1.20.1",
+            "--fml.forgeGroup",
+            "net.minecraftforge",
+            "--fml.mcpVersion",
+            "20230612.114412"
+        ],
+        "jvm": [
+            "-Djava.net.preferIPv6Addresses=system",
+            "-DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,${version_name}.jar",
+            "-DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar",
+            "-DlibraryDirectory=${library_directory}",
+            
+            "--module-path", "${classpath}", 
+            "--add-modules", "ALL-MODULE-PATH",
+            
+            "-cp", "${classpath}",
+            
+            "--add-opens", "java.base/java.lang=ALL-UNNAMED",
+            "--add-opens", "java.base/java.nio=ALL-UNNAMED",
+            "--add-opens", "java.base/sun.nio.ch=ALL-UNNAMED",
+            "--add-opens", "java.base/java.util=ALL-UNNAMED",
+            "--add-opens", "java.base/java.util.jar=ALL-UNNAMED",
+            "--add-opens", "java.base/java.lang.invoke=ALL-UNNAMED"
+        ]
+    },
+    "libraries": [
+        {
+            "name": "net.java.dev.jna:jna:5.12.1",
+            "downloads": {
+                "artifact": {
+                    "path": "net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar",
+                    "sha1": "b5749f57d620583b2767073b32062634d0b171c6",
+                    "size": 1699974
+                }
+            }
+        },
+        {
+            "name": "net.java.dev.jna:jna-platform:5.12.1",
+            "downloads": {
+                "artifact": {
+                    "path": "net/java/dev/jna/jna-platform/5.12.1/jna-platform-5.12.1.jar",
+                    "sha1": "53945418af882dfa52f954ccb50a266504a74287",
+                    "size": 2577907
+                }
+            }
+        },
+        {
+            "name": "com.mojang:patchy:2.2.10",
+            "downloads": {
+                "artifact": {
+                    "path": "com/mojang/patchy/2.2.10/patchy-2.2.10.jar",
+                    "sha1": "c86e2469850c950a97b2b73715c0dd2342981504",
+                    "size": 47214
+                }
+            }
+        },
+        {
+            "name": "com.mojang:blocklist:1.0.10",
+            "downloads": {
+                "artifact": {
+                    "path": "com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar",
+                    "sha1": "452718e2171542f70b74158498f7e2ffb221081a",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "com.mojang:brigadier:1.1.8",
+            "downloads": {
+                "artifact": {
+                    "path": "com/mojang/brigadier/1.1.8/brigadier-1.1.8.jar",
+                    "sha1": "6c65b12883017a86f9a0f5a7e6d0a79043232185",
+                    "size": 178822
+                }
+            }
+        },
+        {
+            "name": "com.mojang:datafixerupper:6.0.8",
+            "downloads": {
+                "artifact": {
+                    "path": "com/mojang/datafixerupper/6.0.8/datafixerupper-6.0.8.jar",
+                    "sha1": "720977e5d263b8655079a40561570773d57b4478",
+                    "size": 477123
+                }
+            }
+        },
+        {
+            "name": "com.mojang:datafixerupper:6.0.8",
+            "downloads": {
+                "artifact": {
+                    "path": "com/mojang/datafixerupper/6.0.8/datafixerupper-6.0.8.jar",
+                    "sha1": "720977e5d263b8655079a40561570773d57b4478",
+                    "size": 477123
+                }
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux"
+                    }
+                },
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx"
+                    }
+                },
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "windows"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "com.mojang:datafixerupper:6.0.8",
+            "downloads": {
+                "artifact": {
+                    "path": "com/mojang/datafixerupper/6.0.8/datafixerupper-6.0.8.jar",
+                    "sha1": "720977e5d263b8655079a40561570773d57b4478",
+                    "size": 477123
+                }
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux"
+                    }
+                },
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx"
+                    }
+                },
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "windows"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "com.mojang:logging:1.1.1",
+            "downloads": {
+                "artifact": {
+                    "path": "com/mojang/logging/1.1.1/logging-1.1.1.jar",
+                    "sha1": "95a7c293cf7c1c0ba02540c4974020a501e4a1a8",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "com.mojang:authlib:4.0.43",
+            "downloads": {
+                "artifact": {
+                    "path": "com/mojang/authlib/4.0.43/authlib-4.0.43.jar",
+                    "sha1": "7f09f066b1a3782798e1694f420e6a3efdfc674a",
+                    "size": 2577907
+                }
+            }
+        },
+        {
+            "name": "com.mojang:text2speech:1.17.9",
+            "downloads": {
+                "artifact": {
+                    "path": "com/mojang/text2speech/1.17.9/text2speech-1.17.9.jar",
+                    "sha1": "2d114a1e948332152a55ce6544955db368026131",
+                    "size": 5262
+                }
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux"
+                    }
+                },
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx"
+                    }
+                },
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "windows"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "com.github.oshi:oshi-core:6.2.2",
+            "downloads": {
+                "artifact": {
+                    "path": "com/github/oshi/oshi-core/6.2.2/oshi-core-6.2.2.jar",
+                    "sha1": "1198533c30626359f1165a37542d99c4c47b59e5",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "net.sf.jopt-simple:jopt-simple:5.0.4",
+            "downloads": {
+                "artifact": {
+                    "path": "net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar",
+                    "sha1": "d927c3f8e52a8a7a922896c21e3f8885b5463f1f",
+                    "size": 178822
+                }
+            }
+        },
+        {
+            "name": "com.google.code.gson:gson:2.10",
+            "downloads": {
+                "artifact": {
+                    "path": "com/google/code/gson/gson/2.10/gson-2.10.jar",
+                    "sha1": "720977e5d263b8655079a40561570773d57b4478",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "com.google.guava:guava:31.1-jre",
+            "downloads": {
+                "artifact": {
+                    "path": "com/google/guava/guava/31.1-jre/guava-31.1-jre.jar",
+                    "sha1": "720977e5d263b8655079a40561570773d57b4478",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "org.apache.commons:commons-lang3:3.12.0",
+            "downloads": {
+                "artifact": {
+                    "path": "org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar",
+                    "sha1": "c86e2469850c950a97b2b73715c0dd2342981504",
+                    "size": 47214
+                }
+            }
+        },
+        {
+            "name": "org.apache.commons:commons-compress:1.21",
+            "downloads": {
+                "artifact": {
+                    "path": "org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar",
+                    "sha1": "452718e2171542f70b74158498f7e2ffb221081a",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "org.apache.httpcomponents:httpclient:4.5.13",
+            "downloads": {
+                "artifact": {
+                    "path": "org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar",
+                    "sha1": "6c65b12883017a86f9a0f5a7e6d0a79043232185",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "org.apache.httpcomponents:httpcore:4.4.15",
+            "downloads": {
+                "artifact": {
+                    "path": "org/apache/httpcomponents/httpcore/4.4.15/httpcore-4.4.15.jar",
+                    "sha1": "52629850c950a97b2b73715c0dd2342981504",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "commons-codec:commons-codec:1.15",
+            "downloads": {
+                "artifact": {
+                    "path": "commons-codec/commons-codec/1.15/commons-codec-1.15.jar",
+                    "sha1": "452718e2171542f70b74158498f7e2ffb221081a",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "commons-logging:commons-logging:1.2",
+            "downloads": {
+                "artifact": {
+                    "path": "commons-logging/commons-logging/1.2/commons-logging-1.2.jar",
+                    "sha1": "c86e2469850c950a97b2b73715c0dd2342981504",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "commons-io:commons-io:2.11.0",
+            "downloads": {
+                "artifact": {
+                    "path": "commons-io/commons-io/2.11.0/commons-io-2.11.0.jar",
+                    "sha1": "6c65b12883017a86f9a0f5a7e6d0a79043232185",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "org.apache.logging.log4j:log4j-api:2.19.0",
+            "downloads": {
+                "artifact": {
+                    "path": "org/apache/logging/log4j/log4j-api/2.19.0/log4j-api-2.19.0.jar",
+                    "sha1": "c86e2469850c950a97b2b73715c0dd2342981504",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "org.apache.logging.log4j:log4j-core:2.19.0",
+            "downloads": {
+                "artifact": {
+                    "path": "org/apache/logging/log4j/log4j-core/2.19.0/log4j-core-2.19.0.jar",
+                    "sha1": "6c65b12883017a86f9a0f5a7e6d0a79043232185",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "org.apache.logging.log4j:log4j-slf4j2-impl:2.19.0",
+            "downloads": {
+                "artifact": {
+                    "path": "org/apache/logging/log4j/log4j-slf4j2-impl/2.19.0/log4j-slf4j2-impl-2.19.0.jar",
+                    "sha1": "52629850c950a97b2b73715c0dd2342981504",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "org.slf4j:slf4j-api:2.0.1",
+            "downloads": {
+                "artifact": {
+                    "path": "org/slf4j/slf4j-api/2.0.1/slf4j-api-2.0.1.jar",
+                    "sha1": "c86e2469850c950a97b2b73715c0dd2342981504",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "com.ibm.icu:icu4j:71.1",
+            "downloads": {
+                "artifact": {
+                    "path": "com/ibm/icu/icu4j/71.1/icu4j-71.1.jar",
+                    "sha1": "6c65b12883017a86f9a0f5a7e6d0a79043232185",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "com.google.guava:failureaccess:1.0.1",
+            "downloads": {
+                "artifact": {
+                    "path": "com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar",
+                    "sha1": "52629850c950a97b2b73715c0dd2342981504",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "io.netty:netty-buffer:4.1.82.Final",
+            "downloads": {
+                "artifact": {
+                    "path": "io/netty/netty-buffer/4.1.82.Final/netty-buffer-4.1.82.Final.jar",
+                    "sha1": "c86e2469850c950a97b2b73715c0dd2342981504",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "io.netty:netty-codec:4.1.82.Final",
+            "downloads": {
+                "artifact": {
+                    "path": "io/netty/netty-codec/4.1.82.Final/netty-codec-4.1.82.Final.jar",
+                    "sha1": "6c65b12883017a86f9a0f5a7e6d0a79043232185",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "io.netty:netty-common:4.1.82.Final",
+            "downloads": {
+                "artifact": {
+                    "path": "io/netty/netty-common/4.1.82.Final/netty-common-4.1.82.Final.jar",
+                    "sha1": "52629850c950a97b2b73715c0dd2342981504",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "io.netty:netty-handler:4.1.82.Final",
+            "downloads": {
+                "artifact": {
+                    "path": "io/netty/netty-handler/4.1.82.Final/netty-handler-4.1.82.Final.jar",
+                    "sha1": "c86e2469850c950a97b2b73715c0dd2342981504",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "io.netty:netty-resolver:4.1.82.Final",
+            "downloads": {
+                "artifact": {
+                    "path": "io/netty/netty-resolver/4.1.82.Final/netty-resolver-4.1.82.Final.jar",
+                    "sha1": "6c65b12883017a86f9a0f5a7e6d0a79043232185",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "io.netty:netty-transport:4.1.82.Final",
+            "downloads": {
+                "artifact": {
+                    "path": "io/netty/netty-transport/4.1.82.Final/netty-transport-4.1.82.Final.jar",
+                    "sha1": "52629850c950a97b2b73715c0dd2342981504",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "io.netty:netty-transport-classes-epoll:4.1.82.Final",
+            "downloads": {
+                "artifact": {
+                    "path": "io/netty/netty-transport-classes-epoll/4.1.82.Final/netty-transport-classes-epoll-4.1.82.Final.jar",
+                    "sha1": "c86e2469850c950a97b2b73715c0dd2342981504",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "io.netty:netty-transport-native-unix-common:4.1.82.Final",
+            "downloads": {
+                "artifact": {
+                    "path": "io/netty/netty-transport-native-unix-common/4.1.82.Final/netty-transport-native-unix-common-4.1.82.Final.jar",
+                    "sha1": "6c65b12883017a86f9a0f5a7e6d0a79043232185",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "it.unimi.dsi:fastutil:8.5.9",
+            "downloads": {
+                "artifact": {
+                    "path": "it/unimi/dsi/fastutil/8.5.9/fastutil-8.5.9.jar",
+                    "sha1": "52629850c950a97b2b73715c0dd2342981504",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "org.joml:joml:1.10.5",
+            "downloads": {
+                "artifact": {
+                    "path": "org/joml/joml/1.10.5/joml-1.10.5.jar",
+                    "sha1": "c86e2469850c950a97b2b73715c0dd2342981504",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "org.lwjgl:lwjgl:3.3.1",
+            "downloads": {
+                "artifact": {
+                    "path": "org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1.jar",
+                    "sha1": "6c65b12883017a86f9a0f5a7e6d0a79043232185",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "org.lwjgl:lwjgl-glfw:3.3.1",
+            "downloads": {
+                "artifact": {
+                    "path": "org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1.jar",
+                    "sha1": "52629850c950a97b2b73715c0dd2342981504",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "org.lwjgl:lwjgl-jemalloc:3.3.1",
+            "downloads": {
+                "artifact": {
+                    "path": "org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1.jar",
+                    "sha1": "c86e2469850c950a97b2b73715c0dd2342981504",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "org.lwjgl:lwjgl-openal:3.3.1",
+            "downloads": {
+                "artifact": {
+                    "path": "org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1.jar",
+                    "sha1": "6c65b12883017a86f9a0f5a7e6d0a79043232185",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "org.lwjgl:lwjgl-opengl:3.3.1",
+            "downloads": {
+                "artifact": {
+                    "path": "org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1.jar",
+                    "sha1": "52629850c950a97b2b73715c0dd2342981504",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "org.lwjgl:lwjgl-stb:3.3.1",
+            "downloads": {
+                "artifact": {
+                    "path": "org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1.jar",
+                    "sha1": "c86e2469850c950a97b2b73715c0dd2342981504",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "org.lwjgl:lwjgl-tinyfd:3.3.1",
+            "downloads": {
+                "artifact": {
+                    "path": "org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1.jar",
+                    "sha1": "6c65b12883017a86f9a0f5a7e6d0a79043232185",
+                    "size": 5262
+                }
+            }
+        },
+        {
+            "name": "org.lwjgl:lwjgl-natives:3.3.1",
+            "downloads": {
+                "artifact": {
+                    "path": "org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1-natives-windows.jar",
+                    "sha1": "52629850c950a97b2b73715c0dd2342981504",
+                    "size": 5262
+                }
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "windows"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "org.lwjgl:lwjgl-glfw-natives:3.3.1",
+            "downloads": {
+                "artifact": {
+                    "path": "org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1-natives-windows.jar",
+                    "sha1": "c86e2469850c950a97b2b73715c0dd2342981504",
+                    "size": 5262
+                }
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "windows"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "org.lwjgl:lwjgl-jemalloc-natives:3.3.1",
+            "downloads": {
+                "artifact": {
+                    "path": "org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1-natives-windows.jar",
+                    "sha1": "6c65b12883017a86f9a0f5a7e6d0a79043232185",
+                    "size": 5262
+                }
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "windows"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "org.lwjgl:lwjgl-openal-natives:3.3.1",
+            "downloads": {
+                "artifact": {
+                    "path": "org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1-natives-windows.jar",
+                    "sha1": "52629850c950a97b2b73715c0dd2342981504",
+                    "size": 5262
+                }
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "windows"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "org.lwjgl:lwjgl-opengl-natives:3.3.1",
+            "downloads": {
+                "artifact": {
+                    "path": "org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1-natives-windows.jar",
+                    "sha1": "c86e2469850c950a97b2b73715c0dd2342981504",
+                    "size": 5262
+                }
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "windows"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "org.lwjgl:lwjgl-stb-natives:3.3.1",
+            "downloads": {
+                "artifact": {
+                    "path": "org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1-natives-windows.jar",
+                    "sha1": "6c65b12883017a86f9a0f5a7e6d0a79043232185",
+                    "size": 5262
+                }
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "windows"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "org.lwjgl:lwjgl-tinyfd-natives:3.3.1",
+            "downloads": {
+                "artifact": {
+                    "path": "org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1-natives-windows.jar",
+                    "sha1": "52629850c950a97b2b73715c0dd2342981504",
+                    "size": 5262
+                }
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "windows"
+                    }
+                }
+            ]
+        },
+        
+        {
+            "name": "cpw.mods:securejarhandler:2.1.10",
+            "downloads": {
+                "artifact": {
+                    "path": "cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar",
+                    "sha1": "51e6a22c6c716beb11e244bf5b8be480f51dd6b5",
+                    "size": 88749
+                }
+            }
+        },
+        {
+            "name": "org.ow2.asm:asm:9.8",
+            "downloads": {
+                "artifact": {
+                    "path": "org/ow2/asm/asm/9.8/asm-9.8.jar",
+                    "sha1": "dc19ecb3f7889b7860697215cae99c0f9b6f6b4b",
+                    "size": 126113
+                }
+            }
+        },
+        {
+            "name": "org.ow2.asm:asm-commons:9.8",
+            "downloads": {
+                "artifact": {
+                    "path": "org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar",
+                    "sha1": "36e4d212970388e5bd2c5180292012502df461bb",
+                    "size": 73498
+                }
+            }
+        },
+        {
+            "name": "org.ow2.asm:asm-tree:9.8",
+            "downloads": {
+                "artifact": {
+                    "path": "org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar",
+                    "sha1": "018419ca5b77a2f81097c741e7872e6ab8d2f40d",
+                    "size": 51934
+                }
+            }
+        },
+        {
+            "name": "org.ow2.asm:asm-util:9.8",
+            "downloads": {
+                "artifact": {
+                    "path": "org/ow2/asm/asm-util/9.8/asm-util-9.8.jar",
+                    "sha1": "395f1c1f035258511f27bc9b2583d76e4b143f59",
+                    "size": 94559
+                }
+            }
+        },
+        {
+            "name": "org.ow2.asm:asm-analysis:9.8",
+            "downloads": {
+                "artifact": {
+                    "path": "org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar",
+                    "sha1": "b9747a320844b6cb1eacd90d8ecfd260a16c01d3",
+                    "size": 35151
+                }
+            }
+        },
+        {
+            "name": "net.minecraftforge:accesstransformers:8.0.4",
+            "downloads": {
+                "artifact": {
+                    "path": "net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar",
+                    "sha1": "272d240aa73f42195b2a68e2ebd8b701ecf41f63",
+                    "size": 77756
+                }
+            }
+        },
+        {
+            "name": "org.antlr:antlr4-runtime:4.9.1",
+            "downloads": {
+                "artifact": {
+                    "path": "org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar",
+                    "sha1": "428664f05d2b7f7b7610204b5aa7c1763f62011a",
+                    "size": 337868
+                }
+            }
+        },
+        {
+            "name": "net.minecraftforge:eventbus:6.0.5",
+            "downloads": {
+                "artifact": {
+                    "path": "net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar",
+                    "sha1": "699143dd438431d06b57416944f7cedbe52e1475",
+                    "size": 53985
+                }
+            }
+        },
+        {
+            "name": "net.minecraftforge:forgespi:7.0.1",
+            "downloads": {
+                "artifact": {
+                    "path": "net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar",
+                    "sha1": "3b4972a0cdb135853dba219be61a79b22cff1309",
+                    "size": 29831
+                }
+            }
+        },
+        {
+            "name": "net.minecraftforge:coremods:5.2.4",
+            "downloads": {
+                "artifact": {
+                    "path": "net/minecraftforge/coremods/5.2.4/coremods-5.2.4.jar",
+                    "sha1": "e30bab269d896613e38396274711410b3a0e4b87",
+                    "size": 31872
+                }
+            }
+        },
+        {
+            "name": "cpw.mods:modlauncher:10.0.9",
+            "downloads": {
+                "artifact": {
+                    "path": "cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar",
+                    "sha1": "06d9443f56f50bb85cea383686ff9c867391458b",
+                    "size": 130343
+                }
+            }
+        },
+        {
+            "name": "net.minecraftforge:unsafe:0.2.0",
+            "downloads": {
+                "artifact": {
+                    "path": "net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar",
+                    "sha1": "54d7a0a5e8fdb71b973025caa46f341ae5904f39",
+                    "size": 2834
+                }
+            }
+        },
+        {
+            "name": "net.minecraftforge:mergetool:1.1.5:api",
+            "downloads": {
+                "artifact": {
+                    "path": "net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar",
+                    "sha1": "f3da18e12c696d35a47c82cbb2cc8b5aa15e1154",
+                    "size": 2572
+                }
+            }
+        },
+        {
+            "name": "com.electronwill.night-config:core:3.6.4",
+            "downloads": {
+                "artifact": {
+                    "path": "com/electronwill/night-config/core/3.6.4/core-3.6.4.jar",
+                    "sha1": "510f174abbf1c947494db50ef2445683bd52c230",
+                    "size": 199834
+                }
+            }
+        },
+        {
+            "name": "com.electronwill.night-config:toml:3.6.4",
+            "downloads": {
+                "artifact": {
+                    "path": "com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar",
+                    "sha1": "51d6cefb2b55ee55ee26b16391212fb2c7dfb4f4",
+                    "size": 31816
+                }
+            }
+        },
+        {
+            "name": "org.apache.maven:maven-artifact:3.8.5",
+            "downloads": {
+                "artifact": {
+                    "path": "org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar",
+                    "sha1": "4433f50c07debefaed0553bd0068f4f48d449313",
+                    "size": 58077
+                }
+            }
+        },
+        {
+            "name": "net.jodah:typetools:0.6.3",
+            "downloads": {
+                "artifact": {
+                    "path": "net/jodah/typetools/0.6.3/typetools-0.6.3.jar",
+                    "sha1": "a01aaa6ddaea9ec07ec4f209487b7a46a526283a",
+                    "size": 18281
+                }
+            }
+        },
+        {
+            "name": "net.minecrell:terminalconsoleappender:1.2.0",
+            "downloads": {
+                "artifact": {
+                    "path": "net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar",
+                    "sha1": "96d02cd3b384ff015a8fef4223bcb4ccf1717c95",
+                    "size": 15977
+                }
+            }
+        },
+        {
+            "name": "org.jline:jline-reader:3.12.1",
+            "downloads": {
+                "artifact": {
+                    "path": "org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar",
+                    "sha1": "4382ab1382c7b6f379377ed5f665dc2f6e1218bc",
+                    "size": 150765
+                }
+            }
+        },
+        {
+            "name": "org.jline:jline-terminal:3.12.1",
+            "downloads": {
+                "artifact": {
+                    "path": "org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar",
+                    "sha1": "c777448314e050d980a6b697c140f3bfe9eb7416",
+                    "size": 211712
+                }
+            }
+        },
+        {
+            "name": "org.spongepowered:mixin:0.8.5",
+            "downloads": {
+                "artifact": {
+                    "path": "org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar",
+                    "sha1": "9d1c0c3a304ae6697ecd477218fa61b850bf57fc",
+                    "size": 1089277
+                }
+            }
+        },
+        {
+            "name": "org.openjdk.nashorn:nashorn-core:15.4",
+            "downloads": {
+                "artifact": {
+                    "path": "org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar",
+                    "sha1": "f67f5ffaa5f5130cf6fb9b133da00c7df3b532a5",
+                    "size": 2167292
+                }
+            }
+        },
+        {
+            "name": "net.minecraftforge:JarJarSelector:0.3.19",
+            "downloads": {
+                "artifact": {
+                    "path": "net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar",
+                    "sha1": "376cc9c8ea60720cf027c01fc033de915699801c",
+                    "size": 17374
+                }
+            }
+        },
+        {
+            "name": "net.minecraftforge:JarJarMetadata:0.3.19",
+            "downloads": {
+                "artifact": {
+                    "path": "net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar",
+                    "sha1": "0083feaa9b770e6ac0e96ee4fc23fa89325c5fe2",
+                    "size": 15895
+                }
+            }
+        },
+        {
+            "name": "cpw.mods:bootstraplauncher:1.1.2",
+            "downloads": {
+                "artifact": {
+                    "path": "cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar",
+                    "sha1": "0c546e00443d8432cda6baa1c860346980742628",
+                    "size": 8284
+                }
+            }
+        },
+        {
+            "name": "net.minecraftforge:JarJarFileSystems:0.3.19",
+            "downloads": {
+                "artifact": {
+                    "path": "net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar",
+                    "sha1": "2464eb7d6b9ddb9db36a82cf8a95193e5c6fe020",
+                    "size": 32195
+                }
+            }
+        },
+        {
+            "name": "net.minecraftforge:fmlloader:1.20.1-47.4.10",
+            "downloads": {
+                "artifact": {
+                    "path": "net/minecraftforge/fmlloader/1.20.1-47.4.10/fmlloader-1.20.1-47.4.10.jar",
+                    "sha1": "55c46d27e7cfc8b829af8a28e562a7d290fa38b6",
+                    "size": 267079
+                }
+            }
+        },
+        {
+            "name": "net.minecraftforge:fmlearlydisplay:1.20.1-47.4.10",
+            "downloads": {
+                "artifact": {
+                    "path": "net/minecraftforge/fmlearlydisplay/1.20.1-47.4.10/fmlearlydisplay-1.20.1-47.4.10.jar",
+                    "sha1": "a262fa19e65f643aae210b4275b53bee053aa765",
+                    "size": 170518
+                }
+            }
+        }
+    ]
+}

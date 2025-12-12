@@ -3277,15 +3277,9 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/versions/1.20.1/1.20.1.jar"
     },
     {
-      "path": "versions/1.20.1-forge-47.4.10/1.20.1-forge-47.4.10.jar",
-      "sha1": "0c3ec587af28e5a785c0b4a7b8a30f9a8f78f838",
-      "size": 23028853,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/versions/1.20.1-forge-47.4.10/1.20.1-forge-47.4.10.jar"
-    },
-    {
       "path": "versions/1.20.1-forge-47.4.10/1.20.1-forge-47.4.10.json",
-      "sha1": "7df0e0f336b41bda764f1e863b56872faee1caf8",
-      "size": 16554,
+      "sha1": "3171aafcfacf08424d25a9e48af530fa1fbd8989",
+      "size": 33936,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/versions/1.20.1-forge-47.4.10/1.20.1-forge-47.4.10.json"
     }
   ]
