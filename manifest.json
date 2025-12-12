@@ -709,12 +709,6 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/cpw/mods/modlauncher/9.1.3/modlauncher-9.1.3.jar"
     },
     {
-      "path": "libraries/cpw/mods/securejarhandler/1.0.8/securejarhandler-1.0.8.jar",
-      "sha1": "94c7b14c960e1b6cb37337d81ad4ec5932f7595c",
-      "size": 85028,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/cpw/mods/securejarhandler/1.0.8/securejarhandler-1.0.8.jar"
-    },
-    {
       "path": "libraries/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar",
       "sha1": "51e6a22c6c716beb11e244bf5b8be480f51dd6b5",
       "size": 88749,
@@ -725,12 +719,6 @@
       "sha1": "f7fe41c544af39b1ba560d33f9220bb504946d8b",
       "size": 40,
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar.sha1"
-    },
-    {
-      "path": "libraries/cpw/mods/securejarhandler/3.0.8/securejarhandler-3.0.8.jar",
-      "sha1": "c0ef95cecd8699a0449053ac7d9c160748d902cd",
-      "size": 103765,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/cpw/mods/securejarhandler/3.0.8/securejarhandler-3.0.8.jar"
     },
     {
       "path": "libraries/de/oceanlabs/mcp/mcp_config/1.18.2-20220404.173914/mcp_config-1.18.2-20220404.173914-mappings-merged.txt",
