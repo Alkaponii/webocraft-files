@@ -1,18 +1,11 @@
 {
-    "_comment_": [
-        "Please do not automate the download and installation of Forge.",
-        "Our efforts are supported by ads from the download page.",
-        "If you MUST automate this, please consider supporting the project through https://www.patreon.com/LexManos/"
-    ],
     "id": "1.20.1-forge-47.4.10",
     "time": "2025-10-09T22:56:29+00:00",
     "releaseTime": "2025-10-09T22:56:29+00:00",
     "type": "release",
     "mainClass": "cpw.mods.bootstraplauncher.BootstrapLauncher",
     "inheritsFrom": "1.20.1",
-    "logging": {
-        
-    },
+    "logging": {},
     "arguments": {
         "game": [
             "--launchTarget",
@@ -27,12 +20,16 @@
             "20230612.114412"
         ],
         "jvm": [
-	    "--module-path", "${classpath}",
-	    "--add-modules", "ALL-MODULE-PATH",
             "-Djava.net.preferIPv6Addresses=system",
             "-DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,${version_name}.jar",
             "-DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar",
             "-DlibraryDirectory=${library_directory}",
+            
+            // --- CÓDIGO CRÍTICO AÑADIDO ---
+            "--module-path", "${classpath}", 
+            "--add-modules", "ALL-MODULE-PATH",
+            // -----------------------------
+            
             "-p",
             "${library_directory}/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.8/asm-9.8.jar${classpath_separator}${library_directory}/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar",
             "--add-opens",
