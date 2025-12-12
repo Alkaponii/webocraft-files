@@ -721,6 +721,12 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
     },
     {
+      "path": "libraries/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar.sha1",
+      "sha1": "f7fe41c544af39b1ba560d33f9220bb504946d8b",
+      "size": 40,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar.sha1"
+    },
+    {
       "path": "libraries/cpw/mods/securejarhandler/3.0.8/securejarhandler-3.0.8.jar",
       "sha1": "c0ef95cecd8699a0449053ac7d9c160748d902cd",
       "size": 103765,
