@@ -1147,34 +1147,22 @@
       "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
     },
     {
-      "path": "libraries/net/minecraftforge/fmlcore/1.18.2-40.2.17/fmlcore-1.18.2-40.2.17.jar",
-      "sha1": "fcb8a7063c3a86af22acb4a9eded5e9667f65a3c",
-      "size": 111968,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.17/fmlcore-1.18.2-40.2.17.jar"
+      "path": "libraries/net/minecraftforge/fmlcore/1.20.1-47.4.10/fmlcore-1.20.1-47.4.10.jar",
+      "sha1": "94dae566be650566ea9115a1414ab76bfcf5a804",
+      "size": 118913,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.10/fmlcore-1.20.1-47.4.10.jar"
     },
     {
-      "path": "libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar",
-      "sha1": "235975dafa4309945b59c56b53f31dc5b65a6051",
-      "size": 118914,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar"
+      "path": "libraries/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.10/fmlearlydisplay-1.20.1-47.4.10.jar",
+      "sha1": "a262fa19e65f643aae210b4275b53bee053aa765",
+      "size": 170518,
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.10/fmlearlydisplay-1.20.1-47.4.10.jar"
     },
     {
-      "path": "libraries/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.0/fmlearlydisplay-1.20.1-47.4.0.jar",
-      "sha1": "5a0c2d1a65a422bd0e64548e58b70f4d011ef788",
-      "size": 170517,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.0/fmlearlydisplay-1.20.1-47.4.0.jar"
-    },
-    {
-      "path": "libraries/net/minecraftforge/fmlloader/1.18.2-40.2.17/fmlloader-1.18.2-40.2.17.jar",
-      "sha1": "211c1d20c8c61ee52cd10936f97da25a39b3f155",
-      "size": 257597,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/fmlloader/1.18.2-40.2.17/fmlloader-1.18.2-40.2.17.jar"
-    },
-    {
-      "path": "libraries/net/minecraftforge/fmlloader/1.20.1-47.4.0/fmlloader-1.20.1-47.4.0.jar",
-      "sha1": "350292a3c597f65d130e48b6e419a2b21cba2ac1",
+      "path": "libraries/net/minecraftforge/fmlloader/1.20.1-47.4.10/fmlloader-1.20.1-47.4.10.jar",
+      "sha1": "55c46d27e7cfc8b829af8a28e562a7d290fa38b6",
       "size": 267079,
-      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/fmlloader/1.20.1-47.4.0/fmlloader-1.20.1-47.4.0.jar"
+      "url": "https://raw.githubusercontent.com/Alkaponii/webocraft-files/main/archivos_juego/libraries/net/minecraftforge/fmlloader/1.20.1-47.4.10/fmlloader-1.20.1-47.4.10.jar"
     },
     {
       "path": "libraries/net/minecraftforge/forge/1.18.2-40.2.17/forge-1.18.2-40.2.17-client.jar",
